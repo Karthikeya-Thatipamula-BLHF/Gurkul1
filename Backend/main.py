@@ -20,10 +20,19 @@ sys.path.insert(0, str(backend_dir))
 
 # Configure logging
 logging.basicConfig(
-    level=logging.INFO,
+    level=getattr(logging, os.getenv("LOG_LEVEL", "INFO")),
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 )
 logger = logging.getLogger(__name__)
+
+# Import security middleware
+try:
+    from middleware.security import setup_security_middleware
+    SECURITY_AVAILABLE = True
+    logger.info("✅ Security middleware available")
+except ImportError:
+    logger.warning("⚠️ Security middleware not available")
+    SECURITY_AVAILABLE = False
 
 # Create main FastAPI app
 app = FastAPI(
@@ -50,6 +59,14 @@ app.add_middleware(
     allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
     allow_headers=["*"],
 )
+
+# Add security middleware if available
+if SECURITY_AVAILABLE:
+    redis_url = os.getenv("REDIS_URL")
+    setup_security_middleware(app, redis_url)
+    logger.info("✅ Security middleware configured")
+else:
+    logger.warning("⚠️ Running without security middleware")
 
 @app.get("/")
 async def root():

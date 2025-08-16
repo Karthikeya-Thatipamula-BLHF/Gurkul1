@@ -12,6 +12,10 @@ import time
 import requests
 from pathlib import Path
 from typing import Dict, List, Optional
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv("Backend/.env")
 
 class Colors:
     GREEN = '\033[92m'
@@ -210,10 +214,16 @@ class RenderDeployer:
 """
         
         checklist_file = self.project_root / "RENDER_DEPLOYMENT_CHECKLIST.md"
-        checklist_file.write_text(checklist)
-        
-        self.print_status("✅ Deployment checklist created", "SUCCESS")
-        return True
+        try:
+            checklist_file.write_text(checklist, encoding='utf-8')
+            self.print_status("✅ Deployment checklist created", "SUCCESS")
+            return True
+        except UnicodeEncodeError:
+            # Fallback for Windows encoding issues
+            checklist_simple = checklist.encode('ascii', 'ignore').decode('ascii')
+            checklist_file.write_text(checklist_simple, encoding='utf-8')
+            self.print_status("✅ Deployment checklist created (simplified)", "SUCCESS")
+            return True
 
     def generate_deployment_guide(self) -> bool:
         """Generate comprehensive deployment guide"""
@@ -316,10 +326,16 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 """
         
         guide_file = self.project_root / "RENDER_DEPLOYMENT_GUIDE.md"
-        guide_file.write_text(guide)
-        
-        self.print_status("✅ Deployment guide created", "SUCCESS")
-        return True
+        try:
+            guide_file.write_text(guide, encoding='utf-8')
+            self.print_status("✅ Deployment guide created", "SUCCESS")
+            return True
+        except UnicodeEncodeError:
+            # Fallback for Windows encoding issues
+            guide_simple = guide.encode('ascii', 'ignore').decode('ascii')
+            guide_file.write_text(guide_simple, encoding='utf-8')
+            self.print_status("✅ Deployment guide created (simplified)", "SUCCESS")
+            return True
 
     def run_deployment_preparation(self) -> bool:
         """Run complete deployment preparation"""
