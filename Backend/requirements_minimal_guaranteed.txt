@@ -1,0 +1,28 @@
+# ========================================
+# GURUKUL PLATFORM - MINIMAL GUARANTEED REQUIREMENTS
+# ========================================
+# Absolute minimal dependencies that work on any Python version
+
+# ========================================
+# CORE WEB FRAMEWORK
+# ========================================
+fastapi==0.115.4
+uvicorn==0.32.0
+pydantic==2.10.2
+
+# ========================================
+# DATABASE DRIVERS
+# ========================================
+pymongo==4.10.1
+python-dotenv==1.0.1
+
+# ========================================
+# AI SERVICES (ESSENTIAL ONLY)
+# ========================================
+openai==1.54.4
+requests==2.32.3
+
+# ========================================
+# UTILITIES
+# ========================================
+python-dateutil==2.9.0
