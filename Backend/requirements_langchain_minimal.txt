@@ -1,0 +1,52 @@
+# ========================================
+# MINIMAL LANGCHAIN REQUIREMENTS
+# ========================================
+# Only essential LangChain packages to avoid conflicts
+
+# ========================================
+# BUILD DEPENDENCIES (PYTHON 3.12 FIX)
+# ========================================
+setuptools>=69.0.0
+wheel>=0.42.0
+
+# ========================================
+# CORE WEB FRAMEWORK
+# ========================================
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# ========================================
+# DATABASE DRIVERS
+# ========================================
+pymongo==4.6.0
+python-dotenv==1.0.0
+
+# ========================================
+# AI/ML LIBRARIES - MINIMAL LANGCHAIN
+# ========================================
+# Only core LangChain packages
+langchain-core==0.1.52
+langchain==0.1.20
+langchain-openai==0.1.23
+
+# AI services
+openai==1.51.0
+groq==0.11.0
+
+# ========================================
+# DATA PROCESSING
+# ========================================
+numpy==1.24.4
+pandas==2.1.4
+
+# ========================================
+# HTTP & API CLIENTS
+# ========================================
+requests==2.31.0
+
+# ========================================
+# UTILITIES
+# ========================================
+python-dateutil==2.8.2

@@ -1,0 +1,19 @@
+# ========================================
+# DEPENDENCY CONSTRAINTS FILE
+# ========================================
+# Forces compatible versions to resolve conflicts
+
+# LangChain core constraint
+langchain-core==0.1.52
+
+# Compatible LangChain packages
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.23
+langchain-google-genai==1.0.10
+langchain-groq==0.1.5
+langgraph==0.0.62
+
+# Build tools
+setuptools>=69.0.0
+wheel>=0.42.0
