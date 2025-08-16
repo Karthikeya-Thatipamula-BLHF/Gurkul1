@@ -1,0 +1,50 @@
+# ========================================
+# PANDAS 2.1.4 WORKAROUND FOR PYTHON 3.13
+# ========================================
+# Install pre-compiled wheels to avoid compilation
+
+# Core Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# Database
+pymongo==4.6.0
+motor==3.3.2
+
+# Authentication & Security
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# AI/ML Libraries
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.23
+langchain-google-genai==1.0.10
+
+# AI Services
+openai==1.51.0
+google-generativeai==0.8.3
+groq==0.11.0
+
+# Data Processing - Use pre-compiled wheels
+# Install numpy first to avoid compilation issues
+numpy==1.24.4
+
+# Try to install pandas from pre-compiled wheel
+# If this fails, the build script will handle it
+pandas==2.1.4
+
+# HTTP & API
+requests==2.31.0
+httpx==0.25.2
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+pyyaml==6.0.1
+
+# Supabase
+supabase==2.0.0
