@@ -70,6 +70,7 @@ async def health_check():
             client = MongoClient(os.getenv("MONGODB_URI"), serverSelectionTimeoutMS=5000)
             client.admin.command('ping')
             db_status = "connected"
+            client.close()
         except Exception as e:
             logger.error(f"Database connection failed: {e}")
             db_status = "disconnected"

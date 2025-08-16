@@ -1,63 +1,37 @@
 # ========================================
 # GURUKUL PLATFORM - RENDER.COM REQUIREMENTS
 # ========================================
-# Minimal, tested dependencies for Render deployment
+# Ultra-minimal, Python 3.13 compatible dependencies
 
 # ========================================
 # CORE WEB FRAMEWORK
 # ========================================
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-pydantic==2.5.0
-python-multipart==0.0.6
+fastapi==0.115.4
+uvicorn[standard]==0.32.0
+pydantic==2.10.2
+python-multipart==0.0.12
 
 # ========================================
 # DATABASE DRIVERS
 # ========================================
-pymongo==4.6.0
-motor==3.3.2
+pymongo==4.10.1
+python-dotenv==1.0.1
 
 # ========================================
-# AUTHENTICATION & SECURITY
+# AI SERVICES (ESSENTIAL ONLY)
 # ========================================
-python-jose[cryptography]==3.3.0
-passlib[bcrypt]==1.7.4
-python-dotenv==1.0.0
-
-# ========================================
-# AI/ML LIBRARIES (ESSENTIAL ONLY)
-# ========================================
-# LangChain ecosystem - Working versions
-langchain==0.1.20
-langchain-community==0.0.38
-langchain-openai==0.1.23
-langchain-google-genai==2.1.9
-
-# AI services
-openai==1.51.0
+openai==1.54.4
 google-generativeai==0.8.3
-groq==0.11.0
+groq==0.12.0
 
 # ========================================
 # HTTP & API CLIENTS
 # ========================================
-requests==2.31.0
-httpx==0.25.2
+requests==2.32.3
+httpx==0.27.2
 
 # ========================================
 # UTILITIES
 # ========================================
-python-dateutil==2.8.2
-pytz==2023.3
-pyyaml==6.0.1
-
-# ========================================
-# SUPABASE CLIENT
-# ========================================
-supabase==2.0.0
-
-# ========================================
-# ADDITIONAL CORE DEPENDENCIES
-# ========================================
-pandas==2.1.4
-numpy==1.24.3
+python-dateutil==2.9.0
+pyyaml==6.0.2
