@@ -1,0 +1,130 @@
+# ========================================
+# GURUKUL PLATFORM - PRODUCTION REQUIREMENTS
+# ========================================
+# Comprehensive dependency list for production deployment
+
+# ========================================
+# CORE WEB FRAMEWORK
+# ========================================
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# ========================================
+# DATABASE DRIVERS
+# ========================================
+pymongo==4.6.0
+motor==3.3.2
+redis==5.0.1
+
+# ========================================
+# AUTHENTICATION & SECURITY
+# ========================================
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# ========================================
+# AI/ML LIBRARIES
+# ========================================
+# LangChain ecosystem
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-groq==0.1.0
+langchain-openai==0.1.0
+langchain-google-genai==0.1.0
+langgraph==0.0.30
+
+# OpenAI and AI services
+openai==1.6.0
+google-generativeai==0.3.2
+groq==0.4.0
+
+# ========================================
+# DATA PROCESSING
+# ========================================
+pandas==2.1.4
+numpy==1.24.3
+scipy==1.11.4
+
+# ========================================
+# DOCUMENT PROCESSING
+# ========================================
+PyMuPDF==1.23.14
+pypdf==3.17.4
+PyPDF2==3.0.1
+
+# ========================================
+# COMPUTER VISION & OCR
+# ========================================
+easyocr==1.7.0
+opencv-python==4.8.1.78
+Pillow==10.1.0
+
+# ========================================
+# TEXT-TO-SPEECH
+# ========================================
+pyttsx3==2.90
+gTTS==2.4.0
+
+# ========================================
+# TIME SERIES & FORECASTING
+# ========================================
+prophet==1.1.4
+statsmodels==0.14.0
+scikit-learn==1.3.2
+
+# ========================================
+# VECTOR DATABASES
+# ========================================
+faiss-cpu==1.7.4
+chromadb==0.4.18
+
+# ========================================
+# HTTP & API CLIENTS
+# ========================================
+requests==2.31.0
+httpx==0.25.2
+aiohttp==3.9.1
+
+# ========================================
+# MONITORING & LOGGING
+# ========================================
+structlog==23.2.0
+prometheus-client==0.19.0
+
+# ========================================
+# UTILITIES
+# ========================================
+python-dateutil==2.8.2
+pytz==2023.3
+pyyaml==6.0.1
+jsonschema==4.20.0
+psutil==5.9.6
+
+# ========================================
+# DEVELOPMENT & TESTING
+# ========================================
+pytest==7.4.3
+pytest-asyncio==0.21.1
+black==23.11.0
+isort==5.12.0
+
+# ========================================
+# FINANCIAL SIMULATOR SPECIFIC
+# ========================================
+agentops==0.2.0
+crewai==0.1.0
+
+# ========================================
+# SUPABASE CLIENT
+# ========================================
+supabase==2.0.0
+
+# ========================================
+# ADDITIONAL UTILITIES
+# ========================================
+schedule==1.2.0
+celery==5.3.4
+websockets==12.0

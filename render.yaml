@@ -1,0 +1,89 @@
+services:
+  # Main Backend Service
+  - type: web
+    name: gurukul-backend
+    env: python
+    region: oregon
+    plan: starter
+    buildCommand: |
+      cd Backend
+      pip install --upgrade pip
+      pip install -r requirements_production.txt
+    startCommand: |
+      cd Backend
+      python -m uvicorn main:app --host 0.0.0.0 --port $PORT --workers 1
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: HOST
+        value: 0.0.0.0
+      - key: PYTHON_VERSION
+        value: 3.11.0
+      - key: MONGODB_URL
+        fromDatabase:
+          name: gurukul-mongodb
+          property: connectionString
+      - key: REDIS_URL
+        fromDatabase:
+          name: gurukul-redis
+          property: connectionString
+      - key: GROQ_API_KEY
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: https://gurukul-frontend.onrender.com
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ENCRYPTION_KEY
+        generateValue: true
+      - key: SECRET_KEY
+        generateValue: true
+      - key: ENVIRONMENT
+        value: production
+      - key: DEBUG
+        value: false
+      - key: LOG_LEVEL
+        value: INFO
+    healthCheckPath: /health
+
+  # Frontend Service
+  - type: web
+    name: gurukul-frontend
+    env: node
+    region: oregon
+    plan: starter
+    buildCommand: |
+      cd "new frontend"
+      npm ci
+      npm run build:production
+    startCommand: |
+      cd "new frontend"
+      npm run preview
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: VITE_API_BASE_URL
+        value: https://gurukul-backend.onrender.com
+      - key: VITE_SUPABASE_URL
+        sync: false
+      - key: VITE_SUPABASE_ANON_KEY
+        sync: false
+    staticPublishPath: ./new frontend/dist
+    
+databases:
+  # MongoDB Database
+  - name: gurukul-mongodb
+    databaseName: gurukul
+    user: gurukul_user
+    plan: starter
+    
+  # Redis Cache
+  - name: gurukul-redis
+    plan: starter

@@ -1,0 +1,1001 @@
+age_years,best_deal_platform,best_price,condition_score,fuel_type,kms_reading,location,make,model,price_cardekho,price_cartrade,price_carwale,price_olx,price_per_km,price_sahivalue,price_spinny,scraped_at,source_platforms,transmission,variant,vehicle_id,year
+8,cartrade,227013,0.52,CNG,71266,"Bangalore, Karnataka",Renault,Unknown,,227013,,,3.19,,,2025-07-02T11:51:37.821909,cartrade,AMT,Base,cartrade_000000,2016
+3,sahivalue,370955,0.68,Electric,33839,"Nagpur, Maharashtra",Maruti Suzuki,Dzire,,,,,10.96,370955,,2025-07-02T11:51:37.821909,sahivalue,Automatic,VX,sahivalue_000001,2021
+2,carwale,929806,0.71,Petrol,23551,"Pune, Maharashtra",Toyota,Corolla,,,929806,,39.48,,,2025-07-02T11:51:37.821909,carwale,AMT,Base,carwale_000002,2022
+4,sahivalue,477321,0.54,Diesel,68219,"Pune, Maharashtra",Kia,Unknown,,,,,7.0,477321,,2025-07-02T11:51:37.821909,sahivalue,CVT,Top,sahivalue_000003,2020
+6,cartrade,331171,0.44,Electric,109415,"Bangalore, Karnataka",Hyundai,Elantra,,331171,,,3.03,,,2025-07-02T11:51:37.821909,cartrade,Manual,SX,cartrade_000004,2018
+1,spinny,663973,0.56,Hybrid,23678,"Kanpur, Uttar Pradesh",Nissan,Unknown,,,,,28.04,,663973,2025-07-02T11:51:37.821909,spinny,Manual,Mid,spinny_000005,2023
+7,cartrade,237029,0.48,CNG,96088,"Mumbai, Maharashtra",Hyundai,i20,,237029,,,2.47,,,2025-07-02T11:51:37.821909,cartrade,CVT,ZX,cartrade_000006,2017
+8,carwale,291356,0.51,Electric,74279,"Hyderabad, Telangana",Volkswagen,Unknown,,,291356,,3.92,,,2025-07-02T11:51:37.821909,carwale,CVT,SX,carwale_000007,2016
+4,cardekho,456014,0.49,Petrol,78010,"Ahmedabad, Gujarat",MG,Unknown,456014,,,,5.85,,,2025-07-02T11:51:37.821909,cardekho,AMT,Mid,cardekho_000008,2020
+5,cardekho,241120,0.5,Petrol,83239,"Nagpur, Maharashtra",Maruti Suzuki,Dzire,241120,,,,2.9,,,2025-07-02T11:51:37.821909,cardekho,CVT,Mid,cardekho_000009,2019
+8,cardekho,836820,0.36,CNG,143168,"Hyderabad, Telangana",Mercedes-Benz,C-Class,836820,,,,5.85,,,2025-07-02T11:51:37.821909,cardekho,Manual,ZX,cardekho_000010,2016
+2,spinny,466533,0.63,Diesel,32183,"Thane, Maharashtra",Maruti Suzuki,Ciaz,,,,,14.5,,466533,2025-07-02T11:51:37.821909,spinny,Automatic,Base,spinny_000011,2022
+8,cardekho,198264,0.39,Electric,130424,"Jaipur, Rajasthan",MG,Unknown,198264,,,,1.52,,,2025-07-02T11:51:37.821909,cardekho,AMT,LX,cardekho_000012,2016
+8,spinny,691906,0.5,Electric,80694,"Visakhapatnam, Andhra Pradesh",BMW,Z4,,,,,8.57,,691906,2025-07-02T11:51:37.821909,spinny,Manual,ZX,spinny_000013,2016
+0,carwale,2608165,1.0,CNG,0,"Bangalore, Karnataka",BMW,i8,,,2608165,,2608165.0,,,2025-07-02T11:51:37.821909,carwale,AMT,Base,carwale_000014,2024
+0,spinny,831476,1.0,Electric,0,"Delhi, Delhi",Skoda,Unknown,,,,,831476.0,,831476,2025-07-02T11:51:37.821909,spinny,Manual,LX,spinny_000015,2024
+1,olx,733422,0.67,Electric,16411,"Lucknow, Uttar Pradesh",Kia,Unknown,,,,733422,44.69,,,2025-07-02T11:51:37.821909,olx,AMT,SX,olx_000016,2023
+9,sahivalue,201944,0.4,Petrol,119167,"Kanpur, Uttar Pradesh",Kia,Unknown,,,,,1.69,201944,,2025-07-02T11:51:37.821909,sahivalue,Manual,EX,sahivalue_000017,2015
+2,cardekho,538631,0.74,Diesel,19830,"Indore, Madhya Pradesh",Jeep,Unknown,538631,,,,27.16,,,2025-07-02T11:51:37.821909,cardekho,CVT,SX,cardekho_000018,2022
+6,spinny,320440,0.43,CNG,111166,"Hyderabad, Telangana",Nissan,Unknown,,,,,2.88,,320440,2025-07-02T11:51:37.821909,spinny,Manual,SX,spinny_000019,2018
+7,sahivalue,179890,0.53,CNG,73380,"Indore, Madhya Pradesh",Maruti Suzuki,Dzire,,,,,2.45,179890,,2025-07-02T11:51:37.821909,sahivalue,Automatic,VX,sahivalue_000020,2017
+9,carwale,636017,0.34,CNG,153348,"Thane, Maharashtra",Mercedes-Benz,GLC,,,636017,,4.15,,,2025-07-02T11:51:37.821909,carwale,CVT,EX,carwale_000021,2015
+1,carwale,523056,0.85,Diesel,6004,"Visakhapatnam, Andhra Pradesh",Maruti Suzuki,Vitara Brezza,,,523056,,87.12,,,2025-07-02T11:51:37.821909,carwale,Manual,Mid,carwale_000022,2023
+1,carwale,497766,0.78,Diesel,10194,"Kanpur, Uttar Pradesh",Maruti Suzuki,WagonR,,,497766,,48.83,,,2025-07-02T11:51:37.821909,carwale,Manual,VX,carwale_000023,2023
+2,cartrade,1881791,0.67,CNG,28329,"Ahmedabad, Gujarat",Audi,Q5,,1881791,,,66.43,,,2025-07-02T11:51:37.821909,cartrade,Automatic,LX,cartrade_000024,2022
+5,cartrade,291687,0.53,Hybrid,75568,"Thane, Maharashtra",Maruti Suzuki,Ertiga,,291687,,,3.86,,,2025-07-02T11:51:37.821909,cartrade,Automatic,VX,cartrade_000025,2019
+7,spinny,888780,0.38,Hybrid,135183,"Delhi, Delhi",Mercedes-Benz,S-Class,,,,,6.57,,888780,2025-07-02T11:51:37.821909,spinny,CVT,VX,spinny_000026,2017
+4,sahivalue,381436,0.63,Electric,46507,"Kanpur, Uttar Pradesh",Chevrolet,Unknown,,,,,8.2,381436,,2025-07-02T11:51:37.821909,sahivalue,Automatic,VX,sahivalue_000027,2020
+2,cardekho,594289,0.71,Electric,23671,"Delhi, Delhi",Chevrolet,Unknown,594289,,,,25.11,,,2025-07-02T11:51:37.821909,cardekho,AMT,ZX,cardekho_000028,2022
+3,spinny,389211,0.67,Electric,35546,"Visakhapatnam, Andhra Pradesh",Maruti Suzuki,Swift,,,,,10.95,,389211,2025-07-02T11:51:37.821909,spinny,AMT,Mid,spinny_000029,2021
+2,olx,779043,0.7,Hybrid,24836,"Visakhapatnam, Andhra Pradesh",Honda,CR-V,,,,779043,31.37,,,2025-07-02T11:51:37.821909,olx,CVT,EX,olx_000030,2022
+5,sahivalue,374128,0.48,CNG,89002,"Nagpur, Maharashtra",Nissan,Unknown,,,,,4.2,374128,,2025-07-02T11:51:37.821909,sahivalue,Manual,ZX,sahivalue_000031,2019
+1,cardekho,2685436,0.79,CNG,9667,"Bhopal, Madhya Pradesh",Mercedes-Benz,C-Class,2685436,,,,277.79,,,2025-07-02T11:51:37.821909,cardekho,Automatic,EX,cardekho_000032,2023
+1,sahivalue,722614,0.74,Diesel,12121,"Visakhapatnam, Andhra Pradesh",Chevrolet,Unknown,,,,,59.62,722614,,2025-07-02T11:51:37.821909,sahivalue,CVT,LX,sahivalue_000033,2023
+9,cardekho,623903,0.33,Hybrid,159428,"Kolkata, West Bengal",Audi,A3,623903,,,,3.91,,,2025-07-02T11:51:37.821909,cardekho,Automatic,SX,cardekho_000034,2015
+6,olx,978786,0.42,Diesel,115812,"Delhi, Delhi",Audi,A4,,,,978786,8.45,,,2025-07-02T11:51:37.821909,olx,AMT,VX,olx_000035,2018
+2,olx,1783724,0.62,Petrol,33703,"Lucknow, Uttar Pradesh",BMW,X5,,,,1783724,52.92,,,2025-07-02T11:51:37.821909,olx,AMT,LX,olx_000036,2022
+2,cardekho,603389,0.75,CNG,18902,"Jaipur, Rajasthan",Nissan,Unknown,603389,,,,31.92,,,2025-07-02T11:51:37.821909,cardekho,CVT,VX,cardekho_000037,2022
+6,cardekho,330011,0.61,Diesel,51945,"Kanpur, Uttar Pradesh",Hyundai,Grand i10,330011,,,,6.35,,,2025-07-02T11:51:37.821909,cardekho,AMT,LX,cardekho_000038,2018
+8,cartrade,330537,0.42,Petrol,116172,"Indore, Madhya Pradesh",Toyota,Corolla,,330537,,,2.85,,,2025-07-02T11:51:37.821909,cartrade,Manual,LX,cartrade_000039,2016
+9,carwale,709284,0.4,Diesel,119364,"Bangalore, Karnataka",Mercedes-Benz,GLA,,,709284,,5.94,,,2025-07-02T11:51:37.821909,carwale,CVT,Top,carwale_000040,2015
+4,sahivalue,369087,0.61,CNG,51320,"Thane, Maharashtra",Tata,Tigor,,,,,7.19,369087,,2025-07-02T11:51:37.821909,sahivalue,CVT,ZX,sahivalue_000041,2020
+3,cardekho,495602,0.73,Hybrid,25828,"Thane, Maharashtra",Skoda,Unknown,495602,,,,19.19,,,2025-07-02T11:51:37.821909,cardekho,AMT,SX,cardekho_000042,2021
+9,sahivalue,185611,0.48,Petrol,83483,"Kolkata, West Bengal",Skoda,Unknown,,,,,2.22,185611,,2025-07-02T11:51:37.821909,sahivalue,CVT,VX,sahivalue_000043,2015
+2,cartrade,586076,0.61,Petrol,35093,"Kanpur, Uttar Pradesh",Jeep,Unknown,,586076,,,16.7,,,2025-07-02T11:51:37.821909,cartrade,Manual,Base,cartrade_000044,2022
+6,cartrade,275762,0.42,CNG,115403,"Indore, Madhya Pradesh",Skoda,Unknown,,275762,,,2.39,,,2025-07-02T11:51:37.821909,cartrade,CVT,ZX,cartrade_000045,2018
+3,olx,505910,0.73,Hybrid,24638,"Mumbai, Maharashtra",Chevrolet,Unknown,,,,505910,20.53,,,2025-07-02T11:51:37.821909,olx,CVT,Top,olx_000046,2021
+0,sahivalue,3026501,1.0,CNG,4617,"Nagpur, Maharashtra",Mercedes-Benz,GLA,,,,,655.51,3026501,,2025-07-02T11:51:37.821909,sahivalue,AMT,SX,sahivalue_000047,2024
+6,carwale,1033751,0.46,Petrol,102872,"Pune, Maharashtra",Mercedes-Benz,GLA,,,1033751,,10.05,,,2025-07-02T11:51:37.821909,carwale,Manual,EX,carwale_000048,2018
+1,sahivalue,718148,0.63,Hybrid,18392,"Hyderabad, Telangana",Ford,Unknown,,,,,39.05,718148,,2025-07-02T11:51:37.821909,sahivalue,Automatic,LX,sahivalue_000049,2023
+2,sahivalue,522916,0.63,Diesel,32319,"Hyderabad, Telangana",Tata,Nexon,,,,,16.18,522916,,2025-07-02T11:51:37.821909,sahivalue,CVT,EX,sahivalue_000050,2022
+4,sahivalue,297215,0.5,Petrol,75411,"Lucknow, Uttar Pradesh",Maruti Suzuki,Baleno,,,,,3.94,297215,,2025-07-02T11:51:37.821909,sahivalue,Automatic,SX,sahivalue_000051,2020
+1,cartrade,2324214,0.78,Electric,10219,"Nagpur, Maharashtra",BMW,7 Series,,2324214,,,227.44,,,2025-07-02T11:51:37.821909,cartrade,Manual,Top,cartrade_000052,2023
+2,cartrade,601659,0.6,Petrol,36009,"Visakhapatnam, Andhra Pradesh",MG,Unknown,,601659,,,16.71,,,2025-07-02T11:51:37.821909,cartrade,Automatic,LX,cartrade_000053,2022
+8,carwale,269364,0.32,Petrol,161076,"Ahmedabad, Gujarat",Volkswagen,Unknown,,,269364,,1.67,,,2025-07-02T11:51:37.821909,carwale,Manual,EX,carwale_000054,2016
+0,olx,637164,1.0,CNG,4153,"Delhi, Delhi",Maruti Suzuki,Ertiga,,,,637164,153.42,,,2025-07-02T11:51:37.821909,olx,Automatic,Base,olx_000055,2024
+4,cardekho,416682,0.56,Diesel,62168,"Pune, Maharashtra",Nissan,Unknown,416682,,,,6.7,,,2025-07-02T11:51:37.821909,cardekho,CVT,SX,cardekho_000056,2020
+3,spinny,496581,0.65,Petrol,39651,"Pune, Maharashtra",Hyundai,Elite i20,,,,,12.52,,496581,2025-07-02T11:51:37.821909,spinny,AMT,Mid,spinny_000057,2021
+2,olx,709041,0.6,Hybrid,35829,"Pune, Maharashtra",Mahindra,Bolero,,,,709041,19.79,,,2025-07-02T11:51:37.821909,olx,CVT,ZX,olx_000058,2022
+9,spinny,169574,0.48,Hybrid,81954,"Nagpur, Maharashtra",Skoda,Unknown,,,,,2.07,,169574,2025-07-02T11:51:37.821909,spinny,AMT,Base,spinny_000059,2015
+7,carwale,380629,0.39,CNG,128986,"Mumbai, Maharashtra",Toyota,Glanza,,,380629,,2.95,,,2025-07-02T11:51:37.821909,carwale,CVT,EX,carwale_000060,2017
+2,cartrade,637215,0.54,Hybrid,42902,"Jaipur, Rajasthan",Mahindra,Scorpio,,637215,,,14.85,,,2025-07-02T11:51:37.821909,cartrade,Automatic,SX,cartrade_000061,2022
+2,spinny,697742,0.6,Electric,36274,"Nagpur, Maharashtra",Volkswagen,Unknown,,,,,19.24,,697742,2025-07-02T11:51:37.821909,spinny,AMT,LX,spinny_000062,2022
+1,olx,617916,0.81,Hybrid,8548,"Indore, Madhya Pradesh",Hyundai,Tucson,,,,617916,72.29,,,2025-07-02T11:51:37.822910,olx,CVT,VX,olx_000063,2023
+3,olx,1802716,0.72,Diesel,27309,"Indore, Madhya Pradesh",Mercedes-Benz,C-Class,,,,1802716,66.01,,,2025-07-02T11:51:37.822910,olx,Manual,EX,olx_000064,2021
+0,carwale,640929,1.0,Hybrid,553,"Bangalore, Karnataka",Tata,Harrier,,,640929,,1159.0,,,2025-07-02T11:51:37.822910,carwale,CVT,Base,carwale_000065,2024
+5,sahivalue,384936,0.57,Petrol,63570,"Hyderabad, Telangana",Chevrolet,Unknown,,,,,6.06,384936,,2025-07-02T11:51:37.822910,sahivalue,Manual,VX,sahivalue_000066,2019
+5,cardekho,320106,0.65,Electric,42377,"Lucknow, Uttar Pradesh",Renault,Unknown,320106,,,,7.55,,,2025-07-02T11:51:37.822910,cardekho,CVT,Top,cardekho_000067,2019
+9,spinny,247697,0.36,CNG,140077,"Bhopal, Madhya Pradesh",Honda,CR-V,,,,,1.77,,247697,2025-07-02T11:51:37.822910,spinny,CVT,Top,spinny_000068,2015
+8,cardekho,233796,0.48,Petrol,89034,"Pune, Maharashtra",Ford,Unknown,233796,,,,2.63,,,2025-07-02T11:51:37.822910,cardekho,Manual,EX,cardekho_000069,2016
+7,carwale,267037,0.42,Hybrid,119860,"Visakhapatnam, Andhra Pradesh",MG,Unknown,,,267037,,2.23,,,2025-07-02T11:51:37.822910,carwale,CVT,Base,carwale_000070,2017
+2,carwale,681604,0.65,Diesel,30923,"Chennai, Tamil Nadu",Volkswagen,Unknown,,,681604,,22.04,,,2025-07-02T11:51:37.822910,carwale,Manual,EX,carwale_000071,2022
+9,sahivalue,141378,0.37,CNG,137843,"Hyderabad, Telangana",Maruti Suzuki,Vitara Brezza,,,,,1.03,141378,,2025-07-02T11:51:37.822910,sahivalue,AMT,LX,sahivalue_000072,2015
+4,sahivalue,583871,0.62,CNG,50512,"Kanpur, Uttar Pradesh",Toyota,Fortuner,,,,,11.56,583871,,2025-07-02T11:51:37.822910,sahivalue,CVT,SX,sahivalue_000073,2020
+9,cardekho,199779,0.32,CNG,161542,"Kolkata, West Bengal",Hyundai,Verna,199779,,,,1.24,,,2025-07-02T11:51:37.822910,cardekho,Manual,Base,cardekho_000074,2015
+7,cartrade,205314,0.46,Hybrid,101823,"Bhopal, Madhya Pradesh",Maruti Suzuki,Vitara Brezza,,205314,,,2.02,,,2025-07-02T11:51:37.822910,cartrade,AMT,LX,cartrade_000075,2017
+3,cardekho,497155,0.59,Hybrid,48797,"Hyderabad, Telangana",MG,Unknown,497155,,,,10.19,,,2025-07-02T11:51:37.822910,cardekho,CVT,LX,cardekho_000076,2021
+3,olx,474604,0.7,Petrol,29572,"Kolkata, West Bengal",Renault,Unknown,,,,474604,16.05,,,2025-07-02T11:51:37.822910,olx,CVT,Top,olx_000077,2021
+5,spinny,419333,0.62,Petrol,51475,"Hyderabad, Telangana",Kia,Unknown,,,,,8.15,,419333,2025-07-02T11:51:37.822910,spinny,Automatic,ZX,spinny_000078,2019
+0,cardekho,955726,1.0,Electric,0,"Kolkata, West Bengal",Mahindra,KUV100,955726,,,,955726.0,,,2025-07-02T11:51:37.822910,cardekho,AMT,EX,cardekho_000079,2024
+5,spinny,387121,0.49,Petrol,88428,"Jaipur, Rajasthan",MG,Unknown,,,,,4.38,,387121,2025-07-02T11:51:37.822910,spinny,CVT,Base,spinny_000080,2019
+7,olx,207372,0.57,Hybrid,60855,"Hyderabad, Telangana",Tata,Altroz,,,,207372,3.41,,,2025-07-02T11:51:37.822910,olx,AMT,Mid,olx_000081,2017
+5,spinny,1350582,0.57,CNG,65207,"Delhi, Delhi",Audi,TT,,,,,20.71,,1350582,2025-07-02T11:51:37.822910,spinny,AMT,VX,spinny_000082,2019
+3,olx,523723,0.76,Hybrid,20524,"Mumbai, Maharashtra",Skoda,Unknown,,,,523723,25.52,,,2025-07-02T11:51:37.822910,olx,Automatic,ZX,olx_000083,2021
+1,olx,846489,0.8,Hybrid,9032,"Hyderabad, Telangana",Volkswagen,Unknown,,,,846489,93.72,,,2025-07-02T11:51:37.822910,olx,Manual,EX,olx_000084,2023
+4,cartrade,452556,0.55,Electric,65038,"Delhi, Delhi",Chevrolet,Unknown,,452556,,,6.96,,,2025-07-02T11:51:37.822910,cartrade,CVT,LX,cartrade_000085,2020
+1,spinny,831271,0.78,Electric,9989,"Bhopal, Madhya Pradesh",Honda,Jazz,,,,,83.22,,831271,2025-07-02T11:51:37.822910,spinny,Manual,SX,spinny_000086,2023
+5,olx,1203774,0.61,Electric,53366,"Kolkata, West Bengal",Audi,A8,,,,1203774,22.56,,,2025-07-02T11:51:37.822910,olx,CVT,Mid,olx_000087,2019
+5,spinny,425248,0.63,Diesel,49044,"Kolkata, West Bengal",Honda,BR-V,,,,,8.67,,425248,2025-07-02T11:51:37.822910,spinny,Manual,EX,spinny_000088,2019
+4,cartrade,447281,0.69,Hybrid,33221,"Lucknow, Uttar Pradesh",Ford,Unknown,,447281,,,13.46,,,2025-07-02T11:51:37.822910,cartrade,Manual,VX,cartrade_000089,2020
+2,spinny,559437,0.72,Petrol,22129,"Kolkata, West Bengal",Jeep,Unknown,,,,,25.28,,559437,2025-07-02T11:51:37.822910,spinny,Automatic,LX,spinny_000090,2022
+8,cartrade,704397,0.38,Petrol,136181,"Hyderabad, Telangana",BMW,X1,,704397,,,5.17,,,2025-07-02T11:51:37.822910,cartrade,AMT,SX,cartrade_000091,2016
+6,olx,324531,0.44,Petrol,109310,"Bangalore, Karnataka",Ford,Unknown,,,,324531,2.97,,,2025-07-02T11:51:37.822910,olx,Automatic,Mid,olx_000092,2018
+0,cardekho,663189,1.0,Diesel,2824,"Bangalore, Karnataka",Tata,Nexon,663189,,,,234.84,,,2025-07-02T11:51:37.822910,cardekho,Automatic,Top,cardekho_000093,2024
+6,cartrade,334131,0.51,Hybrid,85698,"Bhopal, Madhya Pradesh",Mahindra,Marazzo,,334131,,,3.9,,,2025-07-02T11:51:37.822910,cartrade,AMT,ZX,cartrade_000094,2018
+7,spinny,330772,0.36,Petrol,141337,"Mumbai, Maharashtra",Honda,Accord,,,,,2.34,,330772,2025-07-02T11:51:37.822910,spinny,AMT,Mid,spinny_000095,2017
+3,sahivalue,650761,0.73,Electric,25272,"Bangalore, Karnataka",Volkswagen,Unknown,,,,,25.75,650761,,2025-07-02T11:51:37.822910,sahivalue,AMT,Top,sahivalue_000096,2021
+0,olx,837881,1.0,Petrol,0,"Pune, Maharashtra",Ford,Unknown,,,,837881,837881.0,,,2025-07-02T11:51:37.822910,olx,AMT,VX,olx_000097,2024
+5,spinny,388714,0.56,Hybrid,66322,"Indore, Madhya Pradesh",Hyundai,Tucson,,,,,5.86,,388714,2025-07-02T11:51:37.822910,spinny,Manual,SX,spinny_000098,2019
+7,cardekho,239549,0.5,Diesel,87326,"Delhi, Delhi",Hyundai,Tucson,239549,,,,2.74,,,2025-07-02T11:51:37.822910,cardekho,Automatic,Top,cardekho_000099,2017
+3,cardekho,1417567,0.59,CNG,48810,"Hyderabad, Telangana",BMW,X1,1417567,,,,29.04,,,2025-07-02T11:51:38.830207,cardekho,CVT,SX,cardekho_000000,2021
+9,cartrade,173501,0.49,Hybrid,75143,"Hyderabad, Telangana",Skoda,Unknown,,173501,,,2.31,,,2025-07-02T11:51:38.830207,cartrade,CVT,VX,cartrade_000001,2015
+8,spinny,240660,0.41,Petrol,121079,"Chennai, Tamil Nadu",Kia,Unknown,,,,,1.99,,240660,2025-07-02T11:51:38.830207,spinny,Automatic,VX,spinny_000002,2016
+0,spinny,800939,1.0,Electric,0,"Indore, Madhya Pradesh",Skoda,Unknown,,,,,800939.0,,800939,2025-07-02T11:51:38.830207,spinny,Manual,Base,spinny_000003,2024
+3,olx,480632,0.56,Petrol,53438,"Jaipur, Rajasthan",MG,Unknown,,,,480632,8.99,,,2025-07-02T11:51:38.830207,olx,Automatic,EX,olx_000004,2021
+9,spinny,243640,0.37,Hybrid,135701,"Indore, Madhya Pradesh",Volkswagen,Unknown,,,,,1.8,,243640,2025-07-02T11:51:38.830207,spinny,CVT,EX,spinny_000005,2015
+3,carwale,1766727,0.54,Diesel,57864,"Indore, Madhya Pradesh",Audi,Q5,,,1766727,,30.53,,,2025-07-02T11:51:38.830207,carwale,Manual,EX,carwale_000006,2021
+0,sahivalue,828448,1.0,Electric,0,"Visakhapatnam, Andhra Pradesh",Mahindra,XUV500,,,,,828448.0,828448,,2025-07-02T11:51:38.830207,sahivalue,CVT,Base,sahivalue_000007,2024
+2,cartrade,614879,0.6,Electric,36156,"Visakhapatnam, Andhra Pradesh",Ford,Unknown,,614879,,,17.01,,,2025-07-02T11:51:38.830207,cartrade,Manual,LX,cartrade_000008,2022
+6,sahivalue,1169387,0.44,Electric,108676,"Bhopal, Madhya Pradesh",Mercedes-Benz,GLE,,,,,10.76,1169387,,2025-07-02T11:51:38.830207,sahivalue,Automatic,VX,sahivalue_000009,2018
+3,spinny,1409170,0.63,Petrol,42655,"Nagpur, Maharashtra",BMW,X1,,,,,33.04,,1409170,2025-07-02T11:51:38.830207,spinny,AMT,Top,spinny_000010,2021
+4,olx,600165,0.51,Petrol,74556,"Pune, Maharashtra",Toyota,Camry,,,,600165,8.05,,,2025-07-02T11:51:38.830207,olx,Automatic,LX,olx_000011,2020
+0,sahivalue,725262,1.0,Hybrid,0,"Thane, Maharashtra",Hyundai,Santro,,,,,725262.0,725262,,2025-07-02T11:51:38.830207,sahivalue,CVT,VX,sahivalue_000012,2024
+2,olx,604344,0.66,Electric,29336,"Indore, Madhya Pradesh",MG,Unknown,,,,604344,20.6,,,2025-07-02T11:51:38.830207,olx,Automatic,VX,olx_000013,2022
+7,carwale,896612,0.56,Electric,61258,"Nagpur, Maharashtra",Audi,Q3,,,896612,,14.64,,,2025-07-02T11:51:38.830207,carwale,AMT,Mid,carwale_000014,2017
+0,sahivalue,834143,1.0,Electric,2457,"Thane, Maharashtra",Kia,Unknown,,,,,339.5,834143,,2025-07-02T11:51:38.830207,sahivalue,AMT,Top,sahivalue_000015,2024
+9,olx,168139,0.45,Petrol,97513,"Chennai, Tamil Nadu",MG,Unknown,,,,168139,1.72,,,2025-07-02T11:51:38.830207,olx,Automatic,Base,olx_000016,2015
+5,cardekho,322115,0.49,CNG,87921,"Thane, Maharashtra",Chevrolet,Unknown,322115,,,,3.66,,,2025-07-02T11:51:38.830207,cardekho,AMT,ZX,cardekho_000017,2019
+4,sahivalue,1455670,0.58,Electric,58648,"Bangalore, Karnataka",Mercedes-Benz,E-Class,,,,,24.82,1455670,,2025-07-02T11:51:38.830207,sahivalue,AMT,Mid,sahivalue_000018,2020
+9,sahivalue,191974,0.34,Petrol,154293,"Indore, Madhya Pradesh",Nissan,Unknown,,,,,1.24,191974,,2025-07-02T11:51:38.830207,sahivalue,Manual,Mid,sahivalue_000019,2015
+9,spinny,301272,0.38,Petrol,129965,"Pune, Maharashtra",Toyota,Etios,,,,,2.32,,301272,2025-07-02T11:51:38.830207,spinny,Manual,ZX,spinny_000020,2015
+8,carwale,157828,0.35,Hybrid,149199,"Ahmedabad, Gujarat",Maruti Suzuki,Ciaz,,,157828,,1.06,,,2025-07-02T11:51:38.830207,carwale,AMT,Base,carwale_000021,2016
+1,cardekho,663786,0.56,Hybrid,23396,"Delhi, Delhi",Ford,Unknown,663786,,,,28.37,,,2025-07-02T11:51:38.830207,cardekho,Automatic,Mid,cardekho_000022,2023
+0,spinny,816923,1.0,Hybrid,1844,"Mumbai, Maharashtra",Skoda,Unknown,,,,,443.02,,816923,2025-07-02T11:51:38.830207,spinny,Manual,ZX,spinny_000023,2024
+8,carwale,213869,0.43,CNG,110338,"Kanpur, Uttar Pradesh",Renault,Unknown,,,213869,,1.94,,,2025-07-02T11:51:38.830207,carwale,Manual,VX,carwale_000024,2016
+9,cardekho,177533,0.39,Petrol,128197,"Kanpur, Uttar Pradesh",Renault,Unknown,177533,,,,1.38,,,2025-07-02T11:51:38.830207,cardekho,AMT,EX,cardekho_000025,2015
+0,olx,764983,1.0,Diesel,2195,"Thane, Maharashtra",Skoda,Unknown,,,,764983,348.51,,,2025-07-02T11:51:38.830207,olx,AMT,Base,olx_000026,2024
+1,cartrade,650293,0.82,Hybrid,7916,"Lucknow, Uttar Pradesh",Renault,Unknown,,650293,,,82.15,,,2025-07-02T11:51:38.830207,cartrade,Automatic,VX,cartrade_000027,2023
+3,sahivalue,363703,0.67,Hybrid,35556,"Indore, Madhya Pradesh",Maruti Suzuki,Ciaz,,,,,10.23,363703,,2025-07-02T11:51:38.830207,sahivalue,CVT,VX,sahivalue_000028,2021
+1,sahivalue,822204,0.86,Electric,5607,"Jaipur, Rajasthan",Volkswagen,Unknown,,,,,146.64,822204,,2025-07-02T11:51:38.830207,sahivalue,AMT,LX,sahivalue_000029,2023
+2,olx,812890,0.64,Petrol,31894,"Visakhapatnam, Andhra Pradesh",Toyota,Glanza,,,,812890,25.49,,,2025-07-02T11:51:38.830207,olx,Automatic,Top,olx_000030,2022
+0,olx,612001,1.0,Petrol,0,"Chennai, Tamil Nadu",Maruti Suzuki,Swift,,,,612001,612001.0,,,2025-07-02T11:51:38.830207,olx,CVT,EX,olx_000031,2024
+7,olx,887433,0.47,Petrol,99694,"Bangalore, Karnataka",Mercedes-Benz,GLA,,,,887433,8.9,,,2025-07-02T11:51:38.830207,olx,AMT,VX,olx_000032,2017
+6,cartrade,328082,0.47,Hybrid,99477,"Kanpur, Uttar Pradesh",Chevrolet,Unknown,,328082,,,3.3,,,2025-07-02T11:51:38.830207,cartrade,Manual,EX,cartrade_000033,2018
+1,olx,2747668,0.67,Electric,16366,"Chennai, Tamil Nadu",Mercedes-Benz,GLA,,,,2747668,167.89,,,2025-07-02T11:51:38.830207,olx,AMT,LX,olx_000034,2023
+4,olx,388525,0.52,CNG,70972,"Chennai, Tamil Nadu",MG,Unknown,,,,388525,5.47,,,2025-07-02T11:51:38.830207,olx,Manual,SX,olx_000035,2020
+4,carwale,630339,0.52,CNG,72771,"Delhi, Delhi",Toyota,Urban Cruiser,,,630339,,8.66,,,2025-07-02T11:51:38.830207,carwale,CVT,EX,carwale_000036,2020
+0,olx,830119,1.0,Hybrid,0,"Kanpur, Uttar Pradesh",Chevrolet,Unknown,,,,830119,830119.0,,,2025-07-02T11:51:38.830207,olx,AMT,Mid,olx_000037,2024
+4,spinny,381916,0.53,Electric,69221,"Visakhapatnam, Andhra Pradesh",Skoda,Unknown,,,,,5.52,,381916,2025-07-02T11:51:38.830207,spinny,Manual,SX,spinny_000038,2020
+5,spinny,369499,0.59,Electric,59612,"Nagpur, Maharashtra",MG,Unknown,,,,,6.2,,369499,2025-07-02T11:51:38.830207,spinny,AMT,EX,spinny_000039,2019
+1,spinny,728097,0.64,Diesel,17966,"Jaipur, Rajasthan",Nissan,Unknown,,,,,40.53,,728097,2025-07-02T11:51:38.830207,spinny,AMT,LX,spinny_000040,2023
+1,olx,941019,0.61,Electric,19448,"Ahmedabad, Gujarat",Toyota,Fortuner,,,,941019,48.39,,,2025-07-02T11:51:38.830207,olx,AMT,LX,olx_000041,2023
+3,olx,708871,0.72,Petrol,26747,"Kanpur, Uttar Pradesh",Toyota,Corolla,,,,708871,26.5,,,2025-07-02T11:51:38.830207,olx,CVT,ZX,olx_000042,2021
+3,spinny,553600,0.55,Petrol,55528,"Pune, Maharashtra",Mahindra,KUV100,,,,,9.97,,553600,2025-07-02T11:51:38.830207,spinny,Manual,Base,spinny_000043,2021
+7,carwale,264260,0.57,Petrol,59854,"Indore, Madhya Pradesh",Skoda,Unknown,,,264260,,4.42,,,2025-07-02T11:51:38.830207,carwale,Automatic,Mid,carwale_000044,2017
+3,carwale,571257,0.57,Petrol,52798,"Bhopal, Madhya Pradesh",Volkswagen,Unknown,,,571257,,10.82,,,2025-07-02T11:51:38.830207,carwale,Automatic,Top,carwale_000045,2021
+6,sahivalue,329492,0.44,Electric,108648,"Nagpur, Maharashtra",Jeep,Unknown,,,,,3.03,329492,,2025-07-02T11:51:38.830207,sahivalue,AMT,Base,sahivalue_000046,2018
+8,sahivalue,198793,0.4,Hybrid,123956,"Chennai, Tamil Nadu",Renault,Unknown,,,,,1.6,198793,,2025-07-02T11:51:38.830207,sahivalue,CVT,Mid,sahivalue_000047,2016
+5,carwale,425129,0.6,Electric,57029,"Kolkata, West Bengal",Honda,Accord,,,425129,,7.45,,,2025-07-02T11:51:38.830207,carwale,AMT,SX,carwale_000048,2019
+7,spinny,378852,0.52,Electric,80001,"Visakhapatnam, Andhra Pradesh",Toyota,Etios,,,,,4.74,,378852,2025-07-02T11:51:38.830207,spinny,AMT,ZX,spinny_000049,2017
+9,olx,203126,0.33,Hybrid,156199,"Hyderabad, Telangana",Nissan,Unknown,,,,203126,1.3,,,2025-07-02T11:51:39.839983,olx,Automatic,LX,olx_000000,2015
+5,cartrade,288952,0.59,Hybrid,58731,"Bhopal, Madhya Pradesh",Tata,Tiago,,288952,,,4.92,,,2025-07-02T11:51:39.839983,cartrade,Automatic,ZX,cartrade_000001,2019
+6,olx,275370,0.6,Diesel,53475,"Nagpur, Maharashtra",Jeep,Unknown,,,,275370,5.15,,,2025-07-02T11:51:39.839983,olx,Manual,Base,olx_000002,2018
+8,olx,747938,0.42,CNG,117303,"Hyderabad, Telangana",Audi,Q3,,,,747938,6.38,,,2025-07-02T11:51:39.839983,olx,Automatic,Mid,olx_000003,2016
+6,spinny,270265,0.49,Petrol,92116,"Indore, Madhya Pradesh",Tata,Tiago,,,,,2.93,,270265,2025-07-02T11:51:39.839983,spinny,CVT,ZX,spinny_000004,2018
+7,cardekho,271680,0.59,Hybrid,52579,"Mumbai, Maharashtra",MG,Unknown,271680,,,,5.17,,,2025-07-02T11:51:39.839983,cardekho,Manual,VX,cardekho_000005,2017
+6,spinny,351351,0.41,Electric,116838,"Hyderabad, Telangana",Mahindra,Alturas,,,,,3.01,,351351,2025-07-02T11:51:39.839983,spinny,Automatic,ZX,spinny_000006,2018
+3,sahivalue,574256,0.57,Petrol,52763,"Bangalore, Karnataka",Kia,Unknown,,,,,10.88,574256,,2025-07-02T11:51:39.839983,sahivalue,Manual,EX,sahivalue_000007,2021
+1,cardekho,627697,0.75,Electric,11702,"Thane, Maharashtra",Renault,Unknown,627697,,,,53.64,,,2025-07-02T11:51:39.839983,cardekho,AMT,Mid,cardekho_000008,2023
+3,sahivalue,459197,0.6,Diesel,47881,"Kolkata, West Bengal",MG,Unknown,,,,,9.59,459197,,2025-07-02T11:51:39.839983,sahivalue,AMT,EX,sahivalue_000009,2021
+9,cartrade,210512,0.41,Petrol,118722,"Kanpur, Uttar Pradesh",Mahindra,Scorpio,,210512,,,1.77,,,2025-07-02T11:51:39.839983,cartrade,Automatic,Top,cartrade_000010,2015
+7,olx,265678,0.45,Hybrid,104738,"Delhi, Delhi",Chevrolet,Unknown,,,,265678,2.54,,,2025-07-02T11:51:39.839983,olx,AMT,ZX,olx_000011,2017
+3,cardekho,473677,0.69,Hybrid,32664,"Mumbai, Maharashtra",Skoda,Unknown,473677,,,,14.5,,,2025-07-02T11:51:39.839983,cardekho,AMT,VX,cardekho_000012,2021
+1,cartrade,616630,0.78,Petrol,10013,"Thane, Maharashtra",Renault,Unknown,,616630,,,61.58,,,2025-07-02T11:51:39.839983,cartrade,CVT,EX,cartrade_000013,2023
+8,olx,207708,0.44,Diesel,108408,"Bhopal, Madhya Pradesh",Hyundai,Elantra,,,,207708,1.92,,,2025-07-02T11:51:39.839983,olx,Automatic,Top,olx_000014,2016
+1,carwale,747758,0.71,CNG,14144,"Ahmedabad, Gujarat",Hyundai,Creta,,,747758,,52.87,,,2025-07-02T11:51:39.839983,carwale,AMT,EX,carwale_000015,2023
+1,cardekho,530409,0.82,Electric,7833,"Thane, Maharashtra",Maruti Suzuki,WagonR,530409,,,,67.71,,,2025-07-02T11:51:39.839983,cardekho,AMT,EX,cardekho_000016,2023
+1,cartrade,999276,0.61,Petrol,19454,"Kanpur, Uttar Pradesh",Toyota,Yaris,,999276,,,51.37,,,2025-07-02T11:51:39.839983,cartrade,Automatic,ZX,cartrade_000017,2023
+7,carwale,249657,0.55,CNG,66485,"Kanpur, Uttar Pradesh",Ford,Unknown,,,249657,,3.76,,,2025-07-02T11:51:39.839983,carwale,AMT,Top,carwale_000018,2017
+1,sahivalue,707691,0.56,CNG,23341,"Bhopal, Madhya Pradesh",Jeep,Unknown,,,,,30.32,707691,,2025-07-02T11:51:39.839983,sahivalue,Automatic,SX,sahivalue_000019,2023
+7,spinny,828945,0.53,Electric,74905,"Pune, Maharashtra",Audi,Q3,,,,,11.07,,828945,2025-07-02T11:51:39.839983,spinny,Automatic,LX,spinny_000020,2017
+2,olx,627173,0.75,Diesel,19089,"Bhopal, Madhya Pradesh",MG,Unknown,,,,627173,32.86,,,2025-07-02T11:51:39.839983,olx,CVT,LX,olx_000021,2022
+9,carwale,173281,0.5,CNG,72647,"Bhopal, Madhya Pradesh",Tata,Hexa,,,173281,,2.39,,,2025-07-02T11:51:39.839983,carwale,Automatic,Top,carwale_000022,2015
+1,sahivalue,692590,0.68,Electric,15643,"Bangalore, Karnataka",Mahindra,Bolero,,,,,44.27,692590,,2025-07-02T11:51:39.839983,sahivalue,CVT,LX,sahivalue_000023,2023
+1,sahivalue,1006931,0.58,Petrol,21577,"Delhi, Delhi",Toyota,Yaris,,,,,46.67,1006931,,2025-07-02T11:51:39.839983,sahivalue,Manual,Base,sahivalue_000024,2023
+3,carwale,523962,0.68,Diesel,33117,"Kolkata, West Bengal",Ford,Unknown,,,523962,,15.82,,,2025-07-02T11:51:39.839983,carwale,AMT,Base,carwale_000025,2021
+6,carwale,861424,0.42,Petrol,115240,"Ahmedabad, Gujarat",BMW,Z4,,,861424,,7.48,,,2025-07-02T11:51:39.839983,carwale,Manual,LX,carwale_000026,2018
+6,cardekho,212032,0.42,Hybrid,115321,"Jaipur, Rajasthan",Maruti Suzuki,Ertiga,212032,,,,1.84,,,2025-07-02T11:51:39.839983,cardekho,CVT,Mid,cardekho_000027,2018
+6,spinny,395706,0.49,Electric,91954,"Visakhapatnam, Andhra Pradesh",Volkswagen,Unknown,,,,,4.3,,395706,2025-07-02T11:51:39.839983,spinny,Manual,EX,spinny_000028,2018
+0,olx,801352,1.0,Diesel,3406,"Bhopal, Madhya Pradesh",MG,Unknown,,,,801352,235.28,,,2025-07-02T11:51:39.839983,olx,Manual,LX,olx_000029,2024
+2,spinny,589809,0.61,CNG,35039,"Delhi, Delhi",Kia,Unknown,,,,,16.83,,589809,2025-07-02T11:51:40.843278,spinny,Manual,Top,spinny_000000,2022
+1,cardekho,2617163,0.74,Hybrid,12352,"Indore, Madhya Pradesh",Mercedes-Benz,A-Class,2617163,,,,211.88,,,2025-07-02T11:51:40.843278,cardekho,AMT,Base,cardekho_000001,2023
+6,carwale,1112534,0.46,Petrol,100512,"Nagpur, Maharashtra",Audi,TT,,,1112534,,11.07,,,2025-07-02T11:51:40.843278,carwale,Automatic,LX,carwale_000002,2018
+2,sahivalue,766418,0.75,Electric,18936,"Chennai, Tamil Nadu",Volkswagen,Unknown,,,,,40.47,766418,,2025-07-02T11:51:40.843278,sahivalue,AMT,Top,sahivalue_000003,2022
+3,cartrade,505632,0.59,Petrol,49509,"Kolkata, West Bengal",Jeep,Unknown,,505632,,,10.21,,,2025-07-02T11:51:40.843278,cartrade,Manual,LX,cartrade_000004,2021
+4,olx,458105,0.55,CNG,65459,"Bangalore, Karnataka",Mahindra,XUV500,,,,458105,7.0,,,2025-07-02T11:51:40.843278,olx,Automatic,Base,olx_000005,2020
+1,carwale,618363,0.8,Hybrid,9274,"Indore, Madhya Pradesh",Skoda,Unknown,,,618363,,66.68,,,2025-07-02T11:51:40.843278,carwale,AMT,LX,carwale_000006,2023
+8,cardekho,828610,0.34,Petrol,154721,"Delhi, Delhi",Mercedes-Benz,GLE,828610,,,,5.36,,,2025-07-02T11:51:40.843278,cardekho,CVT,Top,cardekho_000007,2016
+7,cartrade,383254,0.56,Hybrid,63698,"Bangalore, Karnataka",Toyota,Innova,,383254,,,6.02,,,2025-07-02T11:51:40.843278,cartrade,AMT,EX,cartrade_000008,2017
+5,sahivalue,335216,0.46,CNG,96559,"Nagpur, Maharashtra",MG,Unknown,,,,,3.47,335216,,2025-07-02T11:51:40.843278,sahivalue,Automatic,SX,sahivalue_000009,2019
+1,cartrade,692611,0.72,CNG,13571,"Chennai, Tamil Nadu",Hyundai,Verna,,692611,,,51.04,,,2025-07-02T11:51:40.843278,cartrade,AMT,Base,cartrade_000010,2023
+1,cardekho,684363,0.7,Electric,14722,"Delhi, Delhi",Renault,Unknown,684363,,,,46.49,,,2025-07-02T11:51:40.843278,cardekho,Manual,Top,cardekho_000011,2023
+6,sahivalue,325557,0.46,Electric,100839,"Kolkata, West Bengal",Ford,Unknown,,,,,3.23,325557,,2025-07-02T11:51:40.843278,sahivalue,CVT,ZX,sahivalue_000012,2018
+1,sahivalue,699252,0.67,Electric,16408,"Thane, Maharashtra",Hyundai,Elite i20,,,,,42.62,699252,,2025-07-02T11:51:40.843278,sahivalue,Manual,SX,sahivalue_000013,2023
+4,cartrade,500047,0.66,Petrol,41397,"Bangalore, Karnataka",Volkswagen,Unknown,,500047,,,12.08,,,2025-07-02T11:51:40.843278,cartrade,AMT,LX,cartrade_000014,2020
+6,cardekho,274571,0.54,Petrol,73656,"Hyderabad, Telangana",Tata,Zest,274571,,,,3.73,,,2025-07-02T11:51:40.843278,cardekho,CVT,Top,cardekho_000015,2018
+2,spinny,673512,0.62,Diesel,33391,"Mumbai, Maharashtra",Kia,Unknown,,,,,20.17,,673512,2025-07-02T11:51:40.843278,spinny,Automatic,Mid,spinny_000016,2022
+0,carwale,2753244,1.0,Diesel,1649,"Mumbai, Maharashtra",Mercedes-Benz,GLC,,,2753244,,1669.64,,,2025-07-02T11:51:40.843278,carwale,Manual,SX,carwale_000017,2024
+4,sahivalue,425641,0.65,CNG,42017,"Bangalore, Karnataka",Mahindra,Marazzo,,,,,10.13,425641,,2025-07-02T11:51:40.843278,sahivalue,Manual,VX,sahivalue_000018,2020
+9,sahivalue,196455,0.32,Petrol,160016,"Kanpur, Uttar Pradesh",Renault,Unknown,,,,,1.23,196455,,2025-07-02T11:51:40.843278,sahivalue,Automatic,SX,sahivalue_000019,2015
+8,cardekho,227437,0.5,Diesel,79216,"Delhi, Delhi",Renault,Unknown,227437,,,,2.87,,,2025-07-02T11:51:40.843278,cardekho,Manual,Top,cardekho_000000,2016
+5,cartrade,370369,0.66,Hybrid,38103,"Indore, Madhya Pradesh",Chevrolet,Unknown,,370369,,,9.72,,,2025-07-02T11:51:40.843278,cartrade,Automatic,VX,cartrade_000001,2019
+4,cartrade,407957,0.47,Electric,83142,"Thane, Maharashtra",Chevrolet,Unknown,,407957,,,4.91,,,2025-07-02T11:51:40.843278,cartrade,Manual,SX,cartrade_000002,2020
+7,cartrade,216022,0.39,Petrol,129660,"Nagpur, Maharashtra",Tata,Harrier,,216022,,,1.67,,,2025-07-02T11:51:40.843278,cartrade,CVT,Base,cartrade_000003,2017
+9,cardekho,221670,0.35,CNG,145766,"Bhopal, Madhya Pradesh",Honda,WR-V,221670,,,,1.52,,,2025-07-02T11:51:40.843278,cardekho,Manual,EX,cardekho_000004,2015
+2,cardekho,738146,0.74,Hybrid,20526,"Lucknow, Uttar Pradesh",Honda,Amaze,738146,,,,35.96,,,2025-07-02T11:51:40.843278,cardekho,Manual,EX,cardekho_000005,2022
+5,carwale,361989,0.49,Electric,86454,"Mumbai, Maharashtra",Skoda,Unknown,,,361989,,4.19,,,2025-07-02T11:51:40.843278,carwale,AMT,Mid,carwale_000006,2019
+6,cardekho,278626,0.48,CNG,93104,"Bhopal, Madhya Pradesh",Skoda,Unknown,278626,,,,2.99,,,2025-07-02T11:51:40.843278,cardekho,AMT,ZX,cardekho_000007,2018
+8,olx,253151,0.37,Diesel,138011,"Lucknow, Uttar Pradesh",Volkswagen,Unknown,,,,253151,1.83,,,2025-07-02T11:51:40.843278,olx,CVT,LX,olx_000008,2016
+1,carwale,737063,0.81,CNG,8181,"Bhopal, Madhya Pradesh",Renault,Unknown,,,737063,,90.09,,,2025-07-02T11:51:40.843278,carwale,Manual,EX,carwale_000009,2023
+2,carwale,1678573,0.65,Petrol,29864,"Chennai, Tamil Nadu",BMW,3 Series,,,1678573,,56.21,,,2025-07-02T11:51:40.843278,carwale,AMT,VX,carwale_000010,2022
+6,cartrade,406955,0.58,CNG,59949,"Delhi, Delhi",Volkswagen,Unknown,,406955,,,6.79,,,2025-07-02T11:51:40.843278,cartrade,CVT,LX,cartrade_000011,2018
+2,cartrade,537771,0.6,Electric,35738,"Visakhapatnam, Andhra Pradesh",Hyundai,i20,,537771,,,15.05,,,2025-07-02T11:51:40.843278,cartrade,Automatic,Mid,cartrade_000012,2022
+1,cartrade,910344,0.8,CNG,9043,"Chennai, Tamil Nadu",Honda,Accord,,910344,,,100.67,,,2025-07-02T11:51:40.843278,cartrade,Automatic,VX,cartrade_000013,2023
+6,cardekho,328810,0.58,Petrol,61979,"Ahmedabad, Gujarat",Chevrolet,Unknown,328810,,,,5.31,,,2025-07-02T11:51:40.843278,cardekho,Automatic,SX,cardekho_000014,2018
+1,cartrade,617939,0.75,Diesel,11758,"Thane, Maharashtra",Skoda,Unknown,,617939,,,52.55,,,2025-07-02T11:51:40.843278,cartrade,Automatic,SX,cartrade_000015,2023
+7,spinny,323020,0.39,CNG,129434,"Chennai, Tamil Nadu",Honda,Amaze,,,,,2.5,,323020,2025-07-02T11:51:40.843278,spinny,Automatic,Top,spinny_000016,2017
+0,cardekho,943181,1.0,Hybrid,3635,"Hyderabad, Telangana",Volkswagen,Unknown,943181,,,,259.47,,,2025-07-02T11:51:40.843278,cardekho,Automatic,LX,cardekho_000017,2024
+4,sahivalue,414787,0.59,Diesel,56614,"Bhopal, Madhya Pradesh",Skoda,Unknown,,,,,7.33,414787,,2025-07-02T11:51:40.843278,sahivalue,Automatic,Base,sahivalue_000018,2020
+1,spinny,918999,0.61,Diesel,19563,"Visakhapatnam, Andhra Pradesh",Honda,BR-V,,,,,46.98,,918999,2025-07-02T11:51:40.843278,spinny,Manual,LX,spinny_000019,2023
+1,carwale,718584,0.84,CNG,6789,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,,,718584,,105.85,,,2025-07-02T11:51:40.843278,carwale,Manual,SX,carwale_000020,2023
+6,spinny,1110908,0.56,Petrol,68817,"Pune, Maharashtra",Mercedes-Benz,GLA,,,,,16.14,,1110908,2025-07-02T11:51:40.843278,spinny,Manual,ZX,spinny_000021,2018
+5,sahivalue,367445,0.66,Petrol,40423,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,,,,,9.09,367445,,2025-07-02T11:51:40.843278,sahivalue,Automatic,VX,sahivalue_000022,2019
+7,carwale,791933,0.39,Diesel,129638,"Jaipur, Rajasthan",BMW,5 Series,,,791933,,6.11,,,2025-07-02T11:51:40.843278,carwale,Manual,VX,carwale_000023,2017
+0,carwale,873192,1.0,Diesel,633,"Visakhapatnam, Andhra Pradesh",Jeep,Unknown,,,873192,,1379.45,,,2025-07-02T11:51:40.843278,carwale,CVT,LX,carwale_000024,2024
+2,carwale,2248924,0.68,Diesel,27359,"Bhopal, Madhya Pradesh",Mercedes-Benz,S-Class,,,2248924,,82.2,,,2025-07-02T11:51:40.843278,carwale,CVT,ZX,carwale_000025,2022
+4,olx,507085,0.65,Diesel,43356,"Hyderabad, Telangana",Mahindra,Bolero,,,,507085,11.7,,,2025-07-02T11:51:40.843278,olx,Manual,Mid,olx_000026,2020
+5,carwale,239896,0.66,CNG,39738,"Mumbai, Maharashtra",Maruti Suzuki,Vitara Brezza,,,239896,,6.04,,,2025-07-02T11:51:40.843278,carwale,Automatic,Base,carwale_000027,2019
+9,cartrade,203260,0.4,CNG,122146,"Nagpur, Maharashtra",Hyundai,Grand i10,,203260,,,1.66,,,2025-07-02T11:51:40.843278,cartrade,AMT,Mid,cartrade_000028,2015
+4,carwale,284134,0.48,Electric,80484,"Thane, Maharashtra",Maruti Suzuki,Alto,,,284134,,3.53,,,2025-07-02T11:51:40.843278,carwale,Manual,SX,carwale_000029,2020
+1,cartrade,732692,0.86,CNG,5462,"Ahmedabad, Gujarat",Kia,Unknown,,732692,,,134.14,,,2025-07-02T11:51:40.843278,cartrade,CVT,ZX,cartrade_000030,2023
+4,sahivalue,457582,0.54,Diesel,67980,"Bangalore, Karnataka",Ford,Unknown,,,,,6.73,457582,,2025-07-02T11:51:40.843278,sahivalue,AMT,Base,sahivalue_000031,2020
+2,spinny,653702,0.71,Petrol,23455,"Ahmedabad, Gujarat",Kia,Unknown,,,,,27.87,,653702,2025-07-02T11:51:40.843278,spinny,AMT,SX,spinny_000032,2022
+9,olx,190421,0.29,Petrol,178941,"Jaipur, Rajasthan",Jeep,Unknown,,,,190421,1.06,,,2025-07-02T11:51:40.843278,olx,CVT,Top,olx_000033,2015
+7,sahivalue,323723,0.51,Electric,82360,"Visakhapatnam, Andhra Pradesh",Honda,City,,,,,3.93,323723,,2025-07-02T11:51:40.843278,sahivalue,Manual,SX,sahivalue_000034,2017
+4,cartrade,473271,0.6,Diesel,53974,"Visakhapatnam, Andhra Pradesh",Mahindra,Bolero,,473271,,,8.77,,,2025-07-02T11:51:40.843278,cartrade,Manual,EX,cartrade_000035,2020
+8,olx,235565,0.35,Electric,149515,"Nagpur, Maharashtra",Ford,Unknown,,,,235565,1.58,,,2025-07-02T11:51:40.843278,olx,Automatic,EX,olx_000036,2016
+9,spinny,173784,0.36,Petrol,139962,"Hyderabad, Telangana",Skoda,Unknown,,,,,1.24,,173784,2025-07-02T11:51:40.843278,spinny,Manual,EX,spinny_000037,2015
+0,cardekho,789847,1.0,Petrol,1581,"Bangalore, Karnataka",MG,Unknown,789847,,,,499.59,,,2025-07-02T11:51:40.844780,cardekho,AMT,ZX,cardekho_000038,2024
+9,spinny,184275,0.36,Petrol,141261,"Bhopal, Madhya Pradesh",Skoda,Unknown,,,,,1.3,,184275,2025-07-02T11:51:40.844780,spinny,AMT,VX,spinny_000039,2015
+6,cartrade,277258,0.58,CNG,61745,"Pune, Maharashtra",Hyundai,Elantra,,277258,,,4.49,,,2025-07-02T11:51:40.844780,cartrade,Manual,EX,cartrade_000040,2018
+4,sahivalue,397559,0.51,Petrol,74631,"Bangalore, Karnataka",Hyundai,Creta,,,,,5.33,397559,,2025-07-02T11:51:40.844780,sahivalue,Manual,SX,sahivalue_000041,2020
+0,olx,974433,1.0,Petrol,583,"Thane, Maharashtra",Mahindra,XUV500,,,,974433,1671.41,,,2025-07-02T11:51:40.844780,olx,Automatic,SX,olx_000042,2024
+5,carwale,464924,0.61,Petrol,52092,"Pune, Maharashtra",Volkswagen,Unknown,,,464924,,8.93,,,2025-07-02T11:51:40.844780,carwale,CVT,ZX,carwale_000043,2019
+2,cartrade,537277,0.74,Diesel,20207,"Bangalore, Karnataka",MG,Unknown,,537277,,,26.59,,,2025-07-02T11:51:40.844780,cartrade,Manual,LX,cartrade_000044,2022
+9,cartrade,178057,0.44,Electric,103623,"Pune, Maharashtra",Hyundai,i20,,178057,,,1.72,,,2025-07-02T11:51:40.844780,cartrade,Manual,Base,cartrade_000045,2015
+3,olx,460857,0.68,Petrol,33285,"Nagpur, Maharashtra",Ford,Unknown,,,,460857,13.85,,,2025-07-02T11:51:40.844780,olx,Automatic,ZX,olx_000046,2021
+2,sahivalue,580297,0.67,CNG,28420,"Nagpur, Maharashtra",Nissan,Unknown,,,,,20.42,580297,,2025-07-02T11:51:40.844780,sahivalue,CVT,EX,sahivalue_000047,2022
+0,sahivalue,864876,1.0,Petrol,1428,"Bangalore, Karnataka",Renault,Unknown,,,,,605.66,864876,,2025-07-02T11:51:40.844780,sahivalue,Automatic,SX,sahivalue_000048,2024
+0,sahivalue,2779322,1.0,Electric,2369,"Kolkata, West Bengal",Mercedes-Benz,S-Class,,,,,1173.2,2779322,,2025-07-02T11:51:40.844780,sahivalue,Automatic,SX,sahivalue_000049,2024
+3,spinny,505869,0.77,Hybrid,19172,"Hyderabad, Telangana",Skoda,Unknown,,,,,26.39,,505869,2025-07-02T11:51:40.844780,spinny,Automatic,VX,spinny_000050,2021
+1,sahivalue,2788818,0.71,Diesel,14092,"Lucknow, Uttar Pradesh",Mercedes-Benz,GLE,,,,,197.9,2788818,,2025-07-02T11:51:40.844780,sahivalue,Manual,EX,sahivalue_000051,2023
+2,spinny,589915,0.59,Electric,37360,"Delhi, Delhi",MG,Unknown,,,,,15.79,,589915,2025-07-02T11:51:40.844780,spinny,AMT,VX,spinny_000052,2022
+8,spinny,223858,0.45,Hybrid,104502,"Kanpur, Uttar Pradesh",Kia,Unknown,,,,,2.14,,223858,2025-07-02T11:51:40.844780,spinny,Automatic,ZX,spinny_000053,2016
+0,carwale,813309,1.0,Hybrid,0,"Hyderabad, Telangana",Renault,Unknown,,,813309,,813309.0,,,2025-07-02T11:51:40.844780,carwale,CVT,SX,carwale_000054,2024
+3,cardekho,1761643,0.67,Hybrid,36063,"Indore, Madhya Pradesh",Audi,A4,1761643,,,,48.85,,,2025-07-02T11:51:40.844780,cardekho,Automatic,LX,cardekho_000055,2021
+4,cartrade,402172,0.62,Hybrid,49168,"Jaipur, Rajasthan",Skoda,Unknown,,402172,,,8.18,,,2025-07-02T11:51:40.844780,cartrade,Manual,SX,cartrade_000056,2020
+8,olx,218808,0.52,CNG,71132,"Lucknow, Uttar Pradesh",Ford,Unknown,,,,218808,3.08,,,2025-07-02T11:51:40.844780,olx,Manual,Mid,olx_000057,2016
+6,cardekho,298324,0.55,Electric,72119,"Jaipur, Rajasthan",Skoda,Unknown,298324,,,,4.14,,,2025-07-02T11:51:40.844780,cardekho,CVT,Mid,cardekho_000058,2018
+8,carwale,147148,0.52,Diesel,72454,"Kanpur, Uttar Pradesh",Maruti Suzuki,Alto,,,147148,,2.03,,,2025-07-02T11:51:40.844780,carwale,Automatic,Top,carwale_000059,2016
+2,carwale,616126,0.74,Hybrid,19835,"Bhopal, Madhya Pradesh",Mahindra,Bolero,,,616126,,31.06,,,2025-07-02T11:51:40.844780,carwale,Automatic,Mid,carwale_000060,2022
+3,olx,392708,0.62,Petrol,44617,"Lucknow, Uttar Pradesh",Tata,Altroz,,,,392708,8.8,,,2025-07-02T11:51:40.844780,olx,AMT,SX,olx_000061,2021
+6,carwale,299799,0.47,Electric,97011,"Pune, Maharashtra",Ford,Unknown,,,299799,,3.09,,,2025-07-02T11:51:40.844780,carwale,Automatic,EX,carwale_000062,2018
+1,sahivalue,683079,0.74,Electric,12625,"Ahmedabad, Gujarat",MG,Unknown,,,,,54.11,683079,,2025-07-02T11:51:40.844780,sahivalue,Manual,VX,sahivalue_000063,2023
+7,carwale,276563,0.43,Petrol,113942,"Visakhapatnam, Andhra Pradesh",Mahindra,XUV500,,,276563,,2.43,,,2025-07-02T11:51:40.844780,carwale,Manual,VX,carwale_000064,2017
+3,sahivalue,458691,0.65,Electric,38383,"Visakhapatnam, Andhra Pradesh",Nissan,Unknown,,,,,11.95,458691,,2025-07-02T11:51:40.844780,sahivalue,AMT,Mid,sahivalue_000065,2021
+0,cartrade,760223,1.0,Diesel,0,"Nagpur, Maharashtra",Skoda,Unknown,,760223,,,760223.0,,,2025-07-02T11:51:40.844780,cartrade,CVT,EX,cartrade_000066,2024
+8,olx,248374,0.39,Electric,128915,"Visakhapatnam, Andhra Pradesh",Honda,Amaze,,,,248374,1.93,,,2025-07-02T11:51:40.844780,olx,Automatic,Top,olx_000067,2016
+0,sahivalue,830180,1.0,Electric,2898,"Mumbai, Maharashtra",MG,Unknown,,,,,286.47,830180,,2025-07-02T11:51:40.844780,sahivalue,CVT,VX,sahivalue_000068,2024
+8,carwale,738467,0.41,Petrol,119370,"Pune, Maharashtra",BMW,Z4,,,738467,,6.19,,,2025-07-02T11:51:40.844780,carwale,CVT,Mid,carwale_000069,2016
+3,carwale,454719,0.67,Petrol,34719,"Lucknow, Uttar Pradesh",Nissan,Unknown,,,454719,,13.1,,,2025-07-02T11:51:40.844780,carwale,Automatic,VX,carwale_000070,2021
+1,spinny,671167,0.78,Petrol,9866,"Chennai, Tamil Nadu",Nissan,Unknown,,,,,68.03,,671167,2025-07-02T11:51:40.844780,spinny,Manual,VX,spinny_000071,2023
+2,cartrade,540934,0.74,Electric,19796,"Chennai, Tamil Nadu",Chevrolet,Unknown,,540934,,,27.33,,,2025-07-02T11:51:40.844780,cartrade,CVT,VX,cartrade_000072,2022
+8,carwale,238007,0.46,Hybrid,98791,"Visakhapatnam, Andhra Pradesh",Mahindra,Thar,,,238007,,2.41,,,2025-07-02T11:51:40.844780,carwale,Automatic,VX,carwale_000073,2016
+2,olx,540285,0.61,Petrol,34627,"Bangalore, Karnataka",Tata,Safari,,,,540285,15.6,,,2025-07-02T11:51:40.844780,olx,Automatic,ZX,olx_000074,2022
+7,cardekho,232480,0.54,Electric,71505,"Jaipur, Rajasthan",Chevrolet,Unknown,232480,,,,3.25,,,2025-07-02T11:51:40.844780,cardekho,AMT,ZX,cardekho_000075,2017
+7,sahivalue,256080,0.36,Electric,141340,"Bangalore, Karnataka",MG,Unknown,,,,,1.81,256080,,2025-07-02T11:51:40.844780,sahivalue,Manual,ZX,sahivalue_000076,2017
+3,cartrade,1664070,0.67,Hybrid,35878,"Bhopal, Madhya Pradesh",BMW,i8,,1664070,,,46.38,,,2025-07-02T11:51:40.844780,cartrade,CVT,Base,cartrade_000077,2021
+6,carwale,219751,0.53,CNG,77544,"Kanpur, Uttar Pradesh",Maruti Suzuki,Ertiga,,,219751,,2.83,,,2025-07-02T11:51:40.844780,carwale,CVT,Mid,carwale_000078,2018
+0,carwale,872946,1.0,Petrol,0,"Nagpur, Maharashtra",Mahindra,Alturas,,,872946,,872946.0,,,2025-07-02T11:51:40.844780,carwale,AMT,SX,carwale_000079,2024
+2,cardekho,578233,0.76,Hybrid,18417,"Nagpur, Maharashtra",Nissan,Unknown,578233,,,,31.4,,,2025-07-02T11:51:40.844780,cardekho,CVT,SX,cardekho_000080,2022
+6,cardekho,374438,0.53,Diesel,78422,"Bhopal, Madhya Pradesh",Volkswagen,Unknown,374438,,,,4.77,,,2025-07-02T11:51:40.844780,cardekho,CVT,SX,cardekho_000081,2018
+6,carwale,410599,0.51,CNG,85546,"Thane, Maharashtra",Toyota,Fortuner,,,410599,,4.8,,,2025-07-02T11:51:40.844780,carwale,CVT,SX,carwale_000082,2018
+0,cartrade,800506,1.0,Electric,0,"Ahmedabad, Gujarat",Chevrolet,Unknown,,800506,,,800506.0,,,2025-07-02T11:51:40.844780,cartrade,AMT,ZX,cartrade_000083,2024
+8,cartrade,219086,0.4,CNG,127354,"Mumbai, Maharashtra",Nissan,Unknown,,219086,,,1.72,,,2025-07-02T11:51:40.844780,cartrade,AMT,Base,cartrade_000084,2016
+0,carwale,1138947,1.0,Petrol,362,"Nagpur, Maharashtra",Toyota,Urban Cruiser,,,1138947,,3146.26,,,2025-07-02T11:51:40.844780,carwale,AMT,Mid,carwale_000085,2024
+0,carwale,822602,1.0,CNG,0,"Lucknow, Uttar Pradesh",Mahindra,XUV300,,,822602,,822602.0,,,2025-07-02T11:51:40.844780,carwale,AMT,LX,carwale_000086,2024
+5,spinny,346258,0.48,Electric,89441,"Bhopal, Madhya Pradesh",Ford,Unknown,,,,,3.87,,346258,2025-07-02T11:51:40.844780,spinny,Manual,Base,spinny_000087,2019
+1,carwale,705872,0.7,Diesel,14444,"Bhopal, Madhya Pradesh",Kia,Unknown,,,705872,,48.87,,,2025-07-02T11:51:40.844780,carwale,Manual,SX,carwale_000088,2023
+9,olx,727950,0.32,Diesel,160232,"Nagpur, Maharashtra",Mercedes-Benz,GLE,,,,727950,4.54,,,2025-07-02T11:51:40.844780,olx,Manual,ZX,olx_000089,2015
+3,cardekho,466983,0.59,Petrol,49366,"Thane, Maharashtra",Tata,Zest,466983,,,,9.46,,,2025-07-02T11:51:40.844780,cardekho,CVT,Mid,cardekho_000090,2021
+8,sahivalue,762243,0.35,CNG,147070,"Ahmedabad, Gujarat",Mercedes-Benz,CLA,,,,,5.18,762243,,2025-07-02T11:51:40.844780,sahivalue,Manual,Mid,sahivalue_000091,2016
+5,olx,370218,0.53,Electric,74556,"Jaipur, Rajasthan",Ford,Unknown,,,,370218,4.97,,,2025-07-02T11:51:40.844780,olx,CVT,LX,olx_000092,2019
+0,carwale,1010121,1.0,Petrol,2339,"Visakhapatnam, Andhra Pradesh",Volkswagen,Unknown,,,1010121,,431.86,,,2025-07-02T11:51:40.844780,carwale,AMT,Top,carwale_000093,2024
+0,olx,857499,1.0,Hybrid,0,"Delhi, Delhi",Mahindra,KUV100,,,,857499,857499.0,,,2025-07-02T11:51:40.844780,olx,Manual,Base,olx_000094,2024
+4,sahivalue,495524,0.49,Petrol,77821,"Chennai, Tamil Nadu",Kia,Unknown,,,,,6.37,495524,,2025-07-02T11:51:40.844780,sahivalue,Automatic,VX,sahivalue_000095,2020
+4,cardekho,684434,0.66,CNG,40649,"Thane, Maharashtra",Toyota,Corolla,684434,,,,16.84,,,2025-07-02T11:51:40.844780,cardekho,Manual,Base,cardekho_000096,2020
+9,spinny,198407,0.42,Electric,109885,"Mumbai, Maharashtra",Kia,Unknown,,,,,1.81,,198407,2025-07-02T11:51:40.844780,spinny,Manual,Top,spinny_000097,2015
+6,carwale,340918,0.51,Diesel,85903,"Thane, Maharashtra",Mahindra,XUV300,,,340918,,3.97,,,2025-07-02T11:51:40.844780,carwale,Manual,EX,carwale_000098,2018
+1,carwale,622120,0.79,Petrol,9399,"Delhi, Delhi",Renault,Unknown,,,622120,,66.19,,,2025-07-02T11:51:40.845788,carwale,Automatic,LX,carwale_000099,2023
+1,carwale,756984,0.65,Hybrid,17474,"Jaipur, Rajasthan",Mahindra,Bolero,,,756984,,43.32,,,2025-07-02T11:51:40.845788,carwale,Manual,Base,carwale_000100,2023
+2,sahivalue,865823,0.58,Electric,38574,"Delhi, Delhi",Toyota,Fortuner,,,,,22.45,865823,,2025-07-02T11:51:40.845788,sahivalue,AMT,Top,sahivalue_000101,2022
+4,olx,1411110,0.59,Petrol,56345,"Chennai, Tamil Nadu",Mercedes-Benz,GLE,,,,1411110,25.04,,,2025-07-02T11:51:40.845788,olx,CVT,Top,olx_000102,2020
+2,cardekho,529883,0.66,Hybrid,29427,"Kanpur, Uttar Pradesh",Tata,Nexon,529883,,,,18.01,,,2025-07-02T11:51:40.845788,cardekho,CVT,Base,cardekho_000103,2022
+3,carwale,563804,0.52,Petrol,59990,"Ahmedabad, Gujarat",Honda,WR-V,,,563804,,9.4,,,2025-07-02T11:51:40.845788,carwale,Manual,VX,carwale_000104,2021
+2,carwale,660771,0.66,Diesel,29031,"Bangalore, Karnataka",Mahindra,KUV100,,,660771,,22.76,,,2025-07-02T11:51:40.845788,carwale,CVT,Mid,carwale_000105,2022
+3,carwale,440593,0.59,Diesel,48898,"Bangalore, Karnataka",Tata,Tigor,,,440593,,9.01,,,2025-07-02T11:51:40.845788,carwale,Automatic,EX,carwale_000106,2021
+0,olx,1241568,1.0,CNG,1793,"Indore, Madhya Pradesh",Toyota,Urban Cruiser,,,,1241568,692.45,,,2025-07-02T11:51:40.845788,olx,CVT,VX,olx_000107,2024
+9,cardekho,244121,0.32,Electric,161664,"Ahmedabad, Gujarat",Volkswagen,Unknown,244121,,,,1.51,,,2025-07-02T11:51:40.845788,cardekho,Manual,ZX,cardekho_000108,2015
+8,cartrade,218659,0.54,CNG,63261,"Chennai, Tamil Nadu",Nissan,Unknown,,218659,,,3.46,,,2025-07-02T11:51:40.845788,cartrade,AMT,LX,cartrade_000109,2016
+0,cardekho,1131402,1.0,CNG,473,"Nagpur, Maharashtra",Toyota,Yaris,1131402,,,,2391.97,,,2025-07-02T11:51:40.845788,cardekho,Manual,Top,cardekho_000110,2024
+4,spinny,580561,0.59,Diesel,55246,"Lucknow, Uttar Pradesh",Toyota,Etios,,,,,10.51,,580561,2025-07-02T11:51:40.845788,spinny,AMT,LX,spinny_000111,2020
+7,olx,195554,0.45,Hybrid,104836,"Nagpur, Maharashtra",Maruti Suzuki,Dzire,,,,195554,1.87,,,2025-07-02T11:51:40.845788,olx,Automatic,Base,olx_000112,2017
+7,carwale,1007398,0.38,Electric,133363,"Kolkata, West Bengal",Mercedes-Benz,GLC,,,1007398,,7.55,,,2025-07-02T11:51:40.845788,carwale,AMT,ZX,carwale_000113,2017
+2,spinny,702739,0.73,Petrol,21345,"Mumbai, Maharashtra",Mahindra,Scorpio,,,,,32.92,,702739,2025-07-02T11:51:40.845788,spinny,Manual,Base,spinny_000114,2022
+1,cartrade,676639,0.74,Electric,12570,"Nagpur, Maharashtra",Nissan,Unknown,,676639,,,53.83,,,2025-07-02T11:51:40.845788,cartrade,Automatic,VX,cartrade_000115,2023
+5,sahivalue,365724,0.5,Electric,83767,"Nagpur, Maharashtra",Chevrolet,Unknown,,,,,4.37,365724,,2025-07-02T11:51:40.845788,sahivalue,AMT,SX,sahivalue_000116,2019
+1,cardekho,848205,0.63,Hybrid,18784,"Ahmedabad, Gujarat",Volkswagen,Unknown,848205,,,,45.16,,,2025-07-02T11:51:40.845788,cardekho,AMT,SX,cardekho_000117,2023
+9,cardekho,271150,0.4,Diesel,120956,"Kanpur, Uttar Pradesh",Toyota,Fortuner,271150,,,,2.24,,,2025-07-02T11:51:40.845788,cardekho,CVT,Base,cardekho_000118,2015
+5,cardekho,1137216,0.63,Diesel,48556,"Nagpur, Maharashtra",Audi,TT,1137216,,,,23.42,,,2025-07-02T11:51:40.845788,cardekho,Automatic,Base,cardekho_000119,2019
+9,cardekho,207681,0.48,Hybrid,78767,"Chennai, Tamil Nadu",Kia,Unknown,207681,,,,2.64,,,2025-07-02T11:51:40.845788,cardekho,CVT,LX,cardekho_000120,2015
+5,spinny,457907,0.63,Petrol,48208,"Nagpur, Maharashtra",Honda,Accord,,,,,9.5,,457907,2025-07-02T11:51:40.845788,spinny,AMT,SX,spinny_000121,2019
+4,carwale,372903,0.68,Electric,35671,"Bhopal, Madhya Pradesh",Tata,Hexa,,,372903,,10.45,,,2025-07-02T11:51:40.845788,carwale,CVT,LX,carwale_000122,2020
+3,carwale,486841,0.63,Hybrid,42838,"Mumbai, Maharashtra",Jeep,Unknown,,,486841,,11.36,,,2025-07-02T11:51:40.845788,carwale,AMT,SX,carwale_000123,2021
+6,sahivalue,407792,0.4,Petrol,121123,"Nagpur, Maharashtra",Toyota,Glanza,,,,,3.37,407792,,2025-07-02T11:51:40.845788,sahivalue,AMT,SX,sahivalue_000124,2018
+7,cartrade,1055736,0.43,Hybrid,114091,"Bhopal, Madhya Pradesh",Mercedes-Benz,C-Class,,1055736,,,9.25,,,2025-07-02T11:51:40.845788,cartrade,Manual,Mid,cartrade_000125,2017
+1,spinny,705695,0.65,Electric,17314,"Pune, Maharashtra",Chevrolet,Unknown,,,,,40.76,,705695,2025-07-02T11:51:40.845788,spinny,AMT,ZX,spinny_000126,2023
+6,olx,474162,0.54,Electric,75105,"Kanpur, Uttar Pradesh",Toyota,Yaris,,,,474162,6.31,,,2025-07-02T11:51:40.845788,olx,Manual,Mid,olx_000127,2018
+7,cardekho,232832,0.38,Electric,135288,"Bhopal, Madhya Pradesh",Hyundai,Creta,232832,,,,1.72,,,2025-07-02T11:51:40.845788,cardekho,CVT,LX,cardekho_000128,2017
+7,olx,291311,0.54,Diesel,72528,"Chennai, Tamil Nadu",Honda,City,,,,291311,4.02,,,2025-07-02T11:51:40.845788,olx,Automatic,Mid,olx_000129,2017
+7,olx,198806,0.39,Hybrid,129355,"Visakhapatnam, Andhra Pradesh",Maruti Suzuki,WagonR,,,,198806,1.54,,,2025-07-02T11:51:40.845788,olx,Automatic,Top,olx_000130,2017
+8,cartrade,201744,0.35,Petrol,149891,"Pune, Maharashtra",Hyundai,Elite i20,,201744,,,1.35,,,2025-07-02T11:51:40.845788,cartrade,Manual,EX,cartrade_000131,2016
+4,cardekho,361761,0.68,Hybrid,36868,"Hyderabad, Telangana",Tata,Tiago,361761,,,,9.81,,,2025-07-02T11:51:40.845788,cardekho,CVT,VX,cardekho_000132,2020
+3,spinny,511829,0.59,CNG,48169,"Bangalore, Karnataka",Nissan,Unknown,,,,,10.63,,511829,2025-07-02T11:51:40.845788,spinny,Manual,LX,spinny_000133,2021
+7,spinny,350800,0.41,Petrol,122878,"Kanpur, Uttar Pradesh",Toyota,Yaris,,,,,2.85,,350800,2025-07-02T11:51:40.845788,spinny,Automatic,ZX,spinny_000134,2017
+3,olx,1722779,0.71,Electric,29030,"Kanpur, Uttar Pradesh",Audi,Q7,,,,1722779,59.34,,,2025-07-02T11:51:40.845788,olx,Manual,ZX,olx_000135,2021
+3,olx,471343,0.73,Petrol,26115,"Bangalore, Karnataka",MG,Unknown,,,,471343,18.05,,,2025-07-02T11:51:40.845788,olx,Automatic,Top,olx_000136,2021
+8,olx,215746,0.39,CNG,129173,"Thane, Maharashtra",Jeep,Unknown,,,,215746,1.67,,,2025-07-02T11:51:40.845788,olx,Manual,LX,olx_000137,2016
+8,carwale,752627,0.5,Hybrid,78843,"Kolkata, West Bengal",Mercedes-Benz,A-Class,,,752627,,9.55,,,2025-07-02T11:51:40.845788,carwale,AMT,EX,carwale_000138,2016
+2,sahivalue,558072,0.56,Hybrid,41006,"Chennai, Tamil Nadu",Skoda,Unknown,,,,,13.61,558072,,2025-07-02T11:51:40.845788,sahivalue,Automatic,SX,sahivalue_000139,2022
+7,cardekho,250673,0.5,Diesel,87291,"Ahmedabad, Gujarat",Ford,Unknown,250673,,,,2.87,,,2025-07-02T11:51:40.845788,cardekho,Automatic,VX,cardekho_000140,2017
+5,sahivalue,348900,0.64,Petrol,46227,"Delhi, Delhi",Jeep,Unknown,,,,,7.55,348900,,2025-07-02T11:51:40.845788,sahivalue,AMT,VX,sahivalue_000141,2019
+5,carwale,344947,0.47,CNG,92588,"Mumbai, Maharashtra",Jeep,Unknown,,,344947,,3.73,,,2025-07-02T11:51:40.845788,carwale,CVT,VX,carwale_000142,2019
+2,sahivalue,651326,0.69,CNG,25528,"Visakhapatnam, Andhra Pradesh",Mahindra,Scorpio,,,,,25.51,651326,,2025-07-02T11:51:40.845788,sahivalue,Automatic,Mid,sahivalue_000143,2022
+4,carwale,383147,0.64,Diesel,44607,"Delhi, Delhi",Renault,Unknown,,,383147,,8.59,,,2025-07-02T11:51:40.845788,carwale,Automatic,Mid,carwale_000144,2020
+1,olx,633984,0.81,Hybrid,8314,"Delhi, Delhi",Nissan,Unknown,,,,633984,76.25,,,2025-07-02T11:51:40.845788,olx,Automatic,VX,olx_000145,2023
+9,cartrade,148908,0.3,Petrol,170907,"Delhi, Delhi",Tata,Hexa,,148908,,,0.87,,,2025-07-02T11:51:40.845788,cartrade,Manual,LX,cartrade_000146,2015
+0,spinny,734354,1.0,Diesel,133,"Chennai, Tamil Nadu",Hyundai,Verna,,,,,5521.46,,734354,2025-07-02T11:51:40.845788,spinny,CVT,SX,spinny_000147,2024
+2,cartrade,680811,0.77,Electric,17338,"Delhi, Delhi",Kia,Unknown,,680811,,,39.27,,,2025-07-02T11:51:40.845788,cartrade,Manual,LX,cartrade_000148,2022
+0,cartrade,2829427,1.0,Hybrid,0,"Bangalore, Karnataka",Audi,TT,,2829427,,,2829427.0,,,2025-07-02T11:51:40.845788,cartrade,Automatic,Top,cartrade_000149,2024
+0,sahivalue,797261,1.0,Petrol,3798,"Kolkata, West Bengal",Ford,Unknown,,,,,209.92,797261,,2025-07-02T11:51:40.845788,sahivalue,Automatic,LX,sahivalue_000150,2024
+9,spinny,657361,0.42,Hybrid,111319,"Mumbai, Maharashtra",Audi,TT,,,,,5.91,,657361,2025-07-02T11:51:40.845788,spinny,Manual,VX,spinny_000151,2015
+1,cartrade,728903,0.6,Petrol,20132,"Visakhapatnam, Andhra Pradesh",Jeep,Unknown,,728903,,,36.21,,,2025-07-02T11:51:40.845788,cartrade,Manual,VX,cartrade_000152,2023
+6,carwale,300692,0.6,CNG,54164,"Visakhapatnam, Andhra Pradesh",Hyundai,Elantra,,,300692,,5.55,,,2025-07-02T11:51:40.845788,carwale,Automatic,Mid,carwale_000153,2018
+3,cartrade,591834,0.57,Diesel,52693,"Jaipur, Rajasthan",Kia,Unknown,,591834,,,11.23,,,2025-07-02T11:51:40.845788,cartrade,Manual,ZX,cartrade_000154,2021
+6,carwale,322208,0.49,CNG,92166,"Kanpur, Uttar Pradesh",Kia,Unknown,,,322208,,3.5,,,2025-07-02T11:51:40.845788,carwale,Manual,LX,carwale_000155,2018
+5,sahivalue,1264373,0.6,Hybrid,56398,"Ahmedabad, Gujarat",Audi,TT,,,,,22.42,1264373,,2025-07-02T11:51:40.845788,sahivalue,Automatic,SX,sahivalue_000156,2019
+0,carwale,938468,1.0,Petrol,3861,"Pune, Maharashtra",Mahindra,Thar,,,938468,,243.06,,,2025-07-02T11:51:40.845788,carwale,Manual,ZX,carwale_000157,2024
+2,carwale,2178168,0.73,Hybrid,21156,"Lucknow, Uttar Pradesh",Mercedes-Benz,GLE,,,2178168,,102.96,,,2025-07-02T11:51:40.845788,carwale,CVT,ZX,carwale_000158,2022
+7,cartrade,240648,0.56,CNG,61335,"Hyderabad, Telangana",Tata,Hexa,,240648,,,3.92,,,2025-07-02T11:51:40.845788,cartrade,CVT,Top,cartrade_000159,2017
+9,olx,671749,0.29,Diesel,178189,"Kolkata, West Bengal",Audi,Q3,,,,671749,3.77,,,2025-07-02T11:51:40.845788,olx,CVT,Top,olx_000160,2015
+2,olx,915594,0.68,Hybrid,26625,"Thane, Maharashtra",Toyota,Fortuner,,,,915594,34.39,,,2025-07-02T11:51:40.845788,olx,CVT,LX,olx_000161,2022
+3,carwale,446164,0.63,Diesel,41632,"Pune, Maharashtra",Skoda,Unknown,,,446164,,10.72,,,2025-07-02T11:51:40.845788,carwale,Manual,LX,carwale_000162,2021
+9,cartrade,254390,0.31,CNG,167898,"Lucknow, Uttar Pradesh",Honda,Jazz,,254390,,,1.52,,,2025-07-02T11:51:40.845788,cartrade,AMT,VX,cartrade_000163,2015
+6,olx,315324,0.43,Hybrid,111721,"Delhi, Delhi",Kia,Unknown,,,,315324,2.82,,,2025-07-02T11:51:40.845788,olx,CVT,EX,olx_000164,2018
+8,sahivalue,828662,0.52,Hybrid,71269,"Jaipur, Rajasthan",Audi,Q5,,,,,11.63,828662,,2025-07-02T11:51:40.845788,sahivalue,AMT,LX,sahivalue_000165,2016
+5,sahivalue,322069,0.61,Hybrid,53161,"Pune, Maharashtra",Chevrolet,Unknown,,,,,6.06,322069,,2025-07-02T11:51:40.845788,sahivalue,CVT,Base,sahivalue_000166,2019
+4,cardekho,412728,0.65,Diesel,42995,"Ahmedabad, Gujarat",MG,Unknown,412728,,,,9.6,,,2025-07-02T11:51:40.845788,cardekho,Automatic,Mid,cardekho_000167,2020
+4,cardekho,321348,0.63,Petrol,47069,"Indore, Madhya Pradesh",Maruti Suzuki,Baleno,321348,,,,6.83,,,2025-07-02T11:51:40.845788,cardekho,Automatic,EX,cardekho_000168,2020
+3,olx,591881,0.51,Hybrid,62256,"Ahmedabad, Gujarat",Volkswagen,Unknown,,,,591881,9.51,,,2025-07-02T11:51:40.845788,olx,AMT,Top,olx_000169,2021
+2,carwale,517065,0.6,CNG,36224,"Jaipur, Rajasthan",Tata,Tigor,,,517065,,14.27,,,2025-07-02T11:51:40.845788,carwale,Manual,EX,carwale_000170,2022
+1,carwale,637784,0.56,Diesel,24386,"Bangalore, Karnataka",Hyundai,Grand i10,,,637784,,26.15,,,2025-07-02T11:51:40.845788,carwale,CVT,VX,carwale_000171,2023
+4,sahivalue,332348,0.64,Hybrid,44222,"Delhi, Delhi",Tata,Zest,,,,,7.52,332348,,2025-07-02T11:51:40.845788,sahivalue,CVT,LX,sahivalue_000172,2020
+0,spinny,665642,1.0,Hybrid,0,"Lucknow, Uttar Pradesh",Tata,Tiago,,,,,665642.0,,665642,2025-07-02T11:51:40.845788,spinny,CVT,Top,spinny_000173,2024
+2,cardekho,698765,0.68,CNG,27172,"Pune, Maharashtra",Mahindra,Scorpio,698765,,,,25.72,,,2025-07-02T11:51:40.845788,cardekho,Automatic,Mid,cardekho_000174,2022
+1,cardekho,2194590,0.67,Electric,16412,"Visakhapatnam, Andhra Pradesh",BMW,X3,2194590,,,,133.72,,,2025-07-02T11:51:40.845788,cardekho,AMT,SX,cardekho_000175,2023
+8,olx,200739,0.38,Diesel,133593,"Thane, Maharashtra",Skoda,Unknown,,,,200739,1.5,,,2025-07-02T11:51:40.845788,olx,CVT,SX,olx_000176,2016
+0,sahivalue,821875,1.0,Electric,0,"Kolkata, West Bengal",Hyundai,Grand i10,,,,,821875.0,821875,,2025-07-02T11:51:40.845788,sahivalue,Manual,Base,sahivalue_000177,2024
+2,carwale,2131643,0.6,Hybrid,35585,"Thane, Maharashtra",Audi,A3,,,2131643,,59.9,,,2025-07-02T11:51:40.845788,carwale,AMT,LX,carwale_000178,2022
+8,cartrade,270114,0.39,Diesel,130723,"Nagpur, Maharashtra",Volkswagen,Unknown,,270114,,,2.07,,,2025-07-02T11:51:40.845788,cartrade,Manual,LX,cartrade_000179,2016
+3,sahivalue,465278,0.55,Diesel,55741,"Kolkata, West Bengal",Jeep,Unknown,,,,,8.35,465278,,2025-07-02T11:51:40.845788,sahivalue,CVT,LX,sahivalue_000180,2021
+5,sahivalue,453749,0.64,Electric,45774,"Visakhapatnam, Andhra Pradesh",Honda,Civic,,,,,9.91,453749,,2025-07-02T11:51:40.845788,sahivalue,AMT,SX,sahivalue_000181,2019
+7,carwale,245808,0.44,Petrol,109772,"Visakhapatnam, Andhra Pradesh",Tata,Tigor,,,245808,,2.24,,,2025-07-02T11:51:40.845788,carwale,Automatic,Mid,carwale_000182,2017
+2,cartrade,487857,0.77,Diesel,16781,"Hyderabad, Telangana",Tata,Safari,,487857,,,29.07,,,2025-07-02T11:51:40.845788,cartrade,Automatic,LX,cartrade_000183,2022
+1,carwale,2683809,0.57,Hybrid,21805,"Kanpur, Uttar Pradesh",Mercedes-Benz,C-Class,,,2683809,,123.08,,,2025-07-02T11:51:40.845788,carwale,Automatic,Top,carwale_000184,2023
+5,sahivalue,352003,0.6,Petrol,56788,"Mumbai, Maharashtra",Renault,Unknown,,,,,6.2,352003,,2025-07-02T11:51:40.845788,sahivalue,Manual,LX,sahivalue_000185,2019
+9,carwale,282370,0.49,Electric,74739,"Visakhapatnam, Andhra Pradesh",Toyota,Glanza,,,282370,,3.78,,,2025-07-02T11:51:40.845788,carwale,AMT,ZX,carwale_000186,2015
+7,carwale,246217,0.44,Electric,109714,"Ahmedabad, Gujarat",Tata,Tigor,,,246217,,2.24,,,2025-07-02T11:51:40.845788,carwale,AMT,Top,carwale_000187,2017
+8,olx,289911,0.38,Petrol,133178,"Thane, Maharashtra",Volkswagen,Unknown,,,,289911,2.18,,,2025-07-02T11:51:40.845788,olx,Manual,EX,olx_000188,2016
+5,cardekho,1172959,0.63,CNG,47541,"Hyderabad, Telangana",BMW,X3,1172959,,,,24.67,,,2025-07-02T11:51:40.845788,cardekho,CVT,SX,cardekho_000189,2019
+0,sahivalue,860292,1.0,CNG,4420,"Ahmedabad, Gujarat",Ford,Unknown,,,,,194.64,860292,,2025-07-02T11:51:40.845788,sahivalue,AMT,SX,sahivalue_000190,2024
+2,sahivalue,411693,0.74,Hybrid,20173,"Pune, Maharashtra",Maruti Suzuki,WagonR,,,,,20.41,411693,,2025-07-02T11:51:40.845788,sahivalue,Manual,Base,sahivalue_000191,2022
+8,spinny,165518,0.47,Electric,95075,"Indore, Madhya Pradesh",Maruti Suzuki,Alto,,,,,1.74,,165518,2025-07-02T11:51:40.845788,spinny,Manual,ZX,spinny_000192,2016
+0,spinny,856263,1.0,Petrol,0,"Chennai, Tamil Nadu",Chevrolet,Unknown,,,,,856263.0,,856263,2025-07-02T11:51:40.845788,spinny,AMT,ZX,spinny_000193,2024
+2,cardekho,634211,0.66,Diesel,29133,"Ahmedabad, Gujarat",Chevrolet,Unknown,634211,,,,21.77,,,2025-07-02T11:51:40.845788,cardekho,Automatic,Mid,cardekho_000194,2022
+5,cartrade,332205,0.49,Hybrid,85915,"Mumbai, Maharashtra",Renault,Unknown,,332205,,,3.87,,,2025-07-02T11:51:40.845788,cartrade,AMT,VX,cartrade_000195,2019
+5,cartrade,270274,0.61,Diesel,53762,"Lucknow, Uttar Pradesh",Maruti Suzuki,WagonR,,270274,,,5.03,,,2025-07-02T11:51:40.845788,cartrade,AMT,Base,cartrade_000196,2019
+7,cartrade,276179,0.57,Diesel,59819,"Chennai, Tamil Nadu",Nissan,Unknown,,276179,,,4.62,,,2025-07-02T11:51:40.845788,cartrade,Manual,Top,cartrade_000197,2017
+7,spinny,877793,0.43,CNG,116030,"Pune, Maharashtra",Audi,Q7,,,,,7.57,,877793,2025-07-02T11:51:40.845788,spinny,Manual,EX,spinny_000198,2017
+1,carwale,729635,0.72,Petrol,13356,"Mumbai, Maharashtra",Nissan,Unknown,,,729635,,54.63,,,2025-07-02T11:51:40.845788,carwale,Automatic,LX,carwale_000199,2023
+4,olx,482505,0.5,CNG,75949,"Mumbai, Maharashtra",Volkswagen,Unknown,,,,482505,6.35,,,2025-07-02T11:51:40.845788,olx,AMT,Top,olx_000200,2020
+9,sahivalue,177234,0.3,Electric,171815,"Visakhapatnam, Andhra Pradesh",Hyundai,Creta,,,,,1.03,177234,,2025-07-02T11:51:40.845788,sahivalue,CVT,ZX,sahivalue_000201,2015
+7,olx,849207,0.52,Hybrid,80176,"Pune, Maharashtra",Audi,A8,,,,849207,10.59,,,2025-07-02T11:51:40.845788,olx,AMT,Base,olx_000202,2017
+4,carwale,583573,0.61,Electric,51940,"Nagpur, Maharashtra",Toyota,Yaris,,,583573,,11.24,,,2025-07-02T11:51:40.845788,carwale,Manual,EX,carwale_000203,2020
+1,sahivalue,470667,0.8,Hybrid,8897,"Kolkata, West Bengal",Maruti Suzuki,Swift,,,,,52.9,470667,,2025-07-02T11:51:40.845788,sahivalue,Manual,EX,sahivalue_000204,2023
+0,carwale,2587064,1.0,Petrol,0,"Kanpur, Uttar Pradesh",BMW,3 Series,,,2587064,,2587064.0,,,2025-07-02T11:51:40.845788,carwale,AMT,Base,carwale_000205,2024
+5,olx,402027,0.46,Petrol,94860,"Thane, Maharashtra",Mahindra,Bolero,,,,402027,4.24,,,2025-07-02T11:51:40.845788,olx,Automatic,EX,olx_000206,2019
+4,spinny,430042,0.69,Petrol,32931,"Jaipur, Rajasthan",Chevrolet,Unknown,,,,,13.06,,430042,2025-07-02T11:51:40.845788,spinny,CVT,Base,spinny_000207,2020
+3,olx,450356,0.69,Diesel,32681,"Kolkata, West Bengal",Chevrolet,Unknown,,,,450356,13.78,,,2025-07-02T11:51:40.845788,olx,Automatic,Base,olx_000208,2021
+5,olx,375238,0.47,Electric,94059,"Hyderabad, Telangana",Chevrolet,Unknown,,,,375238,3.99,,,2025-07-02T11:51:40.845788,olx,Automatic,ZX,olx_000209,2019
+7,sahivalue,279710,0.4,Diesel,124752,"Ahmedabad, Gujarat",Ford,Unknown,,,,,2.24,279710,,2025-07-02T11:51:40.845788,sahivalue,AMT,VX,sahivalue_000210,2017
+0,spinny,3146989,1.0,Petrol,4088,"Kolkata, West Bengal",Mercedes-Benz,GLE,,,,,769.81,,3146989,2025-07-02T11:51:40.845788,spinny,Automatic,VX,spinny_000211,2024
+0,olx,784880,1.0,Diesel,0,"Kanpur, Uttar Pradesh",Nissan,Unknown,,,,784880,784880.0,,,2025-07-02T11:51:40.845788,olx,Automatic,EX,olx_000212,2024
+6,cardekho,292871,0.42,Electric,114190,"Pune, Maharashtra",Ford,Unknown,292871,,,,2.56,,,2025-07-02T11:51:40.846794,cardekho,Automatic,EX,cardekho_000213,2018
+5,cardekho,368007,0.61,CNG,52978,"Bhopal, Madhya Pradesh",Renault,Unknown,368007,,,,6.95,,,2025-07-02T11:51:40.846794,cardekho,AMT,EX,cardekho_000214,2019
+3,olx,459790,0.71,Electric,28098,"Mumbai, Maharashtra",Nissan,Unknown,,,,459790,16.36,,,2025-07-02T11:51:40.846794,olx,Automatic,SX,olx_000215,2021
+4,olx,418467,0.49,Petrol,79659,"Jaipur, Rajasthan",Nissan,Unknown,,,,418467,5.25,,,2025-07-02T11:51:40.846794,olx,Manual,ZX,olx_000216,2020
+2,carwale,530073,0.62,Diesel,33850,"Kanpur, Uttar Pradesh",Jeep,Unknown,,,530073,,15.66,,,2025-07-02T11:51:40.846794,carwale,Manual,VX,carwale_000217,2022
+1,carwale,772549,0.78,Petrol,10355,"Thane, Maharashtra",Volkswagen,Unknown,,,772549,,74.61,,,2025-07-02T11:51:40.846794,carwale,Automatic,VX,carwale_000218,2023
+8,carwale,265712,0.36,Electric,146234,"Bangalore, Karnataka",Mahindra,XUV300,,,265712,,1.82,,,2025-07-02T11:51:40.846794,carwale,Manual,SX,carwale_000219,2016
+8,spinny,201438,0.45,Hybrid,104648,"Lucknow, Uttar Pradesh",Tata,Tigor,,,,,1.92,,201438,2025-07-02T11:51:40.846794,spinny,Manual,VX,spinny_000220,2016
+8,sahivalue,204771,0.49,CNG,84774,"Kolkata, West Bengal",Chevrolet,Unknown,,,,,2.42,204771,,2025-07-02T11:51:40.846794,sahivalue,Automatic,Top,sahivalue_000221,2016
+1,spinny,703128,0.69,Petrol,15260,"Chennai, Tamil Nadu",Skoda,Unknown,,,,,46.08,,703128,2025-07-02T11:51:40.846794,spinny,Automatic,Top,spinny_000222,2023
+3,spinny,726102,0.58,Hybrid,51163,"Bhopal, Madhya Pradesh",Toyota,Glanza,,,,,14.19,,726102,2025-07-02T11:51:40.846794,spinny,Automatic,Top,spinny_000223,2021
+4,olx,395910,0.56,Diesel,63948,"Indore, Madhya Pradesh",MG,Unknown,,,,395910,6.19,,,2025-07-02T11:51:40.846794,olx,Manual,ZX,olx_000224,2020
+2,spinny,2086229,0.62,CNG,33849,"Lucknow, Uttar Pradesh",Audi,A3,,,,,61.63,,2086229,2025-07-02T11:51:40.846794,spinny,AMT,Base,spinny_000225,2022
+5,cartrade,1285386,0.63,Diesel,46641,"Hyderabad, Telangana",Audi,A3,,1285386,,,27.56,,,2025-07-02T11:51:40.846794,cartrade,Manual,ZX,cartrade_000226,2019
+4,carwale,430419,0.66,Hybrid,40752,"Thane, Maharashtra",MG,Unknown,,,430419,,10.56,,,2025-07-02T11:51:40.846794,carwale,CVT,EX,carwale_000227,2020
+6,olx,298495,0.5,CNG,86253,"Kolkata, West Bengal",Chevrolet,Unknown,,,,298495,3.46,,,2025-07-02T11:51:40.846794,olx,Automatic,Base,olx_000228,2018
+0,carwale,834792,1.0,Electric,0,"Hyderabad, Telangana",Nissan,Unknown,,,834792,,834792.0,,,2025-07-02T11:51:40.846794,carwale,Manual,ZX,carwale_000229,2024
+8,cartrade,239109,0.46,Electric,98829,"Kolkata, West Bengal",Chevrolet,Unknown,,239109,,,2.42,,,2025-07-02T11:51:40.846794,cartrade,Automatic,ZX,cartrade_000230,2016
+9,cardekho,253031,0.3,Hybrid,173670,"Bangalore, Karnataka",Toyota,Fortuner,253031,,,,1.46,,,2025-07-02T11:51:40.846794,cardekho,Automatic,EX,cardekho_000231,2015
+2,olx,574678,0.61,Hybrid,35142,"Kanpur, Uttar Pradesh",Skoda,Unknown,,,,574678,16.35,,,2025-07-02T11:51:40.846794,olx,CVT,ZX,olx_000232,2022
+5,cartrade,245252,0.63,Diesel,48507,"Thane, Maharashtra",Maruti Suzuki,Ciaz,,245252,,,5.06,,,2025-07-02T11:51:40.846794,cartrade,Manual,Top,cartrade_000233,2019
+4,carwale,334171,0.67,Diesel,37303,"Jaipur, Rajasthan",Maruti Suzuki,Ciaz,,,334171,,8.96,,,2025-07-02T11:51:40.846794,carwale,Manual,LX,carwale_000234,2020
+7,olx,263709,0.5,Petrol,85931,"Mumbai, Maharashtra",Kia,Unknown,,,,263709,3.07,,,2025-07-02T11:51:40.846794,olx,CVT,ZX,olx_000235,2017
+2,olx,547240,0.62,Petrol,33439,"Kolkata, West Bengal",Tata,Safari,,,,547240,16.37,,,2025-07-02T11:51:40.846794,olx,CVT,Top,olx_000236,2022
+6,sahivalue,283836,0.59,CNG,57947,"Bhopal, Madhya Pradesh",Ford,Unknown,,,,,4.9,283836,,2025-07-02T11:51:40.846794,sahivalue,Automatic,Mid,sahivalue_000237,2018
+6,carwale,277975,0.5,Hybrid,87079,"Chennai, Tamil Nadu",Chevrolet,Unknown,,,277975,,3.19,,,2025-07-02T11:51:40.846794,carwale,Automatic,Top,carwale_000238,2018
+6,cardekho,280636,0.57,Hybrid,63824,"Visakhapatnam, Andhra Pradesh",Skoda,Unknown,280636,,,,4.4,,,2025-07-02T11:51:40.846794,cardekho,AMT,Mid,cardekho_000239,2018
+5,olx,361837,0.52,Diesel,78454,"Bhopal, Madhya Pradesh",Skoda,Unknown,,,,361837,4.61,,,2025-07-02T11:51:40.846794,olx,Manual,ZX,olx_000240,2019
+1,cardekho,1014857,0.83,Diesel,7510,"Lucknow, Uttar Pradesh",Toyota,Yaris,1014857,,,,135.13,,,2025-07-02T11:51:40.846794,cardekho,CVT,EX,cardekho_000241,2023
+5,cardekho,299229,0.46,Hybrid,96390,"Pune, Maharashtra",Tata,Tigor,299229,,,,3.1,,,2025-07-02T11:51:40.846794,cardekho,CVT,EX,cardekho_000242,2019
+1,cardekho,641796,0.7,Diesel,14352,"Ahmedabad, Gujarat",Renault,Unknown,641796,,,,44.72,,,2025-07-02T11:51:40.846794,cardekho,AMT,Mid,cardekho_000243,2023
+7,cartrade,740276,0.54,Electric,69400,"Kanpur, Uttar Pradesh",BMW,3 Series,,740276,,,10.67,,,2025-07-02T11:51:40.846794,cartrade,AMT,LX,cartrade_000244,2017
+9,cardekho,198805,0.4,Electric,123155,"Ahmedabad, Gujarat",Kia,Unknown,198805,,,,1.61,,,2025-07-02T11:51:40.846794,cardekho,CVT,EX,cardekho_000245,2015
+6,olx,327521,0.56,Petrol,66753,"Lucknow, Uttar Pradesh",Chevrolet,Unknown,,,,327521,4.91,,,2025-07-02T11:51:40.846794,olx,Manual,Top,olx_000246,2018
+7,sahivalue,250769,0.5,CNG,85234,"Kanpur, Uttar Pradesh",Jeep,Unknown,,,,,2.94,250769,,2025-07-02T11:51:40.846794,sahivalue,Automatic,VX,sahivalue_000247,2017
+4,spinny,434507,0.51,Diesel,73984,"Nagpur, Maharashtra",Hyundai,i20,,,,,5.87,,434507,2025-07-02T11:51:40.846794,spinny,AMT,SX,spinny_000248,2020
+5,olx,523420,0.49,Petrol,88484,"Nagpur, Maharashtra",Toyota,Innova,,,,523420,5.92,,,2025-07-02T11:51:40.846794,olx,Automatic,SX,olx_000249,2019
+2,carwale,530329,0.59,Electric,36617,"Delhi, Delhi",Chevrolet,Unknown,,,530329,,14.48,,,2025-07-02T11:51:40.846794,carwale,Automatic,LX,carwale_000250,2022
+0,carwale,1015090,1.0,CNG,782,"Hyderabad, Telangana",Honda,BR-V,,,1015090,,1298.07,,,2025-07-02T11:51:40.846794,carwale,CVT,SX,carwale_000251,2024
+1,cardekho,664428,0.67,Petrol,16293,"Ahmedabad, Gujarat",Nissan,Unknown,664428,,,,40.78,,,2025-07-02T11:51:40.846794,cardekho,Manual,VX,cardekho_000252,2023
+3,olx,511478,0.71,Electric,29424,"Kolkata, West Bengal",Ford,Unknown,,,,511478,17.38,,,2025-07-02T11:51:40.846794,olx,Manual,VX,olx_000253,2021
+8,sahivalue,157331,0.51,Diesel,75873,"Kanpur, Uttar Pradesh",Maruti Suzuki,WagonR,,,,,2.07,157331,,2025-07-02T11:51:40.846794,sahivalue,Manual,Top,sahivalue_000254,2016
+4,cardekho,488171,0.52,Hybrid,71073,"Bhopal, Madhya Pradesh",Mahindra,KUV100,488171,,,,6.87,,,2025-07-02T11:51:40.846794,cardekho,Manual,ZX,cardekho_000255,2020
+1,cartrade,609829,0.78,Diesel,9954,"Visakhapatnam, Andhra Pradesh",Tata,Zest,,609829,,,61.26,,,2025-07-02T11:51:40.846794,cartrade,AMT,LX,cartrade_000256,2023
+8,cartrade,246400,0.34,Diesel,151135,"Delhi, Delhi",Volkswagen,Unknown,,246400,,,1.63,,,2025-07-02T11:51:40.846794,cartrade,Manual,EX,cartrade_000257,2016
+8,spinny,832961,0.37,Diesel,140209,"Jaipur, Rajasthan",Audi,Q7,,,,,5.94,,832961,2025-07-02T11:51:40.846794,spinny,Manual,SX,spinny_000258,2016
+2,carwale,600859,0.56,Petrol,40861,"Kolkata, West Bengal",Jeep,Unknown,,,600859,,14.7,,,2025-07-02T11:51:40.846794,carwale,Manual,Base,carwale_000259,2022
+2,carwale,594434,0.74,Petrol,19781,"Delhi, Delhi",MG,Unknown,,,594434,,30.05,,,2025-07-02T11:51:40.846794,carwale,AMT,VX,carwale_000260,2022
+8,spinny,873517,0.41,Diesel,123291,"Pune, Maharashtra",Mercedes-Benz,GLA,,,,,7.09,,873517,2025-07-02T11:51:40.846794,spinny,Automatic,ZX,spinny_000261,2016
+9,cardekho,187421,0.46,Petrol,93285,"Chennai, Tamil Nadu",MG,Unknown,187421,,,,2.01,,,2025-07-02T11:51:40.846794,cardekho,Manual,ZX,cardekho_000262,2015
+4,carwale,451887,0.55,Diesel,65945,"Indore, Madhya Pradesh",Kia,Unknown,,,451887,,6.85,,,2025-07-02T11:51:40.846794,carwale,Manual,Base,carwale_000263,2020
+3,olx,469769,0.63,Hybrid,41532,"Bangalore, Karnataka",Jeep,Unknown,,,,469769,11.31,,,2025-07-02T11:51:40.846794,olx,CVT,LX,olx_000264,2021
+0,olx,729410,1.0,Hybrid,1661,"Bhopal, Madhya Pradesh",Hyundai,Santro,,,,729410,439.14,,,2025-07-02T11:51:40.846794,olx,Automatic,SX,olx_000265,2024
+2,cartrade,610000,0.76,Hybrid,17709,"Pune, Maharashtra",MG,Unknown,,610000,,,34.45,,,2025-07-02T11:51:40.846794,cartrade,AMT,LX,cartrade_000266,2022
+6,cartrade,318902,0.56,Diesel,67152,"Bhopal, Madhya Pradesh",Chevrolet,Unknown,,318902,,,4.75,,,2025-07-02T11:51:40.846794,cartrade,CVT,EX,cartrade_000267,2018
+9,spinny,707822,0.33,Diesel,157313,"Jaipur, Rajasthan",Audi,Q7,,,,,4.5,,707822,2025-07-02T11:51:40.846794,spinny,Manual,EX,spinny_000268,2015
+7,cartrade,256167,0.43,CNG,113224,"Delhi, Delhi",Hyundai,Elantra,,256167,,,2.26,,,2025-07-02T11:51:40.846794,cartrade,AMT,SX,cartrade_000269,2017
+8,olx,217326,0.41,Electric,121224,"Jaipur, Rajasthan",Skoda,Unknown,,,,217326,1.79,,,2025-07-02T11:51:40.846794,olx,Automatic,SX,olx_000270,2016
+1,spinny,792533,0.66,Hybrid,16613,"Indore, Madhya Pradesh",Honda,Amaze,,,,,47.71,,792533,2025-07-02T11:51:40.846794,spinny,Manual,Mid,spinny_000271,2023
+1,carwale,718924,0.81,CNG,8677,"Kanpur, Uttar Pradesh",Nissan,Unknown,,,718924,,82.85,,,2025-07-02T11:51:40.846794,carwale,Manual,VX,carwale_000272,2023
+1,spinny,548098,0.63,Electric,18386,"Hyderabad, Telangana",Maruti Suzuki,Vitara Brezza,,,,,29.81,,548098,2025-07-02T11:51:40.846794,spinny,Automatic,LX,spinny_000273,2023
+8,sahivalue,617618,0.37,Diesel,140596,"Thane, Maharashtra",BMW,i8,,,,,4.39,617618,,2025-07-02T11:51:40.846794,sahivalue,Automatic,Base,sahivalue_000274,2016
+8,sahivalue,221520,0.43,Petrol,112590,"Kolkata, West Bengal",Nissan,Unknown,,,,,1.97,221520,,2025-07-02T11:51:40.846794,sahivalue,CVT,VX,sahivalue_000275,2016
+4,sahivalue,395636,0.54,Diesel,67723,"Ahmedabad, Gujarat",Nissan,Unknown,,,,,5.84,395636,,2025-07-02T11:51:40.846794,sahivalue,AMT,ZX,sahivalue_000276,2020
+6,cartrade,319976,0.46,Electric,101591,"Mumbai, Maharashtra",Jeep,Unknown,,319976,,,3.15,,,2025-07-02T11:51:40.846794,cartrade,CVT,VX,cartrade_000277,2018
+0,spinny,777748,1.0,Diesel,0,"Jaipur, Rajasthan",Nissan,Unknown,,,,,777748.0,,777748,2025-07-02T11:51:40.846794,spinny,AMT,VX,spinny_000278,2024
+4,carwale,468674,0.58,CNG,57838,"Indore, Madhya Pradesh",Kia,Unknown,,,468674,,8.1,,,2025-07-02T11:51:40.846794,carwale,CVT,LX,carwale_000279,2020
+7,olx,333535,0.43,Diesel,115316,"Nagpur, Maharashtra",Honda,WR-V,,,,333535,2.89,,,2025-07-02T11:51:40.846794,olx,AMT,Mid,olx_000280,2017
+5,cartrade,252164,0.52,Diesel,78880,"Bangalore, Karnataka",Maruti Suzuki,WagonR,,252164,,,3.2,,,2025-07-02T11:51:40.846794,cartrade,AMT,Base,cartrade_000281,2019
+7,cardekho,218125,0.44,CNG,108702,"Thane, Maharashtra",Tata,Nexon,218125,,,,2.01,,,2025-07-02T11:51:40.846794,cardekho,Manual,ZX,cardekho_000282,2017
+6,sahivalue,1080221,0.52,Hybrid,81392,"Bhopal, Madhya Pradesh",Audi,A6,,,,,13.27,1080221,,2025-07-02T11:51:40.846794,sahivalue,AMT,Base,sahivalue_000283,2018
+6,olx,261507,0.46,Hybrid,100377,"Kanpur, Uttar Pradesh",Tata,Tiago,,,,261507,2.61,,,2025-07-02T11:51:40.846794,olx,AMT,Top,olx_000284,2018
+9,olx,186881,0.34,Diesel,150148,"Pune, Maharashtra",Ford,Unknown,,,,186881,1.24,,,2025-07-02T11:51:40.846794,olx,AMT,EX,olx_000285,2015
+4,cartrade,429818,0.68,Electric,35826,"Chennai, Tamil Nadu",Nissan,Unknown,,429818,,,12.0,,,2025-07-02T11:51:40.846794,cartrade,AMT,VX,cartrade_000286,2020
+1,sahivalue,2233813,0.87,CNG,5340,"Nagpur, Maharashtra",BMW,X1,,,,,418.32,2233813,,2025-07-02T11:51:40.846794,sahivalue,Automatic,EX,sahivalue_000287,2023
+7,cardekho,419224,0.44,CNG,111973,"Jaipur, Rajasthan",Toyota,Urban Cruiser,419224,,,,3.74,,,2025-07-02T11:51:40.846794,cardekho,Manual,Base,cardekho_000288,2017
+2,cartrade,506762,0.74,Electric,19798,"Hyderabad, Telangana",Tata,Tigor,,506762,,,25.6,,,2025-07-02T11:51:40.846794,cartrade,AMT,SX,cartrade_000289,2022
+9,olx,225239,0.46,Hybrid,93542,"Jaipur, Rajasthan",Mahindra,KUV100,,,,225239,2.41,,,2025-07-02T11:51:40.846794,olx,Manual,VX,olx_000290,2015
+4,spinny,333805,0.69,Diesel,34286,"Kanpur, Uttar Pradesh",Maruti Suzuki,Vitara Brezza,,,,,9.74,,333805,2025-07-02T11:51:40.846794,spinny,Automatic,VX,spinny_000291,2020
+5,olx,384574,0.55,Petrol,70866,"Delhi, Delhi",Ford,Unknown,,,,384574,5.43,,,2025-07-02T11:51:40.846794,olx,CVT,VX,olx_000292,2019
+5,sahivalue,320639,0.58,Petrol,62409,"Ahmedabad, Gujarat",Jeep,Unknown,,,,,5.14,320639,,2025-07-02T11:51:40.846794,sahivalue,AMT,VX,sahivalue_000293,2019
+0,spinny,799308,1.0,Hybrid,856,"Ahmedabad, Gujarat",Chevrolet,Unknown,,,,,933.77,,799308,2025-07-02T11:51:40.846794,spinny,Manual,Top,spinny_000294,2024
+8,cardekho,206081,0.46,CNG,100080,"Kolkata, West Bengal",Renault,Unknown,206081,,,,2.06,,,2025-07-02T11:51:40.846794,cardekho,CVT,LX,cardekho_000295,2016
+5,sahivalue,273496,0.62,Electric,49494,"Hyderabad, Telangana",Maruti Suzuki,Dzire,,,,,5.53,273496,,2025-07-02T11:51:40.846794,sahivalue,CVT,VX,sahivalue_000296,2019
+7,olx,255385,0.46,Petrol,102716,"Thane, Maharashtra",Jeep,Unknown,,,,255385,2.49,,,2025-07-02T11:51:40.846794,olx,CVT,LX,olx_000297,2017
+7,spinny,271893,0.4,Hybrid,127210,"Kanpur, Uttar Pradesh",Nissan,Unknown,,,,,2.14,,271893,2025-07-02T11:51:40.846794,spinny,AMT,Mid,spinny_000298,2017
+5,olx,337863,0.62,Electric,49928,"Mumbai, Maharashtra",Nissan,Unknown,,,,337863,6.77,,,2025-07-02T11:51:40.846794,olx,CVT,Base,olx_000299,2019
+3,carwale,517518,0.56,CNG,53224,"Thane, Maharashtra",Mahindra,Thar,,,517518,,9.72,,,2025-07-02T11:51:40.846794,carwale,Automatic,LX,carwale_000300,2021
+9,sahivalue,184240,0.33,Hybrid,155987,"Kanpur, Uttar Pradesh",Skoda,Unknown,,,,,1.18,184240,,2025-07-02T11:51:40.846794,sahivalue,Automatic,SX,sahivalue_000301,2015
+1,cartrade,606632,0.75,Hybrid,11830,"Lucknow, Uttar Pradesh",Tata,Tigor,,606632,,,51.28,,,2025-07-02T11:51:40.846794,cartrade,CVT,LX,cartrade_000302,2023
+5,cardekho,393756,0.6,Electric,57311,"Bhopal, Madhya Pradesh",Mahindra,Bolero,393756,,,,6.87,,,2025-07-02T11:51:40.846794,cardekho,Manual,VX,cardekho_000303,2019
+2,spinny,627411,0.7,Petrol,24702,"Bangalore, Karnataka",MG,Unknown,,,,,25.4,,627411,2025-07-02T11:51:40.846794,spinny,Manual,SX,spinny_000304,2022
+7,spinny,236656,0.37,Electric,139046,"Mumbai, Maharashtra",Nissan,Unknown,,,,,1.7,,236656,2025-07-02T11:51:40.846794,spinny,CVT,Base,spinny_000305,2017
+6,cardekho,326198,0.51,Hybrid,85165,"Delhi, Delhi",Jeep,Unknown,326198,,,,3.83,,,2025-07-02T11:51:40.846794,cardekho,Manual,Top,cardekho_000306,2018
+8,carwale,209701,0.44,Diesel,109208,"Jaipur, Rajasthan",Jeep,Unknown,,,209701,,1.92,,,2025-07-02T11:51:40.846794,carwale,Automatic,ZX,carwale_000307,2016
+3,cartrade,550227,0.71,Hybrid,28022,"Kanpur, Uttar Pradesh",Kia,Unknown,,550227,,,19.64,,,2025-07-02T11:51:40.846794,cartrade,AMT,Base,cartrade_000308,2021
+7,cardekho,259433,0.39,Petrol,130868,"Nagpur, Maharashtra",MG,Unknown,259433,,,,1.98,,,2025-07-02T11:51:40.846794,cardekho,Automatic,Top,cardekho_000309,2017
+2,olx,775969,0.63,Electric,32540,"Mumbai, Maharashtra",Honda,Amaze,,,,775969,23.85,,,2025-07-02T11:51:40.846794,olx,AMT,ZX,olx_000310,2022
+5,spinny,389320,0.47,Petrol,94084,"Lucknow, Uttar Pradesh",Jeep,Unknown,,,,,4.14,,389320,2025-07-02T11:51:40.846794,spinny,Manual,VX,spinny_000311,2019
+8,cartrade,838629,0.34,Petrol,154697,"Delhi, Delhi",Audi,A3,,838629,,,5.42,,,2025-07-02T11:51:40.846794,cartrade,Manual,Top,cartrade_000312,2016
+4,olx,382697,0.52,Electric,71440,"Ahmedabad, Gujarat",Renault,Unknown,,,,382697,5.36,,,2025-07-02T11:51:40.846794,olx,Automatic,Top,olx_000313,2020
+3,spinny,1886299,0.64,Electric,40894,"Jaipur, Rajasthan",Audi,A4,,,,,46.13,,1886299,2025-07-02T11:51:40.846794,spinny,Manual,ZX,spinny_000314,2021
+6,cartrade,1071530,0.44,Electric,106728,"Jaipur, Rajasthan",Mercedes-Benz,C-Class,,1071530,,,10.04,,,2025-07-02T11:51:40.846794,cartrade,CVT,LX,cartrade_000315,2018
+3,spinny,1740671,0.74,Electric,23893,"Thane, Maharashtra",Audi,A6,,,,,72.85,,1740671,2025-07-02T11:51:40.846794,spinny,Automatic,EX,spinny_000316,2021
+1,sahivalue,744571,0.82,Petrol,8120,"Lucknow, Uttar Pradesh",MG,Unknown,,,,,91.7,744571,,2025-07-02T11:51:40.846794,sahivalue,CVT,Top,sahivalue_000317,2023
+5,carwale,377002,0.62,Diesel,49858,"Lucknow, Uttar Pradesh",Jeep,Unknown,,,377002,,7.56,,,2025-07-02T11:51:40.846794,carwale,CVT,SX,carwale_000318,2019
+2,carwale,602724,0.61,Hybrid,35295,"Pune, Maharashtra",MG,Unknown,,,602724,,17.08,,,2025-07-02T11:51:40.846794,carwale,CVT,Base,carwale_000319,2022
+4,spinny,449959,0.67,CNG,37228,"Kolkata, West Bengal",Skoda,Unknown,,,,,12.09,,449959,2025-07-02T11:51:40.846794,spinny,CVT,ZX,spinny_000320,2020
+2,sahivalue,2139042,0.73,Electric,21688,"Mumbai, Maharashtra",Audi,A8,,,,,98.63,2139042,,2025-07-02T11:51:40.846794,sahivalue,Automatic,Base,sahivalue_000321,2022
+8,olx,635945,0.51,CNG,75006,"Kanpur, Uttar Pradesh",BMW,X5,,,,635945,8.48,,,2025-07-02T11:51:40.846794,olx,AMT,SX,olx_000322,2016
+7,carwale,261413,0.5,Electric,88366,"Pune, Maharashtra",Jeep,Unknown,,,261413,,2.96,,,2025-07-02T11:51:40.846794,carwale,AMT,LX,carwale_000323,2017
+0,cartrade,2527125,1.0,Petrol,0,"Chennai, Tamil Nadu",Audi,Q5,,2527125,,,2527125.0,,,2025-07-02T11:51:40.846794,cartrade,CVT,Top,cartrade_000324,2024
+5,carwale,350615,0.66,Petrol,40459,"Jaipur, Rajasthan",Renault,Unknown,,,350615,,8.67,,,2025-07-02T11:51:40.846794,carwale,Automatic,EX,carwale_000325,2019
+2,sahivalue,667041,0.61,Hybrid,34895,"Lucknow, Uttar Pradesh",Mahindra,Scorpio,,,,,19.12,667041,,2025-07-02T11:51:40.846794,sahivalue,CVT,VX,sahivalue_000326,2022
+1,sahivalue,695013,0.7,Diesel,14636,"Thane, Maharashtra",Renault,Unknown,,,,,47.49,695013,,2025-07-02T11:51:40.846794,sahivalue,Automatic,Mid,sahivalue_000327,2023
+1,sahivalue,730339,0.8,CNG,8751,"Kanpur, Uttar Pradesh",Chevrolet,Unknown,,,,,83.46,730339,,2025-07-02T11:51:40.846794,sahivalue,Manual,Mid,sahivalue_000328,2023
+6,olx,300597,0.61,CNG,51384,"Lucknow, Uttar Pradesh",Renault,Unknown,,,,300597,5.85,,,2025-07-02T11:51:40.846794,olx,CVT,LX,olx_000329,2018
+5,carwale,327683,0.56,Petrol,66552,"Hyderabad, Telangana",Nissan,Unknown,,,327683,,4.92,,,2025-07-02T11:51:40.847797,carwale,CVT,Base,carwale_000330,2019
+6,spinny,322507,0.54,Hybrid,74298,"Chennai, Tamil Nadu",Kia,Unknown,,,,,4.34,,322507,2025-07-02T11:51:40.847797,spinny,AMT,EX,spinny_000331,2018
+7,cartrade,1051308,0.56,Electric,61744,"Bhopal, Madhya Pradesh",Mercedes-Benz,A-Class,,1051308,,,17.03,,,2025-07-02T11:51:40.847797,cartrade,Automatic,VX,cartrade_000332,2017
+4,spinny,440452,0.51,Petrol,75093,"Jaipur, Rajasthan",Ford,Unknown,,,,,5.87,,440452,2025-07-02T11:51:40.847797,spinny,Manual,LX,spinny_000333,2020
+0,spinny,741516,1.0,Electric,0,"Chennai, Tamil Nadu",Chevrolet,Unknown,,,,,741516.0,,741516,2025-07-02T11:51:40.847797,spinny,Manual,Base,spinny_000334,2024
+0,spinny,799132,1.0,Electric,0,"Chennai, Tamil Nadu",Jeep,Unknown,,,,,799132.0,,799132,2025-07-02T11:51:40.847797,spinny,Automatic,Mid,spinny_000335,2024
+2,cardekho,735077,0.61,Diesel,34797,"Nagpur, Maharashtra",Volkswagen,Unknown,735077,,,,21.12,,,2025-07-02T11:51:40.847797,cardekho,Manual,EX,cardekho_000336,2022
+6,cardekho,295662,0.51,Electric,83355,"Kanpur, Uttar Pradesh",Jeep,Unknown,295662,,,,3.55,,,2025-07-02T11:51:40.847797,cardekho,Manual,ZX,cardekho_000337,2018
+7,sahivalue,250305,0.57,Diesel,58988,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,,,,,4.24,250305,,2025-07-02T11:51:40.847797,sahivalue,AMT,SX,sahivalue_000338,2017
+8,spinny,162392,0.54,CNG,61693,"Bhopal, Madhya Pradesh",Maruti Suzuki,Alto,,,,,2.63,,162392,2025-07-02T11:51:40.847797,spinny,CVT,LX,spinny_000339,2016
+3,cartrade,1993996,0.74,CNG,22936,"Kolkata, West Bengal",Mercedes-Benz,GLA,,1993996,,,86.94,,,2025-07-02T11:51:40.847797,cartrade,Manual,SX,cartrade_000340,2021
+9,spinny,165814,0.35,Hybrid,147482,"Pune, Maharashtra",Tata,Tiago,,,,,1.12,,165814,2025-07-02T11:51:40.847797,spinny,AMT,EX,spinny_000341,2015
+2,cardekho,705496,0.69,CNG,25811,"Bangalore, Karnataka",Mahindra,XUV300,705496,,,,27.33,,,2025-07-02T11:51:40.847797,cardekho,CVT,Mid,cardekho_000342,2022
+8,spinny,725425,0.43,Hybrid,110976,"Delhi, Delhi",BMW,X1,,,,,6.54,,725425,2025-07-02T11:51:40.847797,spinny,Automatic,Mid,spinny_000343,2016
+1,olx,825386,0.86,Electric,5807,"Chennai, Tamil Nadu",Honda,WR-V,,,,825386,142.14,,,2025-07-02T11:51:40.847797,olx,Manual,Mid,olx_000344,2023
+8,olx,232996,0.5,CNG,78785,"Thane, Maharashtra",Renault,Unknown,,,,232996,2.96,,,2025-07-02T11:51:40.847797,olx,CVT,Base,olx_000345,2016
+1,sahivalue,793007,0.66,CNG,17127,"Delhi, Delhi",Volkswagen,Unknown,,,,,46.3,793007,,2025-07-02T11:51:40.847797,sahivalue,Manual,Base,sahivalue_000346,2023
+6,carwale,364966,0.6,Hybrid,54075,"Delhi, Delhi",Honda,CR-V,,,364966,,6.75,,,2025-07-02T11:51:40.847797,carwale,Manual,EX,carwale_000347,2018
+8,spinny,148160,0.47,CNG,92794,"Kolkata, West Bengal",Maruti Suzuki,WagonR,,,,,1.6,,148160,2025-07-02T11:51:40.847797,spinny,CVT,SX,spinny_000348,2016
+7,cartrade,299577,0.5,Electric,87560,"Delhi, Delhi",Kia,Unknown,,299577,,,3.42,,,2025-07-02T11:51:40.847797,cartrade,AMT,Mid,cartrade_000349,2017
+2,olx,1828749,0.74,Diesel,20223,"Hyderabad, Telangana",BMW,X1,,,,1828749,90.43,,,2025-07-02T11:51:40.847797,olx,Automatic,Top,olx_000350,2022
+8,sahivalue,208293,0.39,Hybrid,130507,"Jaipur, Rajasthan",Renault,Unknown,,,,,1.6,208293,,2025-07-02T11:51:40.847797,sahivalue,CVT,EX,sahivalue_000351,2016
+5,cardekho,344877,0.5,Hybrid,85410,"Bangalore, Karnataka",Jeep,Unknown,344877,,,,4.04,,,2025-07-02T11:51:40.847797,cardekho,Automatic,Top,cardekho_000352,2019
+8,cartrade,261207,0.36,Hybrid,143778,"Bhopal, Madhya Pradesh",Honda,City,,261207,,,1.82,,,2025-07-02T11:51:40.847797,cartrade,Manual,VX,cartrade_000353,2016
+1,cardekho,649671,0.73,Hybrid,13173,"Bangalore, Karnataka",Ford,Unknown,649671,,,,49.32,,,2025-07-02T11:51:40.847797,cardekho,CVT,VX,cardekho_000354,2023
+7,sahivalue,277159,0.55,Petrol,66946,"Jaipur, Rajasthan",Hyundai,Santro,,,,,4.14,277159,,2025-07-02T11:51:40.847797,sahivalue,Manual,Base,sahivalue_000355,2017
+5,spinny,339051,0.58,Hybrid,61858,"Pune, Maharashtra",Jeep,Unknown,,,,,5.48,,339051,2025-07-02T11:51:40.847797,spinny,AMT,ZX,spinny_000356,2019
+6,sahivalue,339558,0.47,Electric,96540,"Bangalore, Karnataka",Volkswagen,Unknown,,,,,3.52,339558,,2025-07-02T11:51:40.847797,sahivalue,CVT,SX,sahivalue_000357,2018
+3,sahivalue,467890,0.75,Diesel,21463,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,,,,,21.8,467890,,2025-07-02T11:51:40.847797,sahivalue,AMT,EX,sahivalue_000358,2021
+0,carwale,2322348,1.0,Petrol,0,"Pune, Maharashtra",BMW,Z4,,,2322348,,2322348.0,,,2025-07-02T11:51:40.847797,carwale,Manual,ZX,carwale_000359,2024
+6,spinny,272094,0.49,Electric,90438,"Hyderabad, Telangana",Skoda,Unknown,,,,,3.01,,272094,2025-07-02T11:51:40.847797,spinny,Manual,EX,spinny_000360,2018
+0,sahivalue,1078798,1.0,CNG,0,"Jaipur, Rajasthan",Honda,CR-V,,,,,1078798.0,1078798,,2025-07-02T11:51:40.847797,sahivalue,CVT,ZX,sahivalue_000361,2024
+5,carwale,330449,0.63,Hybrid,47243,"Kolkata, West Bengal",Hyundai,Tucson,,,330449,,6.99,,,2025-07-02T11:51:40.847797,carwale,Manual,ZX,carwale_000362,2019
+5,carwale,381625,0.49,Petrol,86428,"Ahmedabad, Gujarat",Ford,Unknown,,,381625,,4.42,,,2025-07-02T11:51:40.847797,carwale,AMT,LX,carwale_000363,2019
+2,carwale,559393,0.63,CNG,32096,"Chennai, Tamil Nadu",Jeep,Unknown,,,559393,,17.43,,,2025-07-02T11:51:40.847797,carwale,CVT,VX,carwale_000364,2022
+9,carwale,173129,0.3,Hybrid,169730,"Bhopal, Madhya Pradesh",Hyundai,Verna,,,173129,,1.02,,,2025-07-02T11:51:40.847797,carwale,CVT,Base,carwale_000365,2015
+2,cardekho,1913096,0.6,Electric,35825,"Delhi, Delhi",BMW,3 Series,1913096,,,,53.4,,,2025-07-02T11:51:40.847797,cardekho,Automatic,Base,cardekho_000366,2022
+2,olx,584809,0.64,Petrol,31057,"Jaipur, Rajasthan",Nissan,Unknown,,,,584809,18.83,,,2025-07-02T11:51:40.847797,olx,Manual,EX,olx_000367,2022
+1,carwale,858449,0.8,Electric,8757,"Kolkata, West Bengal",Honda,Jazz,,,858449,,98.03,,,2025-07-02T11:51:40.847797,carwale,Manual,EX,carwale_000368,2023
+1,cartrade,653455,0.74,Petrol,12447,"Thane, Maharashtra",Tata,Nexon,,653455,,,52.5,,,2025-07-02T11:51:40.847797,cartrade,Manual,SX,cartrade_000369,2023
+6,carwale,331544,0.58,CNG,60472,"Indore, Madhya Pradesh",MG,Unknown,,,331544,,5.48,,,2025-07-02T11:51:40.847797,carwale,AMT,VX,carwale_000370,2018
+0,spinny,612395,1.0,CNG,0,"Thane, Maharashtra",Maruti Suzuki,Vitara Brezza,,,,,612395.0,,612395,2025-07-02T11:51:40.847797,spinny,CVT,ZX,spinny_000371,2024
+8,cardekho,237620,0.33,Hybrid,157144,"Nagpur, Maharashtra",Ford,Unknown,237620,,,,1.51,,,2025-07-02T11:51:40.847797,cardekho,AMT,SX,cardekho_000372,2016
+0,cardekho,899487,1.0,Diesel,0,"Kolkata, West Bengal",Mahindra,KUV100,899487,,,,899487.0,,,2025-07-02T11:51:40.847797,cardekho,Manual,VX,cardekho_000373,2024
+4,cartrade,432131,0.62,Electric,50040,"Bhopal, Madhya Pradesh",Skoda,Unknown,,432131,,,8.64,,,2025-07-02T11:51:40.847797,cartrade,Automatic,VX,cartrade_000374,2020
+0,sahivalue,848944,1.0,Diesel,0,"Chennai, Tamil Nadu",Skoda,Unknown,,,,,848944.0,848944,,2025-07-02T11:51:40.847797,sahivalue,CVT,ZX,sahivalue_000375,2024
+7,sahivalue,346938,0.4,Diesel,126194,"Bhopal, Madhya Pradesh",Volkswagen,Unknown,,,,,2.75,346938,,2025-07-02T11:51:40.847797,sahivalue,CVT,Base,sahivalue_000376,2017
+8,cartrade,268993,0.37,Diesel,140666,"Nagpur, Maharashtra",Honda,Amaze,,268993,,,1.91,,,2025-07-02T11:51:40.847797,cartrade,AMT,SX,cartrade_000377,2016
+2,carwale,610870,0.62,Hybrid,34190,"Kanpur, Uttar Pradesh",Jeep,Unknown,,,610870,,17.87,,,2025-07-02T11:51:40.847797,carwale,Manual,LX,carwale_000378,2022
+5,carwale,388332,0.61,Petrol,54431,"Thane, Maharashtra",Renault,Unknown,,,388332,,7.13,,,2025-07-02T11:51:40.847797,carwale,Automatic,Mid,carwale_000379,2019
+4,spinny,381572,0.55,Hybrid,64954,"Hyderabad, Telangana",Hyundai,Elantra,,,,,5.87,,381572,2025-07-02T11:51:40.847797,spinny,CVT,EX,spinny_000380,2020
+2,cardekho,593564,0.65,Diesel,29868,"Chennai, Tamil Nadu",Skoda,Unknown,593564,,,,19.87,,,2025-07-02T11:51:40.847797,cardekho,AMT,LX,cardekho_000381,2022
+2,cardekho,2331888,0.75,Hybrid,19303,"Indore, Madhya Pradesh",Mercedes-Benz,GLE,2331888,,,,120.8,,,2025-07-02T11:51:40.847797,cardekho,CVT,EX,cardekho_000382,2022
+6,spinny,470374,0.61,Hybrid,49873,"Jaipur, Rajasthan",Toyota,Fortuner,,,,,9.43,,470374,2025-07-02T11:51:40.847797,spinny,CVT,Mid,spinny_000383,2018
+7,olx,247487,0.42,Hybrid,116825,"Nagpur, Maharashtra",Ford,Unknown,,,,247487,2.12,,,2025-07-02T11:51:40.847797,olx,AMT,Mid,olx_000384,2017
+4,cartrade,418585,0.54,CNG,67813,"Kanpur, Uttar Pradesh",Jeep,Unknown,,418585,,,6.17,,,2025-07-02T11:51:40.847797,cartrade,Automatic,LX,cartrade_000385,2020
+5,sahivalue,380362,0.44,Hybrid,99887,"Kanpur, Uttar Pradesh",Hyundai,Creta,,,,,3.81,380362,,2025-07-02T11:51:40.847797,sahivalue,CVT,Base,sahivalue_000386,2019
+1,cartrade,817607,0.6,Hybrid,20485,"Kanpur, Uttar Pradesh",Mahindra,XUV300,,817607,,,39.91,,,2025-07-02T11:51:40.847797,cartrade,AMT,ZX,cartrade_000387,2023
+6,olx,271904,0.45,Petrol,103414,"Bangalore, Karnataka",Tata,Zest,,,,271904,2.63,,,2025-07-02T11:51:40.847797,olx,Manual,VX,olx_000388,2018
+2,olx,617519,0.66,Diesel,29112,"Jaipur, Rajasthan",Mahindra,KUV100,,,,617519,21.21,,,2025-07-02T11:51:40.847797,olx,AMT,VX,olx_000389,2022
+8,cardekho,696095,0.47,Hybrid,93743,"Lucknow, Uttar Pradesh",BMW,5 Series,696095,,,,7.43,,,2025-07-02T11:51:40.847797,cardekho,Manual,EX,cardekho_000390,2016
+0,cartrade,769586,1.0,CNG,1751,"Lucknow, Uttar Pradesh",Tata,Harrier,,769586,,,439.51,,,2025-07-02T11:51:40.847797,cartrade,CVT,Mid,cartrade_000391,2024
+5,cartrade,275681,0.54,Electric,73347,"Nagpur, Maharashtra",Maruti Suzuki,Swift,,275681,,,3.76,,,2025-07-02T11:51:40.847797,cartrade,Automatic,Base,cartrade_000392,2019
+6,carwale,301856,0.42,Electric,116081,"Kanpur, Uttar Pradesh",Skoda,Unknown,,,301856,,2.6,,,2025-07-02T11:51:40.847797,carwale,Automatic,EX,carwale_000393,2018
+3,olx,1755658,0.65,Petrol,39449,"Visakhapatnam, Andhra Pradesh",Mercedes-Benz,C-Class,,,,1755658,44.5,,,2025-07-02T11:51:40.847797,olx,AMT,ZX,olx_000394,2021
+9,sahivalue,290158,0.31,Petrol,164774,"Ahmedabad, Gujarat",Toyota,Camry,,,,,1.76,290158,,2025-07-02T11:51:40.847797,sahivalue,CVT,ZX,sahivalue_000395,2015
+0,carwale,820044,1.0,Electric,0,"Delhi, Delhi",Kia,Unknown,,,820044,,820044.0,,,2025-07-02T11:51:40.847797,carwale,Manual,ZX,carwale_000396,2024
+4,cardekho,496880,0.56,Petrol,62879,"Ahmedabad, Gujarat",Volkswagen,Unknown,496880,,,,7.9,,,2025-07-02T11:51:40.847797,cardekho,Automatic,Mid,cardekho_000397,2020
+5,cartrade,332544,0.49,Petrol,86800,"Bangalore, Karnataka",Renault,Unknown,,332544,,,3.83,,,2025-07-02T11:51:40.847797,cartrade,AMT,LX,cartrade_000398,2019
+2,olx,622298,0.69,Petrol,26098,"Bangalore, Karnataka",Skoda,Unknown,,,,622298,23.84,,,2025-07-02T11:51:40.847797,olx,CVT,ZX,olx_000399,2022
+8,cardekho,811493,0.51,Diesel,76129,"Nagpur, Maharashtra",Audi,A3,811493,,,,10.66,,,2025-07-02T11:51:40.847797,cardekho,CVT,EX,cardekho_000400,2016
+4,olx,1270146,0.49,CNG,78890,"Nagpur, Maharashtra",BMW,7 Series,,,,1270146,16.1,,,2025-07-02T11:51:40.847797,olx,AMT,Base,olx_000401,2020
+6,cartrade,247056,0.5,Hybrid,87103,"Kolkata, West Bengal",Maruti Suzuki,Swift,,247056,,,2.84,,,2025-07-02T11:51:40.847797,cartrade,AMT,VX,cartrade_000402,2018
+8,carwale,214291,0.36,Diesel,142330,"Chennai, Tamil Nadu",MG,Unknown,,,214291,,1.51,,,2025-07-02T11:51:40.847797,carwale,Manual,Mid,carwale_000403,2016
+9,carwale,592162,0.42,Petrol,109496,"Mumbai, Maharashtra",Audi,Q7,,,592162,,5.41,,,2025-07-02T11:51:40.847797,carwale,CVT,LX,carwale_000404,2015
+8,sahivalue,199452,0.33,Hybrid,158357,"Indore, Madhya Pradesh",Hyundai,Elantra,,,,,1.26,199452,,2025-07-02T11:51:40.847797,sahivalue,Manual,Base,sahivalue_000405,2016
+6,spinny,308327,0.57,Petrol,64330,"Jaipur, Rajasthan",Nissan,Unknown,,,,,4.79,,308327,2025-07-02T11:51:40.847797,spinny,Manual,LX,spinny_000406,2018
+8,cartrade,223488,0.43,Petrol,113127,"Ahmedabad, Gujarat",Kia,Unknown,,223488,,,1.98,,,2025-07-02T11:51:40.847797,cartrade,Manual,Base,cartrade_000407,2016
+1,spinny,978675,0.81,Petrol,8333,"Thane, Maharashtra",Toyota,Urban Cruiser,,,,,117.45,,978675,2025-07-02T11:51:40.847797,spinny,CVT,Mid,spinny_000408,2023
+0,olx,842723,1.0,Petrol,2028,"Hyderabad, Telangana",Chevrolet,Unknown,,,,842723,415.54,,,2025-07-02T11:51:40.847797,olx,Automatic,SX,olx_000409,2024
+2,carwale,398202,0.61,Diesel,35277,"Nagpur, Maharashtra",Maruti Suzuki,Baleno,,,398202,,11.29,,,2025-07-02T11:51:40.847797,carwale,AMT,LX,carwale_000410,2022
+2,spinny,525182,0.78,Diesel,15269,"Lucknow, Uttar Pradesh",Ford,Unknown,,,,,34.4,,525182,2025-07-02T11:51:40.847797,spinny,Manual,EX,spinny_000411,2022
+2,cardekho,753190,0.57,Hybrid,39128,"Delhi, Delhi",Honda,Amaze,753190,,,,19.25,,,2025-07-02T11:51:40.847797,cardekho,AMT,Base,cardekho_000412,2022
+5,cardekho,372807,0.64,Electric,44941,"Indore, Madhya Pradesh",Kia,Unknown,372807,,,,8.3,,,2025-07-02T11:51:40.847797,cardekho,Automatic,SX,cardekho_000413,2019
+4,cartrade,448696,0.68,Electric,36211,"Hyderabad, Telangana",Nissan,Unknown,,448696,,,12.39,,,2025-07-02T11:51:40.847797,cartrade,Automatic,ZX,cartrade_000414,2020
+8,cardekho,649321,0.47,Diesel,95294,"Bangalore, Karnataka",BMW,3 Series,649321,,,,6.81,,,2025-07-02T11:51:40.847797,cardekho,Manual,LX,cardekho_000415,2016
+1,olx,548952,0.69,Hybrid,15435,"Mumbai, Maharashtra",Maruti Suzuki,Swift,,,,548952,35.57,,,2025-07-02T11:51:40.847797,olx,Automatic,ZX,olx_000416,2023
+9,carwale,303313,0.31,Electric,166175,"Jaipur, Rajasthan",Toyota,Yaris,,,303313,,1.83,,,2025-07-02T11:51:40.847797,carwale,Manual,Mid,carwale_000417,2015
+0,olx,786119,1.0,Hybrid,0,"Thane, Maharashtra",Jeep,Unknown,,,,786119,786119.0,,,2025-07-02T11:51:40.847797,olx,Manual,VX,olx_000418,2024
+7,olx,249718,0.48,Petrol,93407,"Thane, Maharashtra",Ford,Unknown,,,,249718,2.67,,,2025-07-02T11:51:40.847797,olx,Manual,EX,olx_000419,2017
+5,sahivalue,400122,0.53,Electric,75804,"Kolkata, West Bengal",Mahindra,Thar,,,,,5.28,400122,,2025-07-02T11:51:40.847797,sahivalue,CVT,ZX,sahivalue_000420,2019
+4,sahivalue,456194,0.52,Hybrid,72081,"Thane, Maharashtra",Kia,Unknown,,,,,6.33,456194,,2025-07-02T11:51:40.847797,sahivalue,CVT,ZX,sahivalue_000421,2020
+4,sahivalue,331652,0.71,CNG,29314,"Jaipur, Rajasthan",Tata,Safari,,,,,11.31,331652,,2025-07-02T11:51:40.847797,sahivalue,Manual,Base,sahivalue_000422,2020
+3,cardekho,556467,0.7,Hybrid,30284,"Hyderabad, Telangana",Honda,CR-V,556467,,,,18.37,,,2025-07-02T11:51:40.847797,cardekho,Manual,VX,cardekho_000423,2021
+6,carwale,379442,0.51,Electric,84980,"Indore, Madhya Pradesh",Honda,WR-V,,,379442,,4.47,,,2025-07-02T11:51:40.847797,carwale,CVT,LX,carwale_000424,2018
+4,sahivalue,453749,0.64,CNG,45817,"Kolkata, West Bengal",Jeep,Unknown,,,,,9.9,453749,,2025-07-02T11:51:40.847797,sahivalue,Automatic,Mid,sahivalue_000425,2020
+1,cartrade,741528,0.74,CNG,12561,"Pune, Maharashtra",Skoda,Unknown,,741528,,,59.03,,,2025-07-02T11:51:40.847797,cartrade,CVT,VX,cartrade_000426,2023
+7,olx,275171,0.48,Diesel,95435,"Kanpur, Uttar Pradesh",Skoda,Unknown,,,,275171,2.88,,,2025-07-02T11:51:40.847797,olx,Automatic,Mid,olx_000427,2017
+6,cardekho,1079439,0.59,Electric,57050,"Ahmedabad, Gujarat",Audi,A6,1079439,,,,18.92,,,2025-07-02T11:51:40.847797,cardekho,CVT,SX,cardekho_000428,2018
+0,olx,2593929,1.0,CNG,0,"Jaipur, Rajasthan",Audi,A4,,,,2593929,2593929.0,,,2025-07-02T11:51:40.847797,olx,AMT,Base,olx_000429,2024
+2,spinny,397856,0.59,CNG,36857,"Delhi, Delhi",Maruti Suzuki,Ertiga,,,,,10.79,,397856,2025-07-02T11:51:40.847797,spinny,Manual,Mid,spinny_000430,2022
+3,cardekho,485155,0.69,Diesel,32640,"Kanpur, Uttar Pradesh",Hyundai,Elantra,485155,,,,14.86,,,2025-07-02T11:51:40.847797,cardekho,AMT,ZX,cardekho_000431,2021
+0,cardekho,738211,1.0,Diesel,4438,"Delhi, Delhi",Renault,Unknown,738211,,,,166.34,,,2025-07-02T11:51:40.847797,cardekho,Manual,LX,cardekho_000432,2024
+5,cardekho,447061,0.49,Diesel,86555,"Bhopal, Madhya Pradesh",Volkswagen,Unknown,447061,,,,5.17,,,2025-07-02T11:51:40.847797,cardekho,CVT,Top,cardekho_000433,2019
+3,cardekho,1605033,0.58,Electric,51374,"Delhi, Delhi",BMW,X1,1605033,,,,31.24,,,2025-07-02T11:51:40.847797,cardekho,Automatic,SX,cardekho_000434,2021
+4,carwale,436990,0.65,Diesel,42803,"Kanpur, Uttar Pradesh",Renault,Unknown,,,436990,,10.21,,,2025-07-02T11:51:40.847797,carwale,Automatic,LX,carwale_000435,2020
+4,cartrade,425930,0.64,CNG,45924,"Visakhapatnam, Andhra Pradesh",MG,Unknown,,425930,,,9.27,,,2025-07-02T11:51:40.847797,cartrade,CVT,EX,cartrade_000436,2020
+9,cartrade,168141,0.45,Diesel,96307,"Chennai, Tamil Nadu",MG,Unknown,,168141,,,1.75,,,2025-07-02T11:51:40.847797,cartrade,AMT,ZX,cartrade_000437,2015
+0,cartrade,742439,1.0,CNG,0,"Nagpur, Maharashtra",Jeep,Unknown,,742439,,,742439.0,,,2025-07-02T11:51:40.847797,cartrade,Manual,Mid,cartrade_000438,2024
+2,carwale,523731,0.64,Petrol,31829,"Kolkata, West Bengal",Chevrolet,Unknown,,,523731,,16.45,,,2025-07-02T11:51:40.847797,carwale,Manual,Mid,carwale_000439,2022
+4,spinny,384645,0.66,Electric,40405,"Pune, Maharashtra",MG,Unknown,,,,,9.52,,384645,2025-07-02T11:51:40.847797,spinny,AMT,Mid,spinny_000440,2020
+4,cardekho,1635767,0.54,Diesel,67553,"Pune, Maharashtra",Mercedes-Benz,S-Class,1635767,,,,24.21,,,2025-07-02T11:51:40.847797,cardekho,Automatic,VX,cardekho_000441,2020
+4,cartrade,663184,0.55,CNG,65372,"Lucknow, Uttar Pradesh",Toyota,Urban Cruiser,,663184,,,10.14,,,2025-07-02T11:51:40.847797,cartrade,AMT,Top,cartrade_000442,2020
+4,sahivalue,399892,0.5,Electric,77211,"Visakhapatnam, Andhra Pradesh",Tata,Zest,,,,,5.18,399892,,2025-07-02T11:51:40.847797,sahivalue,CVT,SX,sahivalue_000443,2020
+7,sahivalue,966791,0.51,Petrol,83712,"Pune, Maharashtra",Mercedes-Benz,A-Class,,,,,11.55,966791,,2025-07-02T11:51:40.847797,sahivalue,AMT,SX,sahivalue_000444,2017
+0,spinny,813084,1.0,Electric,3729,"Nagpur, Maharashtra",Mahindra,Marazzo,,,,,218.04,,813084,2025-07-02T11:51:40.847797,spinny,Manual,EX,spinny_000445,2024
+8,cardekho,230951,0.47,Electric,93055,"Indore, Madhya Pradesh",Kia,Unknown,230951,,,,2.48,,,2025-07-02T11:51:40.847797,cardekho,AMT,LX,cardekho_000446,2016
+2,cartrade,600630,0.63,CNG,32894,"Nagpur, Maharashtra",Hyundai,Santro,,600630,,,18.26,,,2025-07-02T11:51:40.848799,cartrade,Manual,VX,cartrade_000447,2022
+2,cartrade,526531,0.8,Hybrid,13166,"Nagpur, Maharashtra",Hyundai,i20,,526531,,,39.99,,,2025-07-02T11:51:40.848799,cartrade,Automatic,VX,cartrade_000448,2022
+8,cardekho,265265,0.43,Electric,110818,"Delhi, Delhi",Kia,Unknown,265265,,,,2.39,,,2025-07-02T11:51:40.848799,cardekho,Manual,SX,cardekho_000449,2016
+6,olx,295684,0.55,Hybrid,70237,"Mumbai, Maharashtra",Jeep,Unknown,,,,295684,4.21,,,2025-07-02T11:51:40.848799,olx,Manual,VX,olx_000450,2018
+8,sahivalue,210888,0.45,Hybrid,101758,"Chennai, Tamil Nadu",Jeep,Unknown,,,,,2.07,210888,,2025-07-02T11:51:40.848799,sahivalue,Automatic,LX,sahivalue_000451,2016
+6,sahivalue,360646,0.45,Hybrid,104593,"Bhopal, Madhya Pradesh",Kia,Unknown,,,,,3.45,360646,,2025-07-02T11:51:40.848799,sahivalue,Automatic,Base,sahivalue_000452,2018
+0,olx,781505,1.0,Diesel,0,"Nagpur, Maharashtra",Skoda,Unknown,,,,781505,781505.0,,,2025-07-02T11:51:40.848799,olx,Manual,Top,olx_000453,2024
+8,carwale,205149,0.34,Diesel,154982,"Lucknow, Uttar Pradesh",Renault,Unknown,,,205149,,1.32,,,2025-07-02T11:51:40.848799,carwale,AMT,Mid,carwale_000454,2016
+9,spinny,223267,0.43,CNG,106490,"Hyderabad, Telangana",Mahindra,Thar,,,,,2.1,,223267,2025-07-02T11:51:40.848799,spinny,AMT,ZX,spinny_000455,2015
+0,cardekho,800396,1.0,Electric,0,"Mumbai, Maharashtra",MG,Unknown,800396,,,,800396.0,,,2025-07-02T11:51:40.848799,cardekho,AMT,VX,cardekho_000456,2024
+3,sahivalue,1555686,0.6,Electric,46706,"Kolkata, West Bengal",Audi,A8,,,,,33.31,1555686,,2025-07-02T11:51:40.848799,sahivalue,AMT,Mid,sahivalue_000457,2021
+6,carwale,879684,0.42,Hybrid,115580,"Bangalore, Karnataka",BMW,Z4,,,879684,,7.61,,,2025-07-02T11:51:40.848799,carwale,Manual,LX,carwale_000458,2018
+9,carwale,577170,0.32,Electric,163799,"Jaipur, Rajasthan",BMW,5 Series,,,577170,,3.52,,,2025-07-02T11:51:40.848799,carwale,Manual,VX,carwale_000459,2015
+6,sahivalue,298467,0.57,CNG,63002,"Kolkata, West Bengal",Hyundai,Elite i20,,,,,4.74,298467,,2025-07-02T11:51:40.848799,sahivalue,CVT,Mid,sahivalue_000460,2018
+4,carwale,423701,0.67,Electric,37482,"Lucknow, Uttar Pradesh",Ford,Unknown,,,423701,,11.3,,,2025-07-02T11:51:40.848799,carwale,Manual,Top,carwale_000461,2020
+4,sahivalue,1594848,0.69,Hybrid,34452,"Kolkata, West Bengal",Audi,A8,,,,,46.29,1594848,,2025-07-02T11:51:40.848799,sahivalue,Automatic,SX,sahivalue_000462,2020
+9,olx,208195,0.41,Petrol,116708,"Visakhapatnam, Andhra Pradesh",Kia,Unknown,,,,208195,1.78,,,2025-07-02T11:51:40.848799,olx,Manual,LX,olx_000463,2015
+9,olx,174742,0.37,Electric,137209,"Bhopal, Madhya Pradesh",Chevrolet,Unknown,,,,174742,1.27,,,2025-07-02T11:51:40.848799,olx,AMT,LX,olx_000464,2015
+6,carwale,413875,0.45,Electric,105641,"Jaipur, Rajasthan",Honda,Civic,,,413875,,3.92,,,2025-07-02T11:51:40.848799,carwale,AMT,EX,carwale_000465,2018
+4,sahivalue,434343,0.67,Hybrid,38092,"Hyderabad, Telangana",Renault,Unknown,,,,,11.4,434343,,2025-07-02T11:51:40.848799,sahivalue,Automatic,LX,sahivalue_000466,2020
+5,olx,303865,0.61,CNG,53949,"Kolkata, West Bengal",Tata,Nexon,,,,303865,5.63,,,2025-07-02T11:51:40.848799,olx,AMT,Base,olx_000467,2019
+1,carwale,1046612,0.77,Electric,10811,"Lucknow, Uttar Pradesh",Toyota,Yaris,,,1046612,,96.81,,,2025-07-02T11:51:40.848799,carwale,CVT,LX,carwale_000468,2023
+2,cardekho,1650332,0.63,Petrol,32291,"Delhi, Delhi",BMW,5 Series,1650332,,,,51.11,,,2025-07-02T11:51:40.848799,cardekho,AMT,LX,cardekho_000469,2022
+6,spinny,1125699,0.61,CNG,51343,"Nagpur, Maharashtra",Mercedes-Benz,GLE,,,,,21.93,,1125699,2025-07-02T11:51:40.848799,spinny,Automatic,Base,spinny_000470,2018
+0,cardekho,942754,1.0,Hybrid,969,"Jaipur, Rajasthan",Honda,CR-V,942754,,,,972.91,,,2025-07-02T11:51:40.848799,cardekho,AMT,SX,cardekho_000471,2024
+8,cartrade,236726,0.4,Diesel,126557,"Pune, Maharashtra",Mahindra,Thar,,236726,,,1.87,,,2025-07-02T11:51:40.848799,cartrade,CVT,ZX,cartrade_000472,2016
+1,spinny,675343,0.67,Diesel,16212,"Hyderabad, Telangana",Hyundai,Santro,,,,,41.66,,675343,2025-07-02T11:51:40.848799,spinny,AMT,EX,spinny_000473,2023
+6,sahivalue,1094970,0.57,CNG,65055,"Mumbai, Maharashtra",Audi,A4,,,,,16.83,1094970,,2025-07-02T11:51:40.848799,sahivalue,AMT,Top,sahivalue_000474,2018
+7,sahivalue,280503,0.54,CNG,69823,"Pune, Maharashtra",Ford,Unknown,,,,,4.02,280503,,2025-07-02T11:51:40.848799,sahivalue,Manual,Mid,sahivalue_000475,2017
+1,cartrade,673390,0.62,Diesel,19227,"Thane, Maharashtra",Nissan,Unknown,,673390,,,35.02,,,2025-07-02T11:51:40.848799,cartrade,Manual,SX,cartrade_000476,2023
+5,sahivalue,357583,0.63,Diesel,47031,"Nagpur, Maharashtra",Jeep,Unknown,,,,,7.6,357583,,2025-07-02T11:51:40.848799,sahivalue,Manual,VX,sahivalue_000477,2019
+5,olx,336655,0.6,Diesel,57614,"Chennai, Tamil Nadu",Jeep,Unknown,,,,336655,5.84,,,2025-07-02T11:51:40.848799,olx,Automatic,Mid,olx_000478,2019
+7,cardekho,273074,0.37,Petrol,138942,"Indore, Madhya Pradesh",Mahindra,Thar,273074,,,,1.97,,,2025-07-02T11:51:40.848799,cardekho,CVT,EX,cardekho_000479,2017
+7,carwale,226075,0.58,Diesel,54838,"Jaipur, Rajasthan",Tata,Zest,,,226075,,4.12,,,2025-07-02T11:51:40.848799,carwale,Manual,Base,carwale_000480,2017
+5,carwale,300169,0.64,CNG,46045,"Chennai, Tamil Nadu",Tata,Zest,,,300169,,6.52,,,2025-07-02T11:51:40.848799,carwale,Automatic,VX,carwale_000481,2019
+8,spinny,207292,0.37,CNG,139483,"Jaipur, Rajasthan",Chevrolet,Unknown,,,,,1.49,,207292,2025-07-02T11:51:40.848799,spinny,Automatic,Base,spinny_000482,2016
+6,carwale,356096,0.56,Petrol,66694,"Lucknow, Uttar Pradesh",Honda,City,,,356096,,5.34,,,2025-07-02T11:51:40.848799,carwale,AMT,Top,carwale_000483,2018
+1,spinny,753436,0.75,Hybrid,12042,"Lucknow, Uttar Pradesh",Kia,Unknown,,,,,62.57,,753436,2025-07-02T11:51:40.848799,spinny,Manual,Top,spinny_000484,2023
+2,carwale,652957,0.56,Electric,40015,"Nagpur, Maharashtra",Mahindra,XUV300,,,652957,,16.32,,,2025-07-02T11:51:40.848799,carwale,AMT,Base,carwale_000485,2022
+5,cardekho,365521,0.64,Petrol,45302,"Visakhapatnam, Andhra Pradesh",Jeep,Unknown,365521,,,,8.07,,,2025-07-02T11:51:40.848799,cardekho,Manual,VX,cardekho_000486,2019
+5,olx,438424,0.53,CNG,76786,"Ahmedabad, Gujarat",Volkswagen,Unknown,,,,438424,5.71,,,2025-07-02T11:51:40.848799,olx,CVT,Top,olx_000487,2019
+0,sahivalue,748085,1.0,Diesel,0,"Chennai, Tamil Nadu",Skoda,Unknown,,,,,748085.0,748085,,2025-07-02T11:51:40.848799,sahivalue,CVT,ZX,sahivalue_000488,2024
+1,cardekho,545915,0.69,CNG,15419,"Chennai, Tamil Nadu",Tata,Zest,545915,,,,35.41,,,2025-07-02T11:51:40.848799,cardekho,AMT,SX,cardekho_000489,2023
+4,sahivalue,1626576,0.49,Petrol,79135,"Hyderabad, Telangana",Mercedes-Benz,CLA,,,,,20.55,1626576,,2025-07-02T11:51:40.848799,sahivalue,CVT,Mid,sahivalue_000490,2020
+0,cartrade,3220133,1.0,Hybrid,2616,"Jaipur, Rajasthan",Mercedes-Benz,S-Class,,3220133,,,1230.94,,,2025-07-02T11:51:40.848799,cartrade,Automatic,Top,cartrade_000491,2024
+8,cartrade,246346,0.42,Diesel,117163,"Thane, Maharashtra",Mahindra,Alturas,,246346,,,2.1,,,2025-07-02T11:51:40.848799,cartrade,Automatic,SX,cartrade_000492,2016
+0,sahivalue,2621970,1.0,Diesel,0,"Indore, Madhya Pradesh",Audi,A4,,,,,2621970.0,2621970,,2025-07-02T11:51:40.848799,sahivalue,Manual,SX,sahivalue_000493,2024
+1,spinny,722493,0.84,Diesel,6604,"Chennai, Tamil Nadu",Renault,Unknown,,,,,109.4,,722493,2025-07-02T11:51:40.848799,spinny,Manual,LX,spinny_000494,2023
+5,spinny,400420,0.66,Hybrid,39105,"Delhi, Delhi",Volkswagen,Unknown,,,,,10.24,,400420,2025-07-02T11:51:40.848799,spinny,Manual,EX,spinny_000495,2019
+5,olx,1150906,0.61,Hybrid,54798,"Ahmedabad, Gujarat",BMW,7 Series,,,,1150906,21.0,,,2025-07-02T11:51:40.848799,olx,AMT,EX,olx_000496,2019
+2,spinny,539634,0.56,Electric,40718,"Nagpur, Maharashtra",Renault,Unknown,,,,,13.25,,539634,2025-07-02T11:51:40.848799,spinny,AMT,EX,spinny_000497,2022
+3,carwale,476186,0.57,Hybrid,52292,"Nagpur, Maharashtra",MG,Unknown,,,476186,,9.11,,,2025-07-02T11:51:40.848799,carwale,Automatic,LX,carwale_000498,2021
+7,cartrade,257890,0.49,Electric,88743,"Bangalore, Karnataka",Hyundai,Creta,,257890,,,2.91,,,2025-07-02T11:51:40.848799,cartrade,CVT,SX,cartrade_000499,2017
+6,sahivalue,404074,0.43,CNG,109751,"Hyderabad, Telangana",Volkswagen,Unknown,,,,,3.68,404074,,2025-07-02T11:51:40.848799,sahivalue,Manual,Base,sahivalue_000500,2018
+1,spinny,640027,0.61,CNG,19829,"Pune, Maharashtra",Skoda,Unknown,,,,,32.28,,640027,2025-07-02T11:51:40.848799,spinny,AMT,EX,spinny_000501,2023
+5,cartrade,427398,0.65,CNG,41554,"Jaipur, Rajasthan",Volkswagen,Unknown,,427398,,,10.29,,,2025-07-02T11:51:40.848799,cartrade,Automatic,SX,cartrade_000502,2019
+7,sahivalue,257914,0.53,Diesel,75375,"Lucknow, Uttar Pradesh",Nissan,Unknown,,,,,3.42,257914,,2025-07-02T11:51:40.848799,sahivalue,Automatic,VX,sahivalue_000503,2017
+9,spinny,220026,0.45,CNG,97661,"Delhi, Delhi",Mahindra,Bolero,,,,,2.25,,220026,2025-07-02T11:51:40.848799,spinny,Manual,VX,spinny_000504,2015
+9,sahivalue,203007,0.34,CNG,152658,"Kolkata, West Bengal",Skoda,Unknown,,,,,1.33,203007,,2025-07-02T11:51:40.848799,sahivalue,AMT,VX,sahivalue_000505,2015
+5,cardekho,370777,0.62,Petrol,49310,"Kolkata, West Bengal",Skoda,Unknown,370777,,,,7.52,,,2025-07-02T11:51:40.848799,cardekho,CVT,LX,cardekho_000506,2019
+5,olx,539578,0.51,Petrol,81587,"Ahmedabad, Gujarat",Toyota,Yaris,,,,539578,6.61,,,2025-07-02T11:51:40.848799,olx,CVT,VX,olx_000507,2019
+4,spinny,377108,0.59,Diesel,56612,"Hyderabad, Telangana",Hyundai,Creta,,,,,6.66,,377108,2025-07-02T11:51:40.848799,spinny,Manual,Base,spinny_000508,2020
+8,cardekho,207599,0.37,Electric,141732,"Indore, Madhya Pradesh",Jeep,Unknown,207599,,,,1.46,,,2025-07-02T11:51:40.848799,cardekho,AMT,Top,cardekho_000509,2016
+6,spinny,297710,0.48,Diesel,93567,"Thane, Maharashtra",MG,Unknown,,,,,3.18,,297710,2025-07-02T11:51:40.848799,spinny,CVT,SX,spinny_000510,2018
+6,carwale,348563,0.41,Hybrid,118792,"Thane, Maharashtra",Kia,Unknown,,,348563,,2.93,,,2025-07-02T11:51:40.848799,carwale,AMT,LX,carwale_000511,2018
+1,cartrade,696229,0.76,Electric,11151,"Jaipur, Rajasthan",Renault,Unknown,,696229,,,62.44,,,2025-07-02T11:51:40.848799,cartrade,Automatic,ZX,cartrade_000512,2023
+1,cardekho,820335,0.7,Petrol,14586,"Nagpur, Maharashtra",Volkswagen,Unknown,820335,,,,56.24,,,2025-07-02T11:51:40.848799,cardekho,CVT,ZX,cardekho_000513,2023
+7,sahivalue,208070,0.41,Petrol,122731,"Kanpur, Uttar Pradesh",Maruti Suzuki,Dzire,,,,,1.7,208070,,2025-07-02T11:51:40.848799,sahivalue,Automatic,Base,sahivalue_000514,2017
+0,carwale,787560,1.0,Electric,2952,"Thane, Maharashtra",Ford,Unknown,,,787560,,266.79,,,2025-07-02T11:51:40.848799,carwale,Manual,EX,carwale_000515,2024
+1,cartrade,520762,0.69,Hybrid,15399,"Kolkata, West Bengal",Maruti Suzuki,Dzire,,520762,,,33.82,,,2025-07-02T11:51:40.848799,cartrade,Manual,Mid,cartrade_000516,2023
+2,cardekho,550084,0.66,Electric,28695,"Chennai, Tamil Nadu",Renault,Unknown,550084,,,,19.17,,,2025-07-02T11:51:40.848799,cardekho,CVT,SX,cardekho_000517,2022
+1,cardekho,2572013,0.67,Electric,16484,"Delhi, Delhi",Mercedes-Benz,GLA,2572013,,,,156.03,,,2025-07-02T11:51:40.848799,cardekho,Manual,ZX,cardekho_000518,2023
+5,cartrade,362521,0.56,Diesel,67793,"Mumbai, Maharashtra",Jeep,Unknown,,362521,,,5.35,,,2025-07-02T11:51:40.848799,cartrade,Manual,Mid,cartrade_000519,2019
+2,cardekho,536435,0.64,Hybrid,31626,"Lucknow, Uttar Pradesh",Nissan,Unknown,536435,,,,16.96,,,2025-07-02T11:51:40.848799,cardekho,CVT,VX,cardekho_000520,2022
+3,spinny,490472,0.6,Hybrid,47575,"Kanpur, Uttar Pradesh",Renault,Unknown,,,,,10.31,,490472,2025-07-02T11:51:40.848799,spinny,CVT,ZX,spinny_000521,2021
+5,spinny,378820,0.49,Petrol,87100,"Mumbai, Maharashtra",Kia,Unknown,,,,,4.35,,378820,2025-07-02T11:51:40.848799,spinny,Manual,LX,spinny_000522,2019
+7,sahivalue,265164,0.43,Electric,113652,"Jaipur, Rajasthan",Renault,Unknown,,,,,2.33,265164,,2025-07-02T11:51:40.848799,sahivalue,CVT,ZX,sahivalue_000523,2017
+9,sahivalue,186448,0.4,CNG,119606,"Delhi, Delhi",Skoda,Unknown,,,,,1.56,186448,,2025-07-02T11:51:40.848799,sahivalue,Automatic,Top,sahivalue_000524,2015
+3,cartrade,488759,0.66,CNG,37556,"Jaipur, Rajasthan",Hyundai,Verna,,488759,,,13.01,,,2025-07-02T11:51:40.848799,cartrade,Automatic,VX,cartrade_000525,2021
+8,spinny,297116,0.51,Petrol,76999,"Pune, Maharashtra",Honda,BR-V,,,,,3.86,,297116,2025-07-02T11:51:40.848799,spinny,AMT,LX,spinny_000526,2016
+4,olx,423866,0.65,Petrol,41818,"Hyderabad, Telangana",MG,Unknown,,,,423866,10.14,,,2025-07-02T11:51:40.848799,olx,CVT,ZX,olx_000527,2020
+0,olx,565949,1.0,CNG,3032,"Mumbai, Maharashtra",Maruti Suzuki,Baleno,,,,565949,186.66,,,2025-07-02T11:51:40.848799,olx,Manual,Top,olx_000528,2024
+3,carwale,575077,0.72,Diesel,27611,"Kanpur, Uttar Pradesh",Volkswagen,Unknown,,,575077,,20.83,,,2025-07-02T11:51:40.848799,carwale,CVT,Base,carwale_000529,2021
+1,spinny,875380,0.67,Diesel,16304,"Lucknow, Uttar Pradesh",Honda,Jazz,,,,,53.69,,875380,2025-07-02T11:51:40.848799,spinny,Manual,ZX,spinny_000530,2023
+3,carwale,476786,0.59,Electric,49186,"Pune, Maharashtra",Jeep,Unknown,,,476786,,9.69,,,2025-07-02T11:51:40.848799,carwale,CVT,Base,carwale_000531,2021
+6,sahivalue,292084,0.47,Diesel,96801,"Visakhapatnam, Andhra Pradesh",Nissan,Unknown,,,,,3.02,292084,,2025-07-02T11:51:40.848799,sahivalue,Manual,Top,sahivalue_000532,2018
+0,olx,881276,1.0,Electric,0,"Thane, Maharashtra",Mahindra,XUV300,,,,881276,881276.0,,,2025-07-02T11:51:40.848799,olx,Manual,Base,olx_000533,2024
+7,sahivalue,249812,0.39,CNG,130424,"Jaipur, Rajasthan",MG,Unknown,,,,,1.92,249812,,2025-07-02T11:51:40.848799,sahivalue,CVT,Top,sahivalue_000534,2017
+0,cardekho,754456,1.0,Hybrid,0,"Nagpur, Maharashtra",Ford,Unknown,754456,,,,754456.0,,,2025-07-02T11:51:40.848799,cardekho,Automatic,Mid,cardekho_000535,2024
+5,spinny,371403,0.56,Electric,68539,"Indore, Madhya Pradesh",Renault,Unknown,,,,,5.42,,371403,2025-07-02T11:51:40.848799,spinny,CVT,Top,spinny_000536,2019
+4,carwale,439111,0.69,Electric,34827,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,,,439111,,12.61,,,2025-07-02T11:51:40.848799,carwale,CVT,LX,carwale_000537,2020
+1,spinny,663751,0.59,Diesel,20688,"Mumbai, Maharashtra",Jeep,Unknown,,,,,32.08,,663751,2025-07-02T11:51:40.848799,spinny,Manual,LX,spinny_000538,2023
+7,cardekho,258117,0.48,CNG,95329,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,258117,,,,2.71,,,2025-07-02T11:51:40.848799,cardekho,Manual,Mid,cardekho_000539,2017
+6,spinny,274320,0.54,Hybrid,74660,"Ahmedabad, Gujarat",Renault,Unknown,,,,,3.67,,274320,2025-07-02T11:51:40.848799,spinny,Automatic,EX,spinny_000540,2018
+8,cardekho,212702,0.43,Diesel,113994,"Mumbai, Maharashtra",Nissan,Unknown,212702,,,,1.87,,,2025-07-02T11:51:40.848799,cardekho,Manual,Base,cardekho_000541,2016
+2,sahivalue,750060,0.75,Electric,19070,"Visakhapatnam, Andhra Pradesh",Honda,CR-V,,,,,39.33,750060,,2025-07-02T11:51:40.848799,sahivalue,Manual,Base,sahivalue_000542,2022
+9,olx,244537,0.41,Petrol,117007,"Visakhapatnam, Andhra Pradesh",Volkswagen,Unknown,,,,244537,2.09,,,2025-07-02T11:51:40.848799,olx,Manual,Mid,olx_000543,2015
+8,carwale,224293,0.43,Hybrid,111144,"Lucknow, Uttar Pradesh",Ford,Unknown,,,224293,,2.02,,,2025-07-02T11:51:40.848799,carwale,Automatic,SX,carwale_000544,2016
+9,spinny,673068,0.3,Petrol,174043,"Pune, Maharashtra",Mercedes-Benz,A-Class,,,,,3.87,,673068,2025-07-02T11:51:40.848799,spinny,AMT,VX,spinny_000545,2015
+4,cardekho,388455,0.58,Diesel,58065,"Lucknow, Uttar Pradesh",MG,Unknown,388455,,,,6.69,,,2025-07-02T11:51:40.848799,cardekho,CVT,VX,cardekho_000546,2020
+4,sahivalue,483149,0.55,Diesel,65243,"Ahmedabad, Gujarat",Volkswagen,Unknown,,,,,7.41,483149,,2025-07-02T11:51:40.848799,sahivalue,Automatic,EX,sahivalue_000547,2020
+9,carwale,196505,0.44,Hybrid,98927,"Nagpur, Maharashtra",Hyundai,Elite i20,,,196505,,1.99,,,2025-07-02T11:51:40.848799,carwale,Automatic,Top,carwale_000548,2015
+0,cartrade,788776,1.0,Hybrid,0,"Hyderabad, Telangana",MG,Unknown,,788776,,,788776.0,,,2025-07-02T11:51:40.848799,cartrade,Automatic,Top,cartrade_000549,2024
+4,carwale,443208,0.65,Hybrid,42725,"Visakhapatnam, Andhra Pradesh",Jeep,Unknown,,,443208,,10.37,,,2025-07-02T11:51:40.848799,carwale,AMT,VX,carwale_000550,2020
+6,carwale,310878,0.45,Hybrid,105553,"Mumbai, Maharashtra",Jeep,Unknown,,,310878,,2.95,,,2025-07-02T11:51:40.848799,carwale,Automatic,LX,carwale_000551,2018
+9,carwale,196168,0.45,Electric,97431,"Ahmedabad, Gujarat",Kia,Unknown,,,196168,,2.01,,,2025-07-02T11:51:40.848799,carwale,Automatic,SX,carwale_000552,2015
+4,cartrade,572940,0.54,Hybrid,66927,"Nagpur, Maharashtra",Toyota,Etios,,572940,,,8.56,,,2025-07-02T11:51:40.848799,cartrade,Manual,EX,cartrade_000553,2020
+1,olx,695607,0.64,CNG,17778,"Kolkata, West Bengal",Kia,Unknown,,,,695607,39.13,,,2025-07-02T11:51:40.848799,olx,CVT,LX,olx_000554,2023
+8,cartrade,227099,0.51,CNG,75453,"Kanpur, Uttar Pradesh",MG,Unknown,,227099,,,3.01,,,2025-07-02T11:51:40.848799,cartrade,CVT,LX,cartrade_000555,2016
+8,cardekho,780565,0.37,Electric,137999,"Indore, Madhya Pradesh",Mercedes-Benz,GLE,780565,,,,5.66,,,2025-07-02T11:51:40.848799,cardekho,CVT,ZX,cardekho_000556,2016
+9,olx,219302,0.43,Electric,106080,"Indore, Madhya Pradesh",Kia,Unknown,,,,219302,2.07,,,2025-07-02T11:51:40.848799,olx,AMT,SX,olx_000557,2015
+4,cardekho,381394,0.56,Diesel,63396,"Kolkata, West Bengal",Skoda,Unknown,381394,,,,6.02,,,2025-07-02T11:51:40.848799,cardekho,Manual,EX,cardekho_000558,2020
+1,sahivalue,625013,0.71,Electric,14193,"Ahmedabad, Gujarat",MG,Unknown,,,,,44.04,625013,,2025-07-02T11:51:40.848799,sahivalue,Automatic,Base,sahivalue_000559,2023
+2,spinny,2186520,0.61,CNG,35117,"Thane, Maharashtra",Audi,Q5,,,,,62.26,,2186520,2025-07-02T11:51:40.848799,spinny,Manual,EX,spinny_000560,2022
+4,cartrade,382699,0.6,Electric,53099,"Chennai, Tamil Nadu",Renault,Unknown,,382699,,,7.21,,,2025-07-02T11:51:40.848799,cartrade,Manual,Top,cartrade_000561,2020
+5,olx,1441571,0.62,CNG,50625,"Thane, Maharashtra",Mercedes-Benz,E-Class,,,,1441571,28.48,,,2025-07-02T11:51:40.848799,olx,CVT,ZX,olx_000562,2019
+1,spinny,757500,0.77,Petrol,10420,"Chennai, Tamil Nadu",Kia,Unknown,,,,,72.7,,757500,2025-07-02T11:51:40.849801,spinny,Automatic,Top,spinny_000563,2023
+6,carwale,255390,0.42,CNG,115664,"Jaipur, Rajasthan",Tata,Harrier,,,255390,,2.21,,,2025-07-02T11:51:40.849801,carwale,AMT,Top,carwale_000564,2018
+5,cartrade,1173439,0.57,Electric,64793,"Bhopal, Madhya Pradesh",BMW,5 Series,,1173439,,,18.11,,,2025-07-02T11:51:40.849801,cartrade,CVT,VX,cartrade_000565,2019
+8,cardekho,196861,0.51,Petrol,77875,"Kolkata, West Bengal",Jeep,Unknown,196861,,,,2.53,,,2025-07-02T11:51:40.849801,cardekho,AMT,SX,cardekho_000566,2016
+7,carwale,298266,0.38,Electric,133079,"Bhopal, Madhya Pradesh",Volkswagen,Unknown,,,298266,,2.24,,,2025-07-02T11:51:40.849801,carwale,Manual,SX,carwale_000567,2017
+7,spinny,249809,0.52,Diesel,79245,"Ahmedabad, Gujarat",Skoda,Unknown,,,,,3.15,,249809,2025-07-02T11:51:40.849801,spinny,AMT,SX,spinny_000568,2017
+7,olx,312518,0.39,Electric,128612,"Mumbai, Maharashtra",Honda,Civic,,,,312518,2.43,,,2025-07-02T11:51:40.849801,olx,CVT,Top,olx_000569,2017
+0,olx,752071,1.0,CNG,1808,"Jaipur, Rajasthan",Renault,Unknown,,,,752071,415.97,,,2025-07-02T11:51:40.849801,olx,AMT,Top,olx_000570,2024
+3,carwale,530403,0.68,Hybrid,34123,"Delhi, Delhi",Jeep,Unknown,,,530403,,15.54,,,2025-07-02T11:51:40.849801,carwale,Manual,Base,carwale_000571,2021
+7,spinny,352423,0.54,Hybrid,71648,"Thane, Maharashtra",Honda,City,,,,,4.92,,352423,2025-07-02T11:51:40.849801,spinny,Manual,Mid,spinny_000572,2017
+3,carwale,464823,0.58,Petrol,50417,"Chennai, Tamil Nadu",Ford,Unknown,,,464823,,9.22,,,2025-07-02T11:51:40.849801,carwale,CVT,Top,carwale_000573,2021
+2,carwale,557348,0.78,Petrol,15646,"Hyderabad, Telangana",Renault,Unknown,,,557348,,35.62,,,2025-07-02T11:51:40.849801,carwale,CVT,Top,carwale_000574,2022
+4,sahivalue,376774,0.53,Hybrid,69066,"Indore, Madhya Pradesh",Hyundai,Elantra,,,,,5.46,376774,,2025-07-02T11:51:40.849801,sahivalue,Automatic,LX,sahivalue_000575,2020
+7,cartrade,232162,0.4,Petrol,125360,"Indore, Madhya Pradesh",Hyundai,Tucson,,232162,,,1.85,,,2025-07-02T11:51:40.849801,cartrade,AMT,VX,cartrade_000576,2017
+9,spinny,182828,0.5,Petrol,72128,"Chennai, Tamil Nadu",Nissan,Unknown,,,,,2.53,,182828,2025-07-02T11:51:40.849801,spinny,Manual,ZX,spinny_000577,2015
+5,carwale,388957,0.51,Electric,82571,"Bhopal, Madhya Pradesh",Nissan,Unknown,,,388957,,4.71,,,2025-07-02T11:51:40.849801,carwale,Automatic,Top,carwale_000578,2019
+3,spinny,453765,0.65,CNG,39609,"Jaipur, Rajasthan",MG,Unknown,,,,,11.46,,453765,2025-07-02T11:51:40.849801,spinny,AMT,SX,spinny_000579,2021
+8,spinny,196451,0.45,CNG,104703,"Pune, Maharashtra",Renault,Unknown,,,,,1.88,,196451,2025-07-02T11:51:40.849801,spinny,CVT,Top,spinny_000580,2016
+9,carwale,223567,0.3,CNG,170237,"Ahmedabad, Gujarat",Volkswagen,Unknown,,,223567,,1.31,,,2025-07-02T11:51:40.849801,carwale,AMT,Base,carwale_000581,2015
+6,carwale,1042158,0.58,CNG,59564,"Lucknow, Uttar Pradesh",Audi,Q3,,,1042158,,17.5,,,2025-07-02T11:51:40.849801,carwale,Manual,Base,carwale_000582,2018
+8,cartrade,298206,0.33,Electric,158369,"Delhi, Delhi",Honda,BR-V,,298206,,,1.88,,,2025-07-02T11:51:40.849801,cartrade,Manual,EX,cartrade_000583,2016
+0,sahivalue,1072223,1.0,Electric,0,"Ahmedabad, Gujarat",Honda,Accord,,,,,1072223.0,1072223,,2025-07-02T11:51:40.849801,sahivalue,Automatic,SX,sahivalue_000584,2024
+4,cartrade,411126,0.48,Hybrid,80295,"Pune, Maharashtra",Ford,Unknown,,411126,,,5.12,,,2025-07-02T11:51:40.849801,cartrade,Automatic,Mid,cartrade_000585,2020
+3,spinny,488805,0.7,Electric,30757,"Mumbai, Maharashtra",Renault,Unknown,,,,,15.89,,488805,2025-07-02T11:51:40.849801,spinny,AMT,EX,spinny_000586,2021
+3,cartrade,526790,0.6,CNG,47867,"Mumbai, Maharashtra",MG,Unknown,,526790,,,11.01,,,2025-07-02T11:51:40.849801,cartrade,CVT,EX,cartrade_000587,2021
+8,sahivalue,247582,0.4,CNG,127904,"Lucknow, Uttar Pradesh",Mahindra,XUV300,,,,,1.94,247582,,2025-07-02T11:51:40.849801,sahivalue,CVT,Mid,sahivalue_000588,2016
+0,olx,2602399,1.0,CNG,0,"Thane, Maharashtra",BMW,7 Series,,,,2602399,2602399.0,,,2025-07-02T11:51:40.849801,olx,Automatic,Base,olx_000589,2024
+4,spinny,449306,0.5,Petrol,77001,"Indore, Madhya Pradesh",Skoda,Unknown,,,,,5.84,,449306,2025-07-02T11:51:40.849801,spinny,Automatic,EX,spinny_000590,2020
+9,carwale,575834,0.32,Hybrid,162724,"Pune, Maharashtra",BMW,X5,,,575834,,3.54,,,2025-07-02T11:51:40.849801,carwale,AMT,VX,carwale_000591,2015
+8,olx,159810,0.37,Diesel,138832,"Indore, Madhya Pradesh",Maruti Suzuki,Dzire,,,,159810,1.15,,,2025-07-02T11:51:40.849801,olx,Automatic,Base,olx_000592,2016
+9,cardekho,172196,0.29,CNG,177018,"Indore, Madhya Pradesh",Renault,Unknown,172196,,,,0.97,,,2025-07-02T11:51:40.849801,cardekho,Manual,Top,cardekho_000593,2015
+1,olx,777938,0.7,CNG,14502,"Visakhapatnam, Andhra Pradesh",Honda,City,,,,777938,53.64,,,2025-07-02T11:51:40.849801,olx,AMT,SX,olx_000594,2023
+0,cartrade,575791,1.0,Petrol,0,"Jaipur, Rajasthan",Maruti Suzuki,Vitara Brezza,,575791,,,575791.0,,,2025-07-02T11:51:40.849801,cartrade,CVT,ZX,cartrade_000595,2024
+9,cartrade,192846,0.34,Petrol,153223,"Chennai, Tamil Nadu",Renault,Unknown,,192846,,,1.26,,,2025-07-02T11:51:40.849801,cartrade,AMT,Mid,cartrade_000596,2015
+5,cardekho,368207,0.56,Petrol,67686,"Visakhapatnam, Andhra Pradesh",Jeep,Unknown,368207,,,,5.44,,,2025-07-02T11:51:40.849801,cardekho,CVT,EX,cardekho_000597,2019
+7,cardekho,248589,0.48,CNG,92921,"Mumbai, Maharashtra",Ford,Unknown,248589,,,,2.68,,,2025-07-02T11:51:40.849801,cardekho,CVT,Base,cardekho_000598,2017
+3,sahivalue,517146,0.69,CNG,32753,"Thane, Maharashtra",Renault,Unknown,,,,,15.79,517146,,2025-07-02T11:51:40.849801,sahivalue,CVT,ZX,sahivalue_000599,2021
+9,carwale,582606,0.46,Hybrid,93642,"Nagpur, Maharashtra",BMW,3 Series,,,582606,,6.22,,,2025-07-02T11:51:40.849801,carwale,AMT,Mid,carwale_000600,2015
+4,carwale,449429,0.59,Diesel,56233,"Lucknow, Uttar Pradesh",Mahindra,Marazzo,,,449429,,7.99,,,2025-07-02T11:51:40.849801,carwale,CVT,VX,carwale_000601,2020
+1,sahivalue,614779,0.74,CNG,12182,"Kolkata, West Bengal",Renault,Unknown,,,,,50.47,614779,,2025-07-02T11:51:40.849801,sahivalue,AMT,EX,sahivalue_000602,2023
+2,cardekho,553636,0.6,Electric,35639,"Pune, Maharashtra",Jeep,Unknown,553636,,,,15.53,,,2025-07-02T11:51:40.849801,cardekho,CVT,EX,cardekho_000603,2022
+8,carwale,720653,0.35,CNG,149879,"Nagpur, Maharashtra",Audi,Q3,,,720653,,4.81,,,2025-07-02T11:51:40.849801,carwale,AMT,LX,carwale_000604,2016
+8,sahivalue,270131,0.51,Petrol,74306,"Bhopal, Madhya Pradesh",Honda,Accord,,,,,3.64,270131,,2025-07-02T11:51:40.849801,sahivalue,CVT,Top,sahivalue_000605,2016
+7,carwale,300727,0.37,Electric,139383,"Jaipur, Rajasthan",Volkswagen,Unknown,,,300727,,2.16,,,2025-07-02T11:51:40.849801,carwale,CVT,ZX,carwale_000606,2017
+6,sahivalue,277363,0.5,Electric,87134,"Visakhapatnam, Andhra Pradesh",Chevrolet,Unknown,,,,,3.18,277363,,2025-07-02T11:51:40.849801,sahivalue,Manual,VX,sahivalue_000607,2018
+5,spinny,394613,0.43,Electric,103915,"Thane, Maharashtra",Mahindra,KUV100,,,,,3.8,,394613,2025-07-02T11:51:40.849801,spinny,Manual,VX,spinny_000608,2019
+4,sahivalue,447757,0.63,Hybrid,48069,"Bangalore, Karnataka",Mahindra,XUV500,,,,,9.31,447757,,2025-07-02T11:51:40.849801,sahivalue,Automatic,EX,sahivalue_000609,2020
+1,olx,807502,0.65,Petrol,17505,"Kanpur, Uttar Pradesh",Honda,WR-V,,,,807502,46.13,,,2025-07-02T11:51:40.849801,olx,Manual,LX,olx_000610,2023
+5,carwale,321053,0.62,Hybrid,51003,"Indore, Madhya Pradesh",MG,Unknown,,,321053,,6.29,,,2025-07-02T11:51:40.849801,carwale,AMT,SX,carwale_000611,2019
+8,cartrade,297322,0.41,Electric,120974,"Pune, Maharashtra",Volkswagen,Unknown,,297322,,,2.46,,,2025-07-02T11:51:40.849801,cartrade,AMT,Top,cartrade_000612,2016
+0,carwale,1086059,1.0,Electric,0,"Lucknow, Uttar Pradesh",Volkswagen,Unknown,,,1086059,,1086059.0,,,2025-07-02T11:51:40.849801,carwale,AMT,SX,carwale_000613,2024
+6,spinny,410406,0.52,Diesel,79570,"Hyderabad, Telangana",Honda,Accord,,,,,5.16,,410406,2025-07-02T11:51:40.849801,spinny,CVT,Base,spinny_000614,2018
+7,cardekho,265416,0.55,CNG,68679,"Chennai, Tamil Nadu",Ford,Unknown,265416,,,,3.86,,,2025-07-02T11:51:40.849801,cardekho,Manual,LX,cardekho_000615,2017
+3,sahivalue,1693832,0.74,Petrol,23777,"Pune, Maharashtra",Audi,A6,,,,,71.24,1693832,,2025-07-02T11:51:40.849801,sahivalue,CVT,Mid,sahivalue_000616,2021
+1,carwale,678411,0.78,Electric,9881,"Kanpur, Uttar Pradesh",Jeep,Unknown,,,678411,,68.66,,,2025-07-02T11:51:40.849801,carwale,AMT,SX,carwale_000617,2023
+9,carwale,175360,0.35,Petrol,147095,"Chennai, Tamil Nadu",Tata,Nexon,,,175360,,1.19,,,2025-07-02T11:51:40.849801,carwale,CVT,SX,carwale_000618,2015
+1,carwale,2387648,0.56,CNG,22849,"Pune, Maharashtra",Mercedes-Benz,GLA,,,2387648,,104.5,,,2025-07-02T11:51:40.849801,carwale,AMT,SX,carwale_000619,2023
+3,cardekho,530414,0.68,Hybrid,33491,"Visakhapatnam, Andhra Pradesh",Renault,Unknown,530414,,,,15.84,,,2025-07-02T11:51:40.849801,cardekho,CVT,VX,cardekho_000620,2021
+3,spinny,551664,0.57,Diesel,51844,"Ahmedabad, Gujarat",Kia,Unknown,,,,,10.64,,551664,2025-07-02T11:51:40.849801,spinny,CVT,Top,spinny_000621,2021
+8,spinny,205620,0.33,Electric,157404,"Mumbai, Maharashtra",MG,Unknown,,,,,1.31,,205620,2025-07-02T11:51:40.849801,spinny,Automatic,EX,spinny_000622,2016
+3,spinny,600097,0.69,Petrol,32866,"Lucknow, Uttar Pradesh",Volkswagen,Unknown,,,,,18.26,,600097,2025-07-02T11:51:40.849801,spinny,CVT,ZX,spinny_000623,2021
+1,spinny,1112901,0.69,Petrol,15337,"Visakhapatnam, Andhra Pradesh",Toyota,Yaris,,,,,72.56,,1112901,2025-07-02T11:51:40.849801,spinny,CVT,LX,spinny_000624,2023
+0,sahivalue,843549,1.0,Electric,2031,"Visakhapatnam, Andhra Pradesh",Jeep,Unknown,,,,,415.34,843549,,2025-07-02T11:51:40.849801,sahivalue,CVT,Mid,sahivalue_000625,2024
+4,olx,496993,0.51,Electric,75108,"Chennai, Tamil Nadu",Kia,Unknown,,,,496993,6.62,,,2025-07-02T11:51:40.849801,olx,AMT,EX,olx_000626,2020
+1,sahivalue,837273,0.61,Hybrid,19910,"Chennai, Tamil Nadu",Mahindra,Thar,,,,,42.05,837273,,2025-07-02T11:51:40.849801,sahivalue,Manual,Top,sahivalue_000627,2023
+6,cardekho,273525,0.53,Diesel,78298,"Thane, Maharashtra",Tata,Harrier,273525,,,,3.49,,,2025-07-02T11:51:40.849801,cardekho,CVT,ZX,cardekho_000628,2018
+9,sahivalue,678919,0.36,Hybrid,143747,"Lucknow, Uttar Pradesh",Mercedes-Benz,E-Class,,,,,4.72,678919,,2025-07-02T11:51:40.849801,sahivalue,Automatic,Top,sahivalue_000629,2015
+0,carwale,3141858,1.0,Diesel,0,"Bhopal, Madhya Pradesh",Mercedes-Benz,CLA,,,3141858,,3141858.0,,,2025-07-02T11:51:40.849801,carwale,AMT,Base,carwale_000630,2024
+7,spinny,302783,0.41,CNG,121921,"Hyderabad, Telangana",Volkswagen,Unknown,,,,,2.48,,302783,2025-07-02T11:51:40.849801,spinny,Manual,Top,spinny_000631,2017
+6,olx,279835,0.58,Petrol,61827,"Kolkata, West Bengal",Jeep,Unknown,,,,279835,4.53,,,2025-07-02T11:51:40.849801,olx,Automatic,Mid,olx_000632,2018
+9,spinny,142521,0.34,Diesel,153428,"Jaipur, Rajasthan",Maruti Suzuki,Baleno,,,,,0.93,,142521,2025-07-02T11:51:40.849801,spinny,Automatic,VX,spinny_000633,2015
+9,cartrade,620499,0.31,Petrol,168796,"Bhopal, Madhya Pradesh",Audi,Q7,,620499,,,3.68,,,2025-07-02T11:51:40.849801,cartrade,Manual,Base,cartrade_000634,2015
+7,carwale,280067,0.52,Electric,78806,"Kolkata, West Bengal",Kia,Unknown,,,280067,,3.55,,,2025-07-02T11:51:40.849801,carwale,Automatic,LX,carwale_000635,2017
+7,carwale,239421,0.49,Petrol,90108,"Indore, Madhya Pradesh",Chevrolet,Unknown,,,239421,,2.66,,,2025-07-02T11:51:40.849801,carwale,Manual,Top,carwale_000636,2017
+1,spinny,711581,0.84,CNG,6469,"Pune, Maharashtra",Renault,Unknown,,,,,110.0,,711581,2025-07-02T11:51:40.849801,spinny,CVT,EX,spinny_000637,2023
+8,carwale,201432,0.36,Electric,144209,"Nagpur, Maharashtra",Tata,Safari,,,201432,,1.4,,,2025-07-02T11:51:40.849801,carwale,Manual,ZX,carwale_000638,2016
+8,carwale,208866,0.4,Hybrid,126632,"Chennai, Tamil Nadu",Chevrolet,Unknown,,,208866,,1.65,,,2025-07-02T11:51:40.849801,carwale,AMT,EX,carwale_000639,2016
+5,spinny,1134286,0.63,Hybrid,47088,"Chennai, Tamil Nadu",Audi,Q5,,,,,24.09,,1134286,2025-07-02T11:51:40.849801,spinny,Automatic,EX,spinny_000640,2019
+1,cartrade,667620,0.76,Hybrid,11321,"Mumbai, Maharashtra",Nissan,Unknown,,667620,,,58.97,,,2025-07-02T11:51:40.849801,cartrade,AMT,EX,cartrade_000641,2023
+1,spinny,688336,0.74,Petrol,12239,"Mumbai, Maharashtra",MG,Unknown,,,,,56.24,,688336,2025-07-02T11:51:40.849801,spinny,AMT,Mid,spinny_000642,2023
+6,cardekho,328898,0.41,CNG,117737,"Hyderabad, Telangana",Skoda,Unknown,328898,,,,2.79,,,2025-07-02T11:51:40.849801,cardekho,Automatic,EX,cardekho_000643,2018
+4,olx,433136,0.51,Diesel,73756,"Bhopal, Madhya Pradesh",Ford,Unknown,,,,433136,5.87,,,2025-07-02T11:51:40.849801,olx,CVT,Top,olx_000644,2020
+5,carwale,340200,0.58,Diesel,62354,"Indore, Madhya Pradesh",Ford,Unknown,,,340200,,5.46,,,2025-07-02T11:51:40.849801,carwale,Automatic,ZX,carwale_000645,2019
+6,sahivalue,274696,0.52,Electric,81787,"Bhopal, Madhya Pradesh",Tata,Zest,,,,,3.36,274696,,2025-07-02T11:51:40.849801,sahivalue,Automatic,Base,sahivalue_000646,2018
+2,cardekho,524962,0.79,Hybrid,14320,"Delhi, Delhi",MG,Unknown,524962,,,,36.66,,,2025-07-02T11:51:40.849801,cardekho,AMT,LX,cardekho_000647,2022
+3,spinny,491342,0.64,Hybrid,41104,"Mumbai, Maharashtra",Hyundai,Verna,,,,,11.95,,491342,2025-07-02T11:51:40.849801,spinny,Automatic,VX,spinny_000648,2021
+9,carwale,750796,0.35,Electric,146725,"Chennai, Tamil Nadu",Mercedes-Benz,GLE,,,750796,,5.12,,,2025-07-02T11:51:40.849801,carwale,AMT,VX,carwale_000649,2015
+0,cardekho,946801,1.0,Diesel,3263,"Mumbai, Maharashtra",Mahindra,XUV500,946801,,,,290.16,,,2025-07-02T11:51:40.849801,cardekho,Manual,Base,cardekho_000650,2024
+7,olx,253248,0.39,Diesel,129849,"Delhi, Delhi",Ford,Unknown,,,,253248,1.95,,,2025-07-02T11:51:40.849801,olx,Automatic,Top,olx_000651,2017
+2,spinny,670049,0.57,Diesel,39538,"Chennai, Tamil Nadu",Honda,Jazz,,,,,16.95,,670049,2025-07-02T11:51:40.849801,spinny,CVT,Mid,spinny_000652,2022
+3,sahivalue,1498162,0.57,Hybrid,52409,"Hyderabad, Telangana",BMW,X5,,,,,28.59,1498162,,2025-07-02T11:51:40.849801,sahivalue,CVT,Base,sahivalue_000653,2021
+1,spinny,784270,0.85,Electric,6012,"Pune, Maharashtra",Volkswagen,Unknown,,,,,130.45,,784270,2025-07-02T11:51:40.849801,spinny,AMT,Top,spinny_000654,2023
+8,carwale,256987,0.35,Electric,146435,"Thane, Maharashtra",Kia,Unknown,,,256987,,1.75,,,2025-07-02T11:51:40.849801,carwale,Manual,EX,carwale_000655,2016
+0,carwale,773591,1.0,Diesel,0,"Ahmedabad, Gujarat",Renault,Unknown,,,773591,,773591.0,,,2025-07-02T11:51:40.849801,carwale,Automatic,Mid,carwale_000656,2024
+9,cardekho,202630,0.35,Diesel,144807,"Bhopal, Madhya Pradesh",MG,Unknown,202630,,,,1.4,,,2025-07-02T11:51:40.849801,cardekho,AMT,SX,cardekho_000657,2015
+0,cardekho,935282,1.0,CNG,0,"Delhi, Delhi",Volkswagen,Unknown,935282,,,,935282.0,,,2025-07-02T11:51:40.849801,cardekho,CVT,ZX,cardekho_000658,2024
+0,olx,2610864,1.0,Electric,0,"Chennai, Tamil Nadu",Audi,A4,,,,2610864,2610864.0,,,2025-07-02T11:51:40.849801,olx,AMT,EX,olx_000659,2024
+4,olx,456029,0.5,CNG,76403,"Chennai, Tamil Nadu",Skoda,Unknown,,,,456029,5.97,,,2025-07-02T11:51:40.849801,olx,Automatic,VX,olx_000660,2020
+3,olx,406119,0.61,Hybrid,45943,"Jaipur, Rajasthan",Tata,Nexon,,,,406119,8.84,,,2025-07-02T11:51:40.849801,olx,CVT,VX,olx_000661,2021
+5,olx,395683,0.44,CNG,101101,"Pune, Maharashtra",Kia,Unknown,,,,395683,3.91,,,2025-07-02T11:51:40.849801,olx,Manual,Base,olx_000662,2019
+5,cardekho,483464,0.54,Petrol,73552,"Mumbai, Maharashtra",Toyota,Fortuner,483464,,,,6.57,,,2025-07-02T11:51:40.849801,cardekho,CVT,Base,cardekho_000663,2019
+8,spinny,250172,0.43,Electric,112579,"Lucknow, Uttar Pradesh",Mahindra,Bolero,,,,,2.22,,250172,2025-07-02T11:51:40.849801,spinny,Automatic,LX,spinny_000664,2016
+4,sahivalue,443157,0.7,Hybrid,30503,"Visakhapatnam, Andhra Pradesh",Nissan,Unknown,,,,,14.53,443157,,2025-07-02T11:51:40.849801,sahivalue,AMT,Top,sahivalue_000665,2020
+0,olx,2768174,1.0,Diesel,0,"Kanpur, Uttar Pradesh",Mercedes-Benz,S-Class,,,,2768174,2768174.0,,,2025-07-02T11:51:40.849801,olx,CVT,LX,olx_000666,2024
+0,cartrade,712897,1.0,Petrol,0,"Delhi, Delhi",Tata,Harrier,,712897,,,712897.0,,,2025-07-02T11:51:40.849801,cartrade,Automatic,SX,cartrade_000667,2024
+6,spinny,1207477,0.54,Petrol,73157,"Nagpur, Maharashtra",Mercedes-Benz,GLA,,,,,16.51,,1207477,2025-07-02T11:51:40.849801,spinny,Manual,VX,spinny_000668,2018
+9,sahivalue,186937,0.39,Electric,126121,"Kolkata, West Bengal",Hyundai,Elantra,,,,,1.48,186937,,2025-07-02T11:51:40.849801,sahivalue,Manual,VX,sahivalue_000669,2015
+1,sahivalue,745292,0.78,Petrol,10174,"Bhopal, Madhya Pradesh",Nissan,Unknown,,,,,73.25,745292,,2025-07-02T11:51:40.849801,sahivalue,Automatic,LX,sahivalue_000670,2023
+6,sahivalue,358417,0.59,Petrol,57285,"Lucknow, Uttar Pradesh",Kia,Unknown,,,,,6.26,358417,,2025-07-02T11:51:40.849801,sahivalue,Manual,VX,sahivalue_000671,2018
+6,cartrade,1060907,0.56,Diesel,67560,"Lucknow, Uttar Pradesh",Audi,A4,,1060907,,,15.7,,,2025-07-02T11:51:40.849801,cartrade,AMT,SX,cartrade_000672,2018
+2,cartrade,787462,0.66,Diesel,29097,"Nagpur, Maharashtra",Honda,Accord,,787462,,,27.06,,,2025-07-02T11:51:40.849801,cartrade,CVT,Base,cartrade_000673,2022
+2,cardekho,685660,0.74,Diesel,19979,"Kanpur, Uttar Pradesh",Honda,Accord,685660,,,,34.32,,,2025-07-02T11:51:40.849801,cardekho,CVT,Top,cardekho_000674,2022
+1,olx,927694,0.63,Petrol,18422,"Bangalore, Karnataka",Volkswagen,Unknown,,,,927694,50.36,,,2025-07-02T11:51:40.849801,olx,AMT,Top,olx_000675,2023
+0,cardekho,644589,1.0,Electric,4681,"Ahmedabad, Gujarat",Maruti Suzuki,Ciaz,644589,,,,137.7,,,2025-07-02T11:51:40.849801,cardekho,AMT,LX,cardekho_000676,2024
+5,carwale,333469,0.51,Electric,81499,"Chennai, Tamil Nadu",Ford,Unknown,,,333469,,4.09,,,2025-07-02T11:51:40.849801,carwale,Manual,SX,carwale_000677,2019
+9,spinny,286501,0.35,Diesel,145845,"Pune, Maharashtra",Toyota,Corolla,,,,,1.96,,286501,2025-07-02T11:51:40.849801,spinny,AMT,SX,spinny_000678,2015
+2,sahivalue,1878051,0.56,Electric,40408,"Visakhapatnam, Andhra Pradesh",BMW,Z4,,,,,46.48,1878051,,2025-07-02T11:51:40.849801,sahivalue,CVT,SX,sahivalue_000679,2022
+0,olx,3146269,1.0,Petrol,0,"Thane, Maharashtra",Mercedes-Benz,GLE,,,,3146269,3146269.0,,,2025-07-02T11:51:40.849801,olx,Manual,VX,olx_000680,2024
+5,cardekho,1086075,0.45,Petrol,98254,"Thane, Maharashtra",BMW,X5,1086075,,,,11.05,,,2025-07-02T11:51:40.849801,cardekho,CVT,Base,cardekho_000681,2019
+3,cartrade,533165,0.7,Diesel,30325,"Indore, Madhya Pradesh",Hyundai,Creta,,533165,,,17.58,,,2025-07-02T11:51:40.849801,cartrade,CVT,Base,cartrade_000682,2021
+3,carwale,1872317,0.63,Electric,41499,"Delhi, Delhi",Mercedes-Benz,C-Class,,,1872317,,45.12,,,2025-07-02T11:51:40.850803,carwale,Manual,EX,carwale_000683,2021
+1,sahivalue,2027600,0.67,Electric,16195,"Nagpur, Maharashtra",BMW,Z4,,,,,125.2,2027600,,2025-07-02T11:51:40.850803,sahivalue,Automatic,LX,sahivalue_000684,2023
+4,spinny,426749,0.51,Petrol,74207,"Delhi, Delhi",Renault,Unknown,,,,,5.75,,426749,2025-07-02T11:51:40.850803,spinny,Automatic,Base,spinny_000685,2020
+5,sahivalue,1170981,0.45,Electric,97292,"Bhopal, Madhya Pradesh",Audi,A8,,,,,12.04,1170981,,2025-07-02T11:51:40.850803,sahivalue,AMT,ZX,sahivalue_000686,2019
+6,olx,341605,0.44,Diesel,109499,"Visakhapatnam, Andhra Pradesh",Kia,Unknown,,,,341605,3.12,,,2025-07-02T11:51:40.850803,olx,CVT,ZX,olx_000687,2018
+9,cartrade,603427,0.3,Petrol,172735,"Pune, Maharashtra",Audi,Q7,,603427,,,3.49,,,2025-07-02T11:51:40.850803,cartrade,Automatic,Top,cartrade_000688,2015
+4,spinny,529579,0.56,Hybrid,63751,"Delhi, Delhi",Volkswagen,Unknown,,,,,8.31,,529579,2025-07-02T11:51:40.850803,spinny,CVT,Top,spinny_000689,2020
+5,olx,406169,0.64,Electric,45535,"Pune, Maharashtra",Mahindra,Thar,,,,406169,8.92,,,2025-07-02T11:51:40.850803,olx,Manual,EX,olx_000690,2019
+1,carwale,719666,0.67,Hybrid,16428,"Pune, Maharashtra",MG,Unknown,,,719666,,43.81,,,2025-07-02T11:51:40.850803,carwale,CVT,ZX,carwale_000691,2023
+1,olx,2727876,0.69,CNG,14988,"Hyderabad, Telangana",Mercedes-Benz,S-Class,,,,2727876,182.0,,,2025-07-02T11:51:40.850803,olx,Automatic,ZX,olx_000692,2023
+9,carwale,235751,0.31,Electric,167528,"Chennai, Tamil Nadu",Volkswagen,Unknown,,,235751,,1.41,,,2025-07-02T11:51:40.850803,carwale,Automatic,SX,carwale_000693,2015
+9,cardekho,294420,0.39,Petrol,127333,"Delhi, Delhi",Toyota,Corolla,294420,,,,2.31,,,2025-07-02T11:51:40.850803,cardekho,Automatic,EX,cardekho_000694,2015
+3,cardekho,453642,0.7,Electric,30540,"Delhi, Delhi",Skoda,Unknown,453642,,,,14.85,,,2025-07-02T11:51:40.850803,cardekho,Automatic,EX,cardekho_000695,2021
+7,cartrade,239366,0.43,Hybrid,113647,"Hyderabad, Telangana",Renault,Unknown,,239366,,,2.11,,,2025-07-02T11:51:40.850803,cartrade,Automatic,LX,cartrade_000696,2017
+5,cartrade,401856,0.56,CNG,68793,"Kanpur, Uttar Pradesh",Kia,Unknown,,401856,,,5.84,,,2025-07-02T11:51:40.850803,cartrade,AMT,Top,cartrade_000697,2019
+1,cardekho,2204410,0.74,Diesel,12495,"Pune, Maharashtra",BMW,3 Series,2204410,,,,176.42,,,2025-07-02T11:51:40.850803,cardekho,AMT,Base,cardekho_000698,2023
+4,sahivalue,381961,0.64,Diesel,44123,"Ahmedabad, Gujarat",Hyundai,Elantra,,,,,8.66,381961,,2025-07-02T11:51:40.850803,sahivalue,AMT,LX,sahivalue_000699,2020
+2,carwale,916598,0.78,CNG,16128,"Pune, Maharashtra",Toyota,Urban Cruiser,,,916598,,56.83,,,2025-07-02T11:51:40.850803,carwale,AMT,Mid,carwale_000700,2022
+7,cardekho,330580,0.54,Hybrid,69478,"Jaipur, Rajasthan",Volkswagen,Unknown,330580,,,,4.76,,,2025-07-02T11:51:40.850803,cardekho,Automatic,VX,cardekho_000701,2017
+3,olx,497401,0.61,Hybrid,45887,"Thane, Maharashtra",Chevrolet,Unknown,,,,497401,10.84,,,2025-07-02T11:51:40.850803,olx,AMT,Base,olx_000702,2021
+5,olx,1064883,0.67,Petrol,36119,"Nagpur, Maharashtra",BMW,X1,,,,1064883,29.48,,,2025-07-02T11:51:40.850803,olx,Manual,Top,olx_000703,2019
+3,sahivalue,623815,0.58,Petrol,50896,"Nagpur, Maharashtra",Honda,Accord,,,,,12.26,623815,,2025-07-02T11:51:40.850803,sahivalue,CVT,ZX,sahivalue_000704,2021
+2,carwale,522335,0.57,CNG,39917,"Bhopal, Madhya Pradesh",Ford,Unknown,,,522335,,13.09,,,2025-07-02T11:51:40.850803,carwale,Manual,Mid,carwale_000705,2022
+1,spinny,624767,0.62,Petrol,18979,"Hyderabad, Telangana",Renault,Unknown,,,,,32.92,,624767,2025-07-02T11:51:40.850803,spinny,Automatic,SX,spinny_000706,2023
+2,cardekho,616456,0.72,Electric,22542,"Kolkata, West Bengal",Renault,Unknown,616456,,,,27.35,,,2025-07-02T11:51:40.850803,cardekho,AMT,ZX,cardekho_000707,2022
+7,spinny,252018,0.57,Hybrid,60628,"Lucknow, Uttar Pradesh",Skoda,Unknown,,,,,4.16,,252018,2025-07-02T11:51:40.850803,spinny,Automatic,Mid,spinny_000708,2017
+6,carwale,285874,0.43,Electric,112866,"Lucknow, Uttar Pradesh",Skoda,Unknown,,,285874,,2.53,,,2025-07-02T11:51:40.850803,carwale,Manual,ZX,carwale_000709,2018
+0,cardekho,3162607,1.0,CNG,0,"Jaipur, Rajasthan",Mercedes-Benz,GLE,3162607,,,,3162607.0,,,2025-07-02T11:51:40.850803,cardekho,Manual,Mid,cardekho_000710,2024
+5,olx,429451,0.63,Electric,46523,"Ahmedabad, Gujarat",Volkswagen,Unknown,,,,429451,9.23,,,2025-07-02T11:51:40.850803,olx,AMT,Base,olx_000711,2019
+8,olx,239693,0.35,Electric,146713,"Hyderabad, Telangana",Nissan,Unknown,,,,239693,1.63,,,2025-07-02T11:51:40.850803,olx,CVT,Base,olx_000712,2016
+7,olx,205887,0.57,Electric,59164,"Kolkata, West Bengal",Tata,Hexa,,,,205887,3.48,,,2025-07-02T11:51:40.850803,olx,Automatic,Top,olx_000713,2017
+3,sahivalue,598936,0.55,CNG,55450,"Visakhapatnam, Andhra Pradesh",Mahindra,KUV100,,,,,10.8,598936,,2025-07-02T11:51:40.850803,sahivalue,CVT,Mid,sahivalue_000714,2021
+4,carwale,415941,0.56,Electric,64041,"Nagpur, Maharashtra",Jeep,Unknown,,,415941,,6.49,,,2025-07-02T11:51:40.850803,carwale,Manual,Base,carwale_000715,2020
+5,cartrade,387073,0.55,CNG,70529,"Bangalore, Karnataka",Chevrolet,Unknown,,387073,,,5.49,,,2025-07-02T11:51:40.850803,cartrade,Manual,LX,cartrade_000716,2019
+8,cardekho,242614,0.48,Petrol,91662,"Kanpur, Uttar Pradesh",Mahindra,Alturas,242614,,,,2.65,,,2025-07-02T11:51:40.850803,cardekho,Automatic,LX,cardekho_000717,2016
+3,cartrade,352493,0.59,CNG,49433,"Jaipur, Rajasthan",Maruti Suzuki,WagonR,,352493,,,7.13,,,2025-07-02T11:51:40.850803,cartrade,AMT,SX,cartrade_000718,2021
+7,cardekho,252484,0.39,Hybrid,131267,"Indore, Madhya Pradesh",MG,Unknown,252484,,,,1.92,,,2025-07-02T11:51:40.850803,cardekho,CVT,LX,cardekho_000719,2017
+5,cartrade,324872,0.51,Electric,80679,"Indore, Madhya Pradesh",Nissan,Unknown,,324872,,,4.03,,,2025-07-02T11:51:40.850803,cartrade,CVT,Top,cartrade_000720,2019
+5,olx,344525,0.6,Diesel,56589,"Nagpur, Maharashtra",Hyundai,Elite i20,,,,344525,6.09,,,2025-07-02T11:51:40.850803,olx,AMT,ZX,olx_000721,2019
+1,cartrade,698765,0.75,Diesel,12053,"Thane, Maharashtra",Chevrolet,Unknown,,698765,,,57.97,,,2025-07-02T11:51:40.850803,cartrade,CVT,ZX,cartrade_000722,2023
+1,cartrade,643287,0.67,Diesel,16472,"Pune, Maharashtra",Chevrolet,Unknown,,643287,,,39.05,,,2025-07-02T11:51:40.850803,cartrade,Automatic,LX,cartrade_000723,2023
+5,spinny,1217778,0.45,Diesel,99152,"Nagpur, Maharashtra",Audi,A8,,,,,12.28,,1217778,2025-07-02T11:51:40.850803,spinny,AMT,Top,spinny_000724,2019
+1,carwale,779768,0.68,Petrol,15614,"Ahmedabad, Gujarat",Kia,Unknown,,,779768,,49.94,,,2025-07-02T11:51:40.850803,carwale,CVT,ZX,carwale_000725,2023
+2,cartrade,433851,0.71,Diesel,24094,"Bangalore, Karnataka",Maruti Suzuki,WagonR,,433851,,,18.01,,,2025-07-02T11:51:40.850803,cartrade,Automatic,EX,cartrade_000726,2022
+5,cardekho,338348,0.61,CNG,52042,"Kolkata, West Bengal",Ford,Unknown,338348,,,,6.5,,,2025-07-02T11:51:40.850803,cardekho,AMT,LX,cardekho_000727,2019
+8,carwale,205349,0.52,CNG,71233,"Mumbai, Maharashtra",Hyundai,Elantra,,,205349,,2.88,,,2025-07-02T11:51:40.850803,carwale,AMT,EX,carwale_000728,2016
+7,cardekho,812032,0.51,Petrol,81355,"Kanpur, Uttar Pradesh",Audi,TT,812032,,,,9.98,,,2025-07-02T11:51:40.850803,cardekho,Automatic,Mid,cardekho_000729,2017
+1,olx,792032,0.84,CNG,6776,"Nagpur, Maharashtra",Kia,Unknown,,,,792032,116.89,,,2025-07-02T11:51:40.850803,olx,Manual,Top,olx_000730,2023
+8,carwale,226165,0.46,Diesel,98539,"Chennai, Tamil Nadu",Hyundai,Santro,,,226165,,2.3,,,2025-07-02T11:51:40.850803,carwale,CVT,VX,carwale_000731,2016
+3,cardekho,1677960,0.73,Hybrid,25028,"Mumbai, Maharashtra",Audi,Q7,1677960,,,,67.04,,,2025-07-02T11:51:40.850803,cardekho,CVT,Top,cardekho_000732,2021
+1,cardekho,732659,0.56,Hybrid,24389,"Delhi, Delhi",Hyundai,Tucson,732659,,,,30.04,,,2025-07-02T11:51:40.850803,cardekho,CVT,EX,cardekho_000733,2023
+1,olx,740139,0.73,Hybrid,12760,"Indore, Madhya Pradesh",Skoda,Unknown,,,,740139,58.0,,,2025-07-02T11:51:40.850803,olx,AMT,Mid,olx_000734,2023
+3,carwale,1477165,0.6,Electric,46660,"Indore, Madhya Pradesh",BMW,X1,,,1477165,,31.66,,,2025-07-02T11:51:40.850803,carwale,AMT,SX,carwale_000735,2021
+3,sahivalue,656583,0.6,CNG,46648,"Bangalore, Karnataka",Honda,Amaze,,,,,14.08,656583,,2025-07-02T11:51:40.850803,sahivalue,Manual,LX,sahivalue_000736,2021
+4,carwale,388172,0.68,Petrol,36285,"Nagpur, Maharashtra",Chevrolet,Unknown,,,388172,,10.7,,,2025-07-02T11:51:40.850803,carwale,Automatic,EX,carwale_000737,2020
+0,spinny,728192,1.0,Electric,2032,"Kolkata, West Bengal",Skoda,Unknown,,,,,358.36,,728192,2025-07-02T11:51:40.850803,spinny,AMT,Base,spinny_000738,2024
+0,olx,759887,1.0,Electric,0,"Indore, Madhya Pradesh",Tata,Safari,,,,759887,759887.0,,,2025-07-02T11:51:40.850803,olx,AMT,ZX,olx_000739,2024
+2,sahivalue,712372,0.65,Hybrid,30422,"Nagpur, Maharashtra",Kia,Unknown,,,,,23.42,712372,,2025-07-02T11:51:40.850803,sahivalue,AMT,LX,sahivalue_000740,2022
+0,spinny,852669,1.0,Diesel,2427,"Lucknow, Uttar Pradesh",Renault,Unknown,,,,,351.33,,852669,2025-07-02T11:51:40.850803,spinny,Manual,EX,spinny_000741,2024
+0,carwale,857893,1.0,Hybrid,1927,"Pune, Maharashtra",Hyundai,Tucson,,,857893,,445.2,,,2025-07-02T11:51:40.850803,carwale,Automatic,VX,carwale_000742,2024
+0,cartrade,2716844,1.0,Electric,1872,"Mumbai, Maharashtra",Audi,A4,,2716844,,,1451.31,,,2025-07-02T11:51:40.850803,cartrade,AMT,Base,cartrade_000743,2024
+4,carwale,313731,0.58,Hybrid,59031,"Jaipur, Rajasthan",Maruti Suzuki,Ciaz,,,313731,,5.31,,,2025-07-02T11:51:40.850803,carwale,Manual,EX,carwale_000744,2020
+5,cartrade,416308,0.46,Petrol,96154,"Pune, Maharashtra",Mahindra,Marazzo,,416308,,,4.33,,,2025-07-02T11:51:40.850803,cartrade,AMT,Base,cartrade_000745,2019
+0,cartrade,784102,1.0,Petrol,2979,"Nagpur, Maharashtra",Skoda,Unknown,,784102,,,263.21,,,2025-07-02T11:51:40.850803,cartrade,Automatic,Base,cartrade_000746,2024
+4,spinny,533010,0.63,CNG,46755,"Kanpur, Uttar Pradesh",Honda,CR-V,,,,,11.4,,533010,2025-07-02T11:51:40.850803,spinny,Manual,SX,spinny_000747,2020
+8,carwale,203946,0.51,Petrol,76536,"Lucknow, Uttar Pradesh",Hyundai,Tucson,,,203946,,2.66,,,2025-07-02T11:51:40.850803,carwale,Automatic,ZX,carwale_000748,2016
+0,carwale,762549,1.0,Diesel,1646,"Jaipur, Rajasthan",Tata,Hexa,,,762549,,463.27,,,2025-07-02T11:51:40.850803,carwale,Manual,Base,carwale_000749,2024
+5,cardekho,313909,0.6,Electric,56180,"Bangalore, Karnataka",Tata,Tiago,313909,,,,5.59,,,2025-07-02T11:51:40.850803,cardekho,Automatic,SX,cardekho_000750,2019
+3,carwale,601794,0.75,Diesel,22335,"Mumbai, Maharashtra",Honda,Amaze,,,601794,,26.94,,,2025-07-02T11:51:40.850803,carwale,Automatic,ZX,carwale_000751,2021
+5,carwale,482008,0.46,Electric,95246,"Mumbai, Maharashtra",Volkswagen,Unknown,,,482008,,5.06,,,2025-07-02T11:51:40.850803,carwale,AMT,SX,carwale_000752,2019
+1,spinny,629301,0.7,Petrol,14563,"Mumbai, Maharashtra",Nissan,Unknown,,,,,43.21,,629301,2025-07-02T11:51:40.850803,spinny,CVT,VX,spinny_000753,2023
+9,spinny,240541,0.29,Petrol,178385,"Bhopal, Madhya Pradesh",Volkswagen,Unknown,,,,,1.35,,240541,2025-07-02T11:51:40.850803,spinny,CVT,SX,spinny_000754,2015
+4,olx,314387,0.48,Diesel,80094,"Thane, Maharashtra",Maruti Suzuki,Dzire,,,,314387,3.93,,,2025-07-02T11:51:40.850803,olx,Automatic,Base,olx_000755,2020
+8,olx,233030,0.42,Petrol,117402,"Indore, Madhya Pradesh",Nissan,Unknown,,,,233030,1.98,,,2025-07-02T11:51:40.850803,olx,AMT,VX,olx_000756,2016
+3,olx,524105,0.69,CNG,31570,"Bangalore, Karnataka",Kia,Unknown,,,,524105,16.6,,,2025-07-02T11:51:40.850803,olx,CVT,LX,olx_000757,2021
+8,carwale,231369,0.46,Hybrid,99335,"Lucknow, Uttar Pradesh",Kia,Unknown,,,231369,,2.33,,,2025-07-02T11:51:40.850803,carwale,AMT,EX,carwale_000758,2016
+1,carwale,776184,0.82,Hybrid,7902,"Bhopal, Madhya Pradesh",Kia,Unknown,,,776184,,98.23,,,2025-07-02T11:51:40.850803,carwale,CVT,EX,carwale_000759,2023
+0,cartrade,758640,1.0,Petrol,269,"Thane, Maharashtra",Chevrolet,Unknown,,758640,,,2820.22,,,2025-07-02T11:51:40.850803,cartrade,AMT,VX,cartrade_000760,2024
+4,olx,1570850,0.53,Electric,69366,"Chennai, Tamil Nadu",Audi,A6,,,,1570850,22.65,,,2025-07-02T11:51:40.850803,olx,Manual,Mid,olx_000761,2020
+0,sahivalue,848335,1.0,Petrol,0,"Kanpur, Uttar Pradesh",Renault,Unknown,,,,,848335.0,848335,,2025-07-02T11:51:40.850803,sahivalue,CVT,SX,sahivalue_000762,2024
+6,cartrade,304675,0.41,Electric,118479,"Pune, Maharashtra",Skoda,Unknown,,304675,,,2.57,,,2025-07-02T11:51:40.850803,cartrade,Manual,EX,cartrade_000763,2018
+6,sahivalue,278811,0.41,CNG,117287,"Pune, Maharashtra",Nissan,Unknown,,,,,2.38,278811,,2025-07-02T11:51:40.850803,sahivalue,CVT,ZX,sahivalue_000764,2018
+8,cartrade,199810,0.46,Hybrid,99697,"Kanpur, Uttar Pradesh",MG,Unknown,,199810,,,2.0,,,2025-07-02T11:51:40.850803,cartrade,Manual,SX,cartrade_000765,2016
+4,carwale,1264660,0.62,Hybrid,48478,"Bangalore, Karnataka",BMW,7 Series,,,1264660,,26.09,,,2025-07-02T11:51:40.850803,carwale,CVT,SX,carwale_000766,2020
+7,sahivalue,879183,0.44,Electric,111882,"Nagpur, Maharashtra",Audi,A6,,,,,7.86,879183,,2025-07-02T11:51:40.850803,sahivalue,Manual,Top,sahivalue_000767,2017
+9,olx,640852,0.45,Petrol,94027,"Pune, Maharashtra",Mercedes-Benz,GLE,,,,640852,6.82,,,2025-07-02T11:51:40.850803,olx,AMT,Mid,olx_000768,2015
+9,cartrade,166926,0.41,CNG,118106,"Nagpur, Maharashtra",Skoda,Unknown,,166926,,,1.41,,,2025-07-02T11:51:40.850803,cartrade,AMT,SX,cartrade_000769,2015
+9,sahivalue,225427,0.4,CNG,123575,"Mumbai, Maharashtra",Kia,Unknown,,,,,1.82,225427,,2025-07-02T11:51:40.850803,sahivalue,Automatic,LX,sahivalue_000770,2015
+3,spinny,1703055,0.68,CNG,32910,"Jaipur, Rajasthan",Mercedes-Benz,GLC,,,,,51.75,,1703055,2025-07-02T11:51:40.850803,spinny,Automatic,SX,spinny_000771,2021
+9,olx,179587,0.42,CNG,110404,"Kanpur, Uttar Pradesh",Renault,Unknown,,,,179587,1.63,,,2025-07-02T11:51:40.850803,olx,Manual,SX,olx_000772,2015
+0,spinny,848860,1.0,CNG,0,"Mumbai, Maharashtra",Renault,Unknown,,,,,848860.0,,848860,2025-07-02T11:51:40.850803,spinny,CVT,SX,spinny_000773,2024
+2,sahivalue,727836,0.67,Hybrid,27818,"Kanpur, Uttar Pradesh",Honda,City,,,,,26.16,727836,,2025-07-02T11:51:40.850803,sahivalue,CVT,VX,sahivalue_000774,2022
+3,spinny,503285,0.68,Electric,34116,"Pune, Maharashtra",Hyundai,Elite i20,,,,,14.75,,503285,2025-07-02T11:51:40.850803,spinny,CVT,EX,spinny_000775,2021
+8,cartrade,744276,0.39,Diesel,128862,"Jaipur, Rajasthan",BMW,Z4,,744276,,,5.78,,,2025-07-02T11:51:40.850803,cartrade,CVT,VX,cartrade_000776,2016
+9,olx,217739,0.48,Electric,81641,"Pune, Maharashtra",Honda,City,,,,217739,2.67,,,2025-07-02T11:51:40.850803,olx,Manual,EX,olx_000777,2015
+4,sahivalue,687375,0.54,Diesel,68551,"Pune, Maharashtra",Toyota,Urban Cruiser,,,,,10.03,687375,,2025-07-02T11:51:40.850803,sahivalue,Manual,Base,sahivalue_000778,2020
+5,cartrade,469620,0.46,Diesel,95746,"Jaipur, Rajasthan",Honda,WR-V,,469620,,,4.9,,,2025-07-02T11:51:40.850803,cartrade,Automatic,EX,cartrade_000779,2019
+9,olx,556463,0.48,CNG,82967,"Bhopal, Madhya Pradesh",BMW,X1,,,,556463,6.71,,,2025-07-02T11:51:40.850803,olx,Automatic,LX,olx_000780,2015
+5,spinny,395201,0.56,Hybrid,67890,"Thane, Maharashtra",Kia,Unknown,,,,,5.82,,395201,2025-07-02T11:51:40.850803,spinny,Automatic,Top,spinny_000781,2019
+4,sahivalue,1641500,0.52,Petrol,72790,"Chennai, Tamil Nadu",Mercedes-Benz,C-Class,,,,,22.55,1641500,,2025-07-02T11:51:40.850803,sahivalue,Manual,SX,sahivalue_000782,2020
+6,cardekho,342888,0.6,Electric,52507,"Ahmedabad, Gujarat",Kia,Unknown,342888,,,,6.53,,,2025-07-02T11:51:40.850803,cardekho,Automatic,ZX,cardekho_000783,2018
+9,cartrade,213226,0.42,CNG,110454,"Indore, Madhya Pradesh",Kia,Unknown,,213226,,,1.93,,,2025-07-02T11:51:40.850803,cartrade,CVT,SX,cartrade_000784,2015
+0,cardekho,2522066,1.0,Hybrid,0,"Thane, Maharashtra",BMW,X5,2522066,,,,2522066.0,,,2025-07-02T11:51:40.850803,cardekho,Automatic,ZX,cardekho_000785,2024
+7,olx,870390,0.38,CNG,135790,"Hyderabad, Telangana",Mercedes-Benz,A-Class,,,,870390,6.41,,,2025-07-02T11:51:40.850803,olx,Automatic,EX,olx_000786,2017
+8,spinny,254407,0.34,Hybrid,151930,"Chennai, Tamil Nadu",Honda,Civic,,,,,1.67,,254407,2025-07-02T11:51:40.850803,spinny,Manual,Top,spinny_000787,2016
+4,spinny,392472,0.66,Hybrid,40410,"Kolkata, West Bengal",Hyundai,Verna,,,,,9.71,,392472,2025-07-02T11:51:40.850803,spinny,AMT,EX,spinny_000788,2020
+6,spinny,299689,0.56,Hybrid,67176,"Indore, Madhya Pradesh",Nissan,Unknown,,,,,4.46,,299689,2025-07-02T11:51:40.850803,spinny,Automatic,Base,spinny_000789,2018
+9,cartrade,182385,0.4,CNG,121009,"Delhi, Delhi",Renault,Unknown,,182385,,,1.51,,,2025-07-02T11:51:40.850803,cartrade,Automatic,LX,cartrade_000790,2015
+4,olx,382416,0.5,Hybrid,76733,"Nagpur, Maharashtra",Skoda,Unknown,,,,382416,4.98,,,2025-07-02T11:51:40.850803,olx,Manual,Mid,olx_000791,2020
+9,cardekho,199612,0.46,Hybrid,93103,"Nagpur, Maharashtra",Mahindra,Bolero,199612,,,,2.14,,,2025-07-02T11:51:40.850803,cardekho,Automatic,ZX,cardekho_000792,2015
+9,cardekho,191138,0.34,Petrol,152727,"Ahmedabad, Gujarat",Jeep,Unknown,191138,,,,1.25,,,2025-07-02T11:51:40.850803,cardekho,AMT,LX,cardekho_000793,2015
+4,cardekho,436794,0.67,CNG,38195,"Nagpur, Maharashtra",Skoda,Unknown,436794,,,,11.44,,,2025-07-02T11:51:40.850803,cardekho,AMT,Top,cardekho_000794,2020
+6,carwale,285552,0.45,Petrol,105714,"Nagpur, Maharashtra",Ford,Unknown,,,285552,,2.7,,,2025-07-02T11:51:40.850803,carwale,AMT,Base,carwale_000795,2018
+7,carwale,296452,0.42,Electric,119842,"Kanpur, Uttar Pradesh",Honda,CR-V,,,296452,,2.47,,,2025-07-02T11:51:40.850803,carwale,Manual,Top,carwale_000796,2017
+0,sahivalue,1265160,1.0,CNG,0,"Chennai, Tamil Nadu",Toyota,Yaris,,,,,1265160.0,1265160,,2025-07-02T11:51:40.850803,sahivalue,Manual,ZX,sahivalue_000797,2024
+5,cartrade,306902,0.53,Electric,76125,"Indore, Madhya Pradesh",Tata,Safari,,306902,,,4.03,,,2025-07-02T11:51:40.850803,cartrade,CVT,Mid,cartrade_000798,2019
+4,sahivalue,388074,0.61,Hybrid,52652,"Delhi, Delhi",Nissan,Unknown,,,,,7.37,388074,,2025-07-02T11:51:40.850803,sahivalue,AMT,EX,sahivalue_000799,2020
