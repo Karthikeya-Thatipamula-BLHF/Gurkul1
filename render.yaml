@@ -9,7 +9,8 @@ services:
     buildCommand: |
       cd Backend
       pip install --upgrade pip
-      pip install -r requirements_python311.txt
+      pip install "setuptools>=69.0.0" "wheel>=0.42.0"
+      pip install -r requirements_langchain_compatible.txt
     startCommand: |
       cd Backend
       python -m uvicorn main:app --host 0.0.0.0 --port $PORT

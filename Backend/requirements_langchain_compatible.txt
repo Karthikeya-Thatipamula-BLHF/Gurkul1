@@ -1,0 +1,78 @@
+# ========================================
+# LANGCHAIN COMPATIBLE REQUIREMENTS
+# ========================================
+# Resolves langchain-core version conflicts
+
+# ========================================
+# BUILD DEPENDENCIES (PYTHON 3.12 FIX)
+# ========================================
+setuptools>=69.0.0
+wheel>=0.42.0
+
+# ========================================
+# CORE WEB FRAMEWORK
+# ========================================
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# ========================================
+# DATABASE DRIVERS
+# ========================================
+pymongo==4.6.0
+motor==3.3.2
+
+# ========================================
+# AUTHENTICATION & SECURITY
+# ========================================
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# ========================================
+# AI/ML LIBRARIES - COMPATIBLE VERSIONS
+# ========================================
+# LangChain ecosystem - Compatible versions that work together
+langchain-core==0.1.52
+langchain==0.1.20
+langchain-community==0.0.38
+langchain-openai==0.1.23
+langchain-google-genai==1.0.10
+langchain-groq==0.1.5  # Downgraded to compatible version
+langgraph==0.0.62      # Compatible with langchain 0.1.x
+
+# AI services
+openai==1.51.0
+google-generativeai==0.8.3
+groq==0.11.0
+
+# ========================================
+# DATA PROCESSING
+# ========================================
+numpy==1.24.4
+pandas==2.1.4
+
+# ========================================
+# HTTP & API CLIENTS
+# ========================================
+requests==2.31.0
+httpx==0.25.2
+
+# ========================================
+# UTILITIES
+# ========================================
+python-dateutil==2.8.2
+pytz==2023.3
+pyyaml==6.0.1
+
+# ========================================
+# SUPABASE CLIENT
+# ========================================
+supabase==2.0.0
+
+# ========================================
+# ADDITIONAL DEPENDENCIES
+# ========================================
+redis==5.0.1
+aioredis==2.0.1
